@@ -1,0 +1,24 @@
+* Type Evaluations & Type Choosing
+    * Make sure type-dependent variables are adjusted. 
+    * Make sure to recalculate scores (should be done in market.py)
+    * And calculate the change in wealth for each agent as they are upticked and append to the appropriate list.
+
+✔️ All paramaters need to be passed into a funciton
+
+* Orders for uptick()
+    ✔️ No fractional orders
+    ✔️ Make sure run() orders don't exceed cash balance
+
+* Some types seem to be functioning strangely
+    * Need to fix the crazy large order sizes
+
+* Write all data ending to LOG files
+    ✔️ Make sure that the market continues to test after training
+    * Save updated parameters to CSV
+
+* Data visualization
+
+* Update Model Training Data
+    * Train on 50%, test w/ 50%
+
+* Push to GIT
