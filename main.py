@@ -12,8 +12,8 @@ logging = Logger('main','./logs/market.LOG')
 model_log = Logger('model','./logs/model.LOG')
 
 '''Agents and Assets Created'''
-assets = ['AXP','AMGN','AAPL','BA','CAT'] # ,'CSCO','CVX','GS','HD','HON','IBM','INTC','JNJ','KO','JPM','MCD','MMM','MRK','MSFT','NKE','PG','TRV','UNH','CRM','VZ','V','WBA','WMT','DIS','DOW'
-agents = range(5) 
+assets = ['AXP','AMGN','AAPL','BA'] # ,'CAT','CSCO','CVX','GS','HD','HON','IBM','INTC','JNJ','KO','JPM','MCD','MMM','MRK','MSFT','NKE','PG','TRV','UNH','CRM','VZ','V','WBA','WMT','DIS','DOW'
+agents = range(3) 
 
 '''Train Model'''
 def gradient(args=None):
@@ -78,7 +78,7 @@ def train(model=None, learn_rate=0.05, n_iter=5, adj_factor=0.01):
         model.uptick()
         print("Training: Model Upticked")
 
-def test(model=None, n_iter=range(10)):
+def test(model=None, n_iter=range(1)):
     for _ in n_iter:
         model.uptick()
         print("Testing: Model Upticked")

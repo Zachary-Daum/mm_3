@@ -99,7 +99,7 @@ class Agent:
 
             j += 1
 
-        return sum / self.tick
+        return (sum / self.tick)
 
     def calc_risk_aversion(self, asset_obj=None, universal_risk_aversion=None, misalignment_sensativity=None):
         if self.type == 0:
@@ -112,7 +112,7 @@ class Agent:
 
     @staticmethod
     def calc_optimal_shares(expected_returns=None, risk_aversion=None, returns_variance=None):
-        optimal_shares = expected_returns / ( risk_aversion * returns_variance )
+        optimal_shares = math.floor( expected_returns / ( risk_aversion * returns_variance ) )
         return optimal_shares if optimal_shares > 0 else 0
      
     def calc_wealth(self, asset_dict=None):
@@ -125,7 +125,7 @@ class Agent:
         wealth = self.cash + sum
         return wealth
 
-    def eval_type(self):
+    '''def eval_type(self):
         type_change_proclivity = self.params.at['type_change_proclivity']
         # Evauluate sum first bc it is used multiple times
         sum = 0
@@ -138,7 +138,7 @@ class Agent:
             return probability
 
         selected_type = random.choices([0,1,2], weights = [calc_choice_probability(0),calc_choice_probability(1),calc_choice_probability(2)])
-        return selected_type
+        return selected_type'''
         
     # === Functions === #
     def init_ops(self,asset_dict=None):
@@ -185,7 +185,7 @@ class Agent:
         # - Update self.vars DF - #
         cash = self.vars.at[self.tick,'cash'] # Temporary
         
-        self.vars = self.vars.append({'type':self.eval_type,'cash':cash,'holdings':holdings}, ignore_index=True)
+        self.vars = self.vars.append({'type':self.vars.at[self.tick-1,'type'],'cash':cash,'holdings':holdings}, ignore_index=True)
 
     def run(self,params=None,asset_dict=None):
         for asset in asset_dict:
@@ -251,7 +251,6 @@ class Agent:
     def uptick(self,params=None,asset_dict=None):
         # - Prep Uptick - #
         self.prep_uptick(asset_dict)
-        agent_log.debug(self.ops)
 
         self.tick += 1
 
@@ -337,12 +336,24 @@ class Agent:
 
 
             else:
-                order_book.info(f"Agent {self.name} passed.")
+                order_book.info(f"Agent {self.name} passed on {asset}.")
 
         # - Record Uptick - #
-        agent_log.debug(f"Asset {self.name} uptick to {self.tick}.")
+        agent_log.debug(f"""
+        ==== Agent {self.name} [{self.vars.at[self.tick,'type']}] | Tick: {self.tick} ====
+        --- Price Expectations ---
+        {self.ops.at[self.tick,'price_expectations']}
+        --- Expected Returns ---
+        {self.ops.at[self.tick,'expected_returns']}
+        --- Returns Variance ---
+        {self.ops.at[self.tick,'returns_variance']}
+        --- Risk Aversion ---
+        {self.ops.at[self.tick,'risk_aversion']}
+        --- Optimal Shares ---
+        {self.ops.at[self.tick,'optimal_shares']}
+        --- Holdings ---
+        {self.vars.at[self.tick,'holdings']}
+        """)
 
         # Append chage in wealth to type
 
-        temp = self.ops.at[self.tick,'price_expectations']
-        agent_log.debug(f'Price expectations: {temp}\n')

@@ -1,0 +1,75 @@
+04-07-2021 19:53:49 DEBUG Created asset 0
+04-07-2021 19:53:49 DEBUG Created asset 1
+04-07-2021 19:53:49 DEBUG Created asset 2
+04-07-2021 19:53:50 INFO Agent 0 passed on AXP.
+04-07-2021 19:53:50 INFO Agent 0 bought 1891 shares of AMGN.
+04-07-2021 19:53:50 INFO Agent 0 bought 0 shares of AAPL.
+04-07-2021 19:53:50 INFO Agent 0 bought 0 shares of BA.
+04-07-2021 19:53:50 INFO Agent 1 passed on AXP.
+04-07-2021 19:53:50 INFO Agent 1 bought 911 shares of AMGN.
+04-07-2021 19:53:50 INFO Agent 1 bought 0 shares of AAPL.
+04-07-2021 19:53:50 INFO Agent 1 bought 0 shares of BA.
+04-07-2021 19:53:50 INFO Agent 2 passed on AXP.
+04-07-2021 19:53:50 INFO Agent 2 bought 523 shares of AMGN.
+04-07-2021 19:53:50 INFO Agent 2 bought 0 shares of AAPL.
+04-07-2021 19:53:50 INFO Agent 2 bought 0 shares of BA.
+04-07-2021 19:53:52 INFO Agent 0 bought 0 shares of AXP.
+04-07-2021 19:53:52 INFO Agent 0 sold 1891 shares of AMGN.
+04-07-2021 19:53:52 INFO Agent 0 passed on AAPL.
+04-07-2021 19:53:52 INFO Agent 0 passed on BA.
+04-07-2021 19:53:52 INFO Agent 1 passed on AXP.
+04-07-2021 19:53:52 INFO Agent 1 bought 0 shares of AMGN.
+04-07-2021 19:53:52 INFO Agent 1 bought 0 shares of AAPL.
+04-07-2021 19:53:52 INFO Agent 1 bought 0 shares of BA.
+04-07-2021 19:53:52 INFO Agent 2 passed on AXP.
+04-07-2021 19:53:52 INFO Agent 2 sold 523 shares of AMGN.
+04-07-2021 19:53:52 INFO Agent 2 passed on AAPL.
+04-07-2021 19:53:52 INFO Agent 2 passed on BA.
+04-07-2021 19:53:53 INFO Agent 0 bought 3094 shares of AXP.
+04-07-2021 19:53:53 INFO Agent 0 passed on AMGN.
+04-07-2021 19:53:53 INFO Agent 0 passed on AAPL.
+04-07-2021 19:53:53 INFO Agent 0 passed on BA.
+04-07-2021 19:53:53 INFO Agent 1 passed on AXP.
+04-07-2021 19:53:53 INFO Agent 1 bought 0 shares of AMGN.
+04-07-2021 19:53:53 INFO Agent 1 bought 0 shares of AAPL.
+04-07-2021 19:53:53 INFO Agent 1 bought 0 shares of BA.
+04-07-2021 19:53:53 INFO Agent 2 passed on AXP.
+04-07-2021 19:53:53 INFO Agent 2 passed on AMGN.
+04-07-2021 19:53:53 INFO Agent 2 passed on AAPL.
+04-07-2021 19:53:53 INFO Agent 2 passed on BA.
+04-07-2021 19:53:54 INFO Agent 0 bought 0 shares of AXP.
+04-07-2021 19:53:54 INFO Agent 0 passed on AMGN.
+04-07-2021 19:53:54 INFO Agent 0 passed on AAPL.
+04-07-2021 19:53:54 INFO Agent 0 passed on BA.
+04-07-2021 19:53:54 INFO Agent 1 passed on AXP.
+04-07-2021 19:53:54 INFO Agent 1 sold 911 shares of AMGN.
+04-07-2021 19:53:54 INFO Agent 1 passed on AAPL.
+04-07-2021 19:53:54 INFO Agent 1 passed on BA.
+04-07-2021 19:53:55 INFO Agent 2 passed on AXP.
+04-07-2021 19:53:55 INFO Agent 2 passed on AMGN.
+04-07-2021 19:53:55 INFO Agent 2 passed on AAPL.
+04-07-2021 19:53:55 INFO Agent 2 passed on BA.
+04-07-2021 19:53:56 INFO Agent 0 bought 0 shares of AXP.
+04-07-2021 19:53:56 INFO Agent 0 passed on AMGN.
+04-07-2021 19:53:56 INFO Agent 0 passed on AAPL.
+04-07-2021 19:53:56 INFO Agent 0 passed on BA.
+04-07-2021 19:53:56 INFO Agent 1 passed on AXP.
+04-07-2021 19:53:56 INFO Agent 1 passed on AMGN.
+04-07-2021 19:53:56 INFO Agent 1 passed on AAPL.
+04-07-2021 19:53:56 INFO Agent 1 passed on BA.
+04-07-2021 19:53:56 INFO Agent 2 passed on AXP.
+04-07-2021 19:53:56 INFO Agent 2 passed on AMGN.
+04-07-2021 19:53:56 INFO Agent 2 passed on AAPL.
+04-07-2021 19:53:56 INFO Agent 2 passed on BA.
+04-07-2021 19:53:56 INFO Agent 0 bought 0 shares of AXP.
+04-07-2021 19:53:56 INFO Agent 0 passed on AMGN.
+04-07-2021 19:53:56 INFO Agent 0 passed on AAPL.
+04-07-2021 19:53:56 INFO Agent 0 passed on BA.
+04-07-2021 19:53:56 INFO Agent 1 passed on AXP.
+04-07-2021 19:53:56 INFO Agent 1 passed on AMGN.
+04-07-2021 19:53:56 INFO Agent 1 passed on AAPL.
+04-07-2021 19:53:56 INFO Agent 1 passed on BA.
+04-07-2021 19:53:56 INFO Agent 2 passed on AXP.
+04-07-2021 19:53:56 INFO Agent 2 passed on AMGN.
+04-07-2021 19:53:56 INFO Agent 2 passed on AAPL.
+04-07-2021 19:53:56 INFO Agent 2 passed on BA.

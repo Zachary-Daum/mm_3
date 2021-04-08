@@ -16,9 +16,9 @@
     ✔️ Make sure that the market continues to test after training
     * Save updated parameters to CSV
 
-* Data visualization
+✔️ Data visualization
 
 * Update Model Training Data
     * Train on 50%, test w/ 50%
 
-* Push to GIT
+✔️ Push to GIT
