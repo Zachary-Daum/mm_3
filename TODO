@@ -1,8 +1,3 @@
-* Type Evaluations & Type Choosing
-    * Make sure type-dependent variables are adjusted. 
-    * Make sure to recalculate scores (should be done in market.py)
-    * And calculate the change in wealth for each agent as they are upticked and append to the appropriate list.
-
 ✔️ All paramaters need to be passed into a funciton
 
 * Orders for uptick()
@@ -26,3 +21,20 @@
 
 # FIXME:
 * Assets not saving to CSV
+* Price expectations too high (causing large purchases)
+
+# TODO:
+* Type Evaluations & Type Choosing
+    * Make sure type-dependent variables are adjusted. 
+    * Make sure to recalculate scores (should be done in market.py)
+    * And calculate the change in wealth for each agent as they are upticked and append to the appropriate list.
+
+# Possible Problems/Solutions
+
+* Universal Risk Aversion being too low
+    * Causes high optimal_shares
+    * Try: Generating random # from normal probability distribution.
+
+*❗ sum on price expectations for Momentum Traders & Contrarians is adding up to >1 (still w/in tolerable range)
+
+* Make sure paramters (not extrapolation_degree) cannot be negative
