@@ -39,8 +39,6 @@ class Agent:
 
         self.ops = pd.DataFrame({'price_expectations':[{},{}],'expected_returns':[{},{}],'returns_variance':[{},{}],'risk_aversion':[{},{}],'optimal_shares':[{},{}]})
 
-        order_book.debug(f"Created asset {name}")
-
     # === Utils === #
     # * Getters and setters for type, cash
     @property
@@ -70,6 +68,9 @@ class Agent:
         if self.type == 0:
             # Fundamentalist Expectation
             price_expectation = asset_price + reversion_factor * ( self.ops.at[self.tick-1,'price_expectations'][asset_obj.ticker] - asset_price )
+            if price_expectation < 0:
+                raise ValueError(f"Price Expectation cannot be lower than 0.\n\033[91mDEBUG: (Agent {self.name} [{self.type}] @ {self.tick})\033[0m")
+
             return price_expectation
 
         else:
@@ -82,6 +83,8 @@ class Agent:
                 j += 1
 
             price_expectation = asset_price + extrapolation_degree * memory * sum
+            if price_expectation < 0:
+                raise ValueError(f"Price Expectation cannot be lower than 0.\n\033[91mDEBUG: (Agent {self.name} [{self.type}] @ {self.tick})\033[0m")
             return price_expectation
 
     @staticmethod
@@ -93,7 +96,7 @@ class Agent:
         j = 1
         while j <= self.tick:
             temp1 = ( asset_obj.vars.at[j,'price'] - asset_obj.vars.at[j-1,'price'] ) / asset_obj.vars.at[j-1,'price']
-            temp2 = expected_returns / asset_obj.price
+            temp2 = (expected_returns - asset_obj.price ) / asset_obj.price
 
             sum += (temp1 - temp2)**2
 
@@ -112,7 +115,7 @@ class Agent:
 
     @staticmethod
     def calc_optimal_shares(expected_returns=None, risk_aversion=None, returns_variance=None):
-        optimal_shares = math.floor( expected_returns / ( risk_aversion * returns_variance ) )
+        optimal_shares = math.floor( 100 * expected_returns / ( risk_aversion * returns_variance ) ) # TESTING
         return optimal_shares if optimal_shares > 0 else 0
      
     def calc_wealth(self, asset_dict=None):
@@ -232,11 +235,10 @@ class Agent:
             '''
             if self.vars.at[self.tick,'holdings'][asset] < self._optimal_shares[asset]:
                 # "buy" order
-                order_size = math.floor ( self._optimal_shares[asset] - self.vars.at[self.tick,'holdings'][asset] )
-
+                order_size = math.floor( self._optimal_shares[asset] - self.vars.at[self.tick,'holdings'][asset] )
                 # Make sure buy price isn't greater than balance.
-                if order_size * asset_dict[asset].price > self.cash:
-                    order_size = math.floor( self.cash / asset_dict[asset].price )
+                '''if order_size * asset_dict[asset].price > self.cash:
+                    order_size = math.floor( self.cash / asset_dict[asset].price )''' # TESTING
 
                 asset_dict[asset]._bid_volume += order_size
 
@@ -300,22 +302,22 @@ class Agent:
 
                 order_price = order_size * asset_dict[asset].price
 
-                if order_price > self.cash:
+                '''if order_price > self.cash:
                     # Not enough money
                     order_size = math.floor( self.cash / asset_dict[asset].price )
 
-                    order_price = order_size * asset_dict[asset].price
+                    order_price = order_size * asset_dict[asset].price''' # TESTING
 
                 # Change cash levels 
-                self.vars.at[self.tick,'cash'] -= order_price
+                # self.vars.at[self.tick,'cash'] -= order_price TESTING
 
                 # Change Holdings
                 self.vars.at[self.tick,'holdings'][asset] += order_size
 
                 # Change volume
-                asset_dict[asset].update_bid_volume(order_size)
+                asset_dict[asset].vars.at[self.tick,'bid_volume'] += order_size
 
-                order_book.info(f'Agent {self.name} bought {order_size} shares of {asset}.')
+                order_book.info(f'Tick {self.tick}: Agent {self.name} bought {order_size} shares of {asset}.')
 
             elif self.vars.at[self.tick,'holdings'][asset] > self.ops.at[self.tick,'optimal_shares'][asset]:
                 # Sell
@@ -324,19 +326,19 @@ class Agent:
                 order_price = order_size * asset_dict[asset].price
 
                 # Add Balance 
-                self.vars.at[self.tick,'cash'] += order_price
+                # self.vars.at[self.tick,'cash'] += order_price TESTING
 
                 # Change Holdings
                 self.vars.at[self.tick,'holdings'][asset] -= order_size
 
                 # Change offer volume
-                asset_dict[asset].update_offer_volume(order_size)
+                asset_dict[asset].vars.at[self.tick,'offer_volume'] += order_size
 
-                order_book.info(f'Agent {self.name} sold {order_size} shares of {asset}.')
+                order_book.info(f'Tick {self.tick}: Agent {self.name} sold {order_size} shares of {asset}.')
 
 
             else:
-                order_book.info(f"Agent {self.name} passed on {asset}.")
+                order_book.info(f"Tick: {self.tick}: Agent {self.name} passed on {asset}.")
 
         # - Record Uptick - #
         agent_log.debug(f"""

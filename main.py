@@ -8,12 +8,15 @@ from copy import deepcopy
 
 import pandas as pd
 
+# Clear Logs Before Running
+from clear_logs import clr_logs
+
 logging = Logger('main','./logs/market.LOG')
 model_log = Logger('model','./logs/model.LOG')
 
 '''Agents and Assets Created'''
-assets = ['AXP','AMGN','AAPL','BA'] # ,'CAT','CSCO','CVX','GS','HD','HON','IBM','INTC','JNJ','KO','JPM','MCD','MMM','MRK','MSFT','NKE','PG','TRV','UNH','CRM','VZ','V','WBA','WMT','DIS','DOW'
-agents = range(3) 
+assets = ['AXP','AMGN','AAPL','BA','CAT','CSCO','CVX','GS','HD','HON','IBM','INTC','JNJ','KO','JPM'] # ,'MCD','MMM','MRK','MSFT','NKE','PG','TRV','UNH','CRM','VZ','V','WBA','WMT','DIS','DOW'
+agents = range(5) 
 
 '''Train Model'''
 def gradient(args=None):
@@ -41,7 +44,7 @@ def gradient(args=None):
     # Return slope of cost function dy/dx
     return (working_param ,( param_up_mse - param_down_mse ) / dx) # Return tuple of ([working_param],[slope])
 
-def train(model=None, learn_rate=0.05, n_iter=5, adj_factor=0.01):
+def train(model=None, learn_rate=10e-5, n_iter=10, adj_factor=0.1):
     # - Run Iterations - #
     for _ in range(n_iter):
         model_log.info(f'\n==== Initial Params ====\n{model.params}\n')
@@ -78,13 +81,12 @@ def train(model=None, learn_rate=0.05, n_iter=5, adj_factor=0.01):
         model.uptick()
         print("Training: Model Upticked")
 
-def test(model=None, n_iter=range(1)):
+def test(model=None, n_iter=range(5)):
     for _ in n_iter:
         model.uptick()
         print("Testing: Model Upticked")
 
     for agent in model.agent_dict:
-        #FIXME:
         working_agent = model.agent_dict[agent]
         working_agent.vars.to_csv(f'./model_data/agents/vars/{working_agent.name}_vars.csv',mode='w+')
         working_agent.ops.to_csv(f'./model_data/agents/ops/{working_agent.name}_ops.csv',mode='w+')
@@ -95,6 +97,9 @@ def test(model=None, n_iter=range(1)):
 
 
 if __name__ == "__main__":
+    # Clear Logs before running
+    clr_logs()
+
     '''Create Market'''
     simulation = Market(assets,agents)
 

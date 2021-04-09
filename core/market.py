@@ -7,7 +7,7 @@ import random
 
 class Market:
     def __init__(self,asset_range=None,agent_range=None):
-        self.tick = 0
+        self.tick = 1
         
         self.asset_dict = {}
         self.agent_dict = {}

@@ -17,8 +17,12 @@
     * Save updated parameters to CSV
 
 ✔️ Data visualization
+    * Add Volume bars on the bottom
 
 * Update Model Training Data
     * Train on 50%, test w/ 50%
 
 ✔️ Push to GIT
+
+# FIXME:
+* Assets not saving to CSV

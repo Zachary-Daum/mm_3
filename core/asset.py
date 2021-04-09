@@ -78,5 +78,15 @@ class Asset:
         # * Calculate the next price
         self.vars.at[self.tick+1,'price'] = self.adjust_price(price_change_factor=self.params.at['price_change_factor'],bid_volume=self.vars.at[self.tick,'bid_volume'],offer_volume=self.vars.at[self.tick,'offer_volume'])
 
-        self.vars.at[self.tick,'bid_volume'] = 0
-        self.vars.at[self.tick,'offer_volume'] = 0
+        asset_log.debug(f"""
+        ==== Asset {self.ticker} | Tick: {self.tick} ====
+        --- Price ---
+        {self.price}
+        --- Bid Volume ---
+        {self.vars.at[self.tick,'bid_volume']}
+        --- Offer Volume ---
+        {self.vars.at[self.tick,'offer_volume']}
+        """)
+
+        #self.vars.at[self.tick,'bid_volume'] = 0
+        #self.vars.at[self.tick,'offer_volume'] = 0

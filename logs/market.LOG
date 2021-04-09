@@ -1,153 +1,105 @@
-04-07-2021 19:53:50 INFO Agent 0 vars at 2:
-   type           cash                                   holdings
-0     0  428122.530977  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     0  428122.530977  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     0  428122.530977  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:34 INFO Agent 0 vars at 2:
+   type           cash                                           holdings
+0     2  927748.616221  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     2  927748.616221  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     2  927748.616221  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
 
-04-07-2021 19:53:50 INFO Agent 1 vars at 2:
-   type           cash                                   holdings
-0     1  206220.533678  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     1  206220.533678  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     1  206220.533678  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:35 INFO Agent 1 vars at 2:
+   type           cash                                           holdings
+0     0  409150.136216  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  409150.136216  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  409150.136216  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
 
-04-07-2021 19:53:50 INFO Agent 2 vars at 2:
-   type           cash                                   holdings
-0     2  118413.230778  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     2  118413.230778  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     2  118413.230778  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:35 INFO Agent 2 vars at 2:
+   type           cash                                           holdings
+0     0  891288.721642  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  891288.721642  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  891288.721642  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
 
-04-07-2021 19:53:52 INFO Agent 0 vars at 3:
-   type           cash                                      holdings
-0     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     0      94.669435  {'AXP': 0, 'AMGN': 1891, 'AAPL': 0, 'BA': 0}
-3     0      94.669435  {'AXP': 0, 'AMGN': 1891, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:35 INFO Agent 3 vars at 2:
+   type           cash                                           holdings
+0     0  449208.103613  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  449208.103613  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  449208.103613  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
 
-04-07-2021 19:53:52 INFO Agent 1 vars at 3:
-   type           cash                                     holdings
-0     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-3     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:35 INFO Agent 4 vars at 2:
+   type           cash                                           holdings
+0     2  374885.310385  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     2  374885.310385  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     2  374885.310385  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
 
-04-07-2021 19:53:52 INFO Agent 2 vars at 3:
-   type           cash                                     holdings
-0     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     2      32.177586  {'AXP': 0, 'AMGN': 523, 'AAPL': 0, 'BA': 0}
-3     2      32.177586  {'AXP': 0, 'AMGN': 523, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:51 INFO Agent 0 vars at 3:
+   type           cash                                           holdings
+0     2  927748.616221  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     2  927748.616221  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     2  927748.616221  {'AXP': 0, 'AMGN': 72, 'AAPL': 11, 'BA': 34, '...
+3     2  927748.616221  {'AXP': 0, 'AMGN': 72, 'AAPL': 11, 'BA': 34, '...
 
-04-07-2021 19:53:53 INFO Agent 0 vars at 4:
-   type           cash                                      holdings
-0     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     0      94.669435  {'AXP': 0, 'AMGN': 1891, 'AAPL': 0, 'BA': 0}
-3     0  428765.464052     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-4     0  428765.464052     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:51 INFO Agent 1 vars at 3:
+   type           cash                                           holdings
+0     0  409150.136216  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  409150.136216  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  409150.136216  {'AXP': 0, 'AMGN': 107, 'AAPL': 16, 'BA': 43, ...
+3     0  409150.136216  {'AXP': 0, 'AMGN': 107, 'AAPL': 16, 'BA': 43, ...
 
-04-07-2021 19:53:53 INFO Agent 1 vars at 4:
-   type           cash                                     holdings
-0     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-3     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-4     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:51 INFO Agent 2 vars at 3:
+   type           cash                                           holdings
+0     0  891288.721642  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  891288.721642  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  891288.721642  {'AXP': 0, 'AMGN': 2, 'AAPL': 0, 'BA': 1, 'CAT...
+3     0  891288.721642  {'AXP': 0, 'AMGN': 2, 'AAPL': 0, 'BA': 1, 'CAT...
 
-04-07-2021 19:53:53 INFO Agent 2 vars at 4:
-   type           cash                                     holdings
-0     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     2      32.177586  {'AXP': 0, 'AMGN': 523, 'AAPL': 0, 'BA': 0}
-3     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-4     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:51 INFO Agent 3 vars at 3:
+   type           cash                                           holdings
+0     0  449208.103613  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  449208.103613  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  449208.103613  {'AXP': 0, 'AMGN': 111, 'AAPL': 18, 'BA': 46, ...
+3     0  449208.103613  {'AXP': 0, 'AMGN': 111, 'AAPL': 18, 'BA': 46, ...
 
-04-07-2021 19:53:54 INFO Agent 0 vars at 5:
-   type           cash                                      holdings
-0     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     0      94.669435  {'AXP': 0, 'AMGN': 1891, 'AAPL': 0, 'BA': 0}
-3     0  428765.464052     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-4     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-5     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:53:51 INFO Agent 4 vars at 3:
+   type           cash                                           holdings
+0     2  374885.310385  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     2  374885.310385  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     2  374885.310385  {'AXP': 0, 'AMGN': 85, 'AAPL': 13, 'BA': 39, '...
+3     2  374885.310385  {'AXP': 0, 'AMGN': 85, 'AAPL': 13, 'BA': 39, '...
 
-04-07-2021 19:53:54 INFO Agent 1 vars at 5:
-   type           cash                                     holdings
-0     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-3     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-4     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-5     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:55:58 INFO Agent 0 vars at 4:
+   type           cash                                           holdings
+0     2  927748.616221  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     2  927748.616221  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     2  927748.616221  {'AXP': 0, 'AMGN': 72, 'AAPL': 11, 'BA': 34, '...
+3     2  927748.616221  {'AXP': 0, 'AMGN': 710, 'AAPL': 36, 'BA': 100,...
+4     2  927748.616221  {'AXP': 0, 'AMGN': 710, 'AAPL': 36, 'BA': 100,...
 
-04-07-2021 19:53:55 INFO Agent 2 vars at 5:
-   type           cash                                     holdings
-0     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     2      32.177586  {'AXP': 0, 'AMGN': 523, 'AAPL': 0, 'BA': 0}
-3     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-4     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-5     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:57:52 INFO Agent 1 vars at 4:
+   type           cash                                           holdings
+0     0  409150.136216  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  409150.136216  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  409150.136216  {'AXP': 0, 'AMGN': 107, 'AAPL': 16, 'BA': 43, ...
+3     0  409150.136216  {'AXP': 2, 'AMGN': 2081, 'AAPL': 44, 'BA': 138...
+4     0  409150.136216  {'AXP': 2, 'AMGN': 2081, 'AAPL': 44, 'BA': 138...
 
-04-07-2021 19:53:56 INFO Agent 0 vars at 6:
-   type           cash                                      holdings
-0     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     0      94.669435  {'AXP': 0, 'AMGN': 1891, 'AAPL': 0, 'BA': 0}
-3     0  428765.464052     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-4     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-5     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-6     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:57:52 INFO Agent 2 vars at 4:
+   type           cash                                           holdings
+0     0  891288.721642  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  891288.721642  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  891288.721642  {'AXP': 0, 'AMGN': 2, 'AAPL': 0, 'BA': 1, 'CAT...
+3     0  891288.721642  {'AXP': 55, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CA...
+4     0  891288.721642  {'AXP': 55, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CA...
 
-04-07-2021 19:53:56 INFO Agent 1 vars at 6:
-   type           cash                                     holdings
-0     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-3     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-4     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-5     1  206530.270342    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-6     1  206530.270342    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:57:52 INFO Agent 3 vars at 4:
+   type           cash                                           holdings
+0     0  449208.103613  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     0  449208.103613  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     0  449208.103613  {'AXP': 0, 'AMGN': 111, 'AAPL': 18, 'BA': 46, ...
+3     0  449208.103613  {'AXP': 0, 'AMGN': 1675, 'AAPL': 49, 'BA': 143...
+4     0  449208.103613  {'AXP': 0, 'AMGN': 1675, 'AAPL': 49, 'BA': 143...
 
-04-07-2021 19:53:56 INFO Agent 2 vars at 6:
-   type           cash                                     holdings
-0     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     2      32.177586  {'AXP': 0, 'AMGN': 523, 'AAPL': 0, 'BA': 0}
-3     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-4     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-5     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-6     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-
-04-07-2021 19:53:56 INFO Agent 0 vars at 7:
-   type           cash                                      holdings
-0     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     0  428122.530977     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     0      94.669435  {'AXP': 0, 'AMGN': 1891, 'AAPL': 0, 'BA': 0}
-3     0  428765.464052     {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-4     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-5     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-6     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-7     0      29.861391  {'AXP': 3094, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-
-04-07-2021 19:53:56 INFO Agent 1 vars at 7:
-   type           cash                                     holdings
-0     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     1  206220.533678    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-3     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-4     1      15.678118  {'AXP': 0, 'AMGN': 911, 'AAPL': 0, 'BA': 0}
-5     1  206530.270342    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-6     1  206530.270342    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-7     1  206530.270342    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-
-04-07-2021 19:53:56 INFO Agent 2 vars at 7:
-   type           cash                                     holdings
-0     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-1     2  118413.230778    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-2     2      32.177586  {'AXP': 0, 'AMGN': 523, 'AAPL': 0, 'BA': 0}
-3     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-4     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-5     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-6     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
-7     2  118591.048863    {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0}
+04-08-2021 10:57:52 INFO Agent 4 vars at 4:
+   type           cash                                           holdings
+0     2  374885.310385  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+1     2  374885.310385  {'AXP': 0, 'AMGN': 0, 'AAPL': 0, 'BA': 0, 'CAT...
+2     2  374885.310385  {'AXP': 0, 'AMGN': 85, 'AAPL': 13, 'BA': 39, '...
+3     2  374885.310385  {'AXP': 0, 'AMGN': 827, 'AAPL': 42, 'BA': 117,...
+4     2  374885.310385  {'AXP': 0, 'AMGN': 827, 'AAPL': 42, 'BA': 117,...
 

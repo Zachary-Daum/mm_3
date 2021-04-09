@@ -1,75 +1,225 @@
-04-07-2021 19:53:49 DEBUG Created asset 0
-04-07-2021 19:53:49 DEBUG Created asset 1
-04-07-2021 19:53:49 DEBUG Created asset 2
-04-07-2021 19:53:50 INFO Agent 0 passed on AXP.
-04-07-2021 19:53:50 INFO Agent 0 bought 1891 shares of AMGN.
-04-07-2021 19:53:50 INFO Agent 0 bought 0 shares of AAPL.
-04-07-2021 19:53:50 INFO Agent 0 bought 0 shares of BA.
-04-07-2021 19:53:50 INFO Agent 1 passed on AXP.
-04-07-2021 19:53:50 INFO Agent 1 bought 911 shares of AMGN.
-04-07-2021 19:53:50 INFO Agent 1 bought 0 shares of AAPL.
-04-07-2021 19:53:50 INFO Agent 1 bought 0 shares of BA.
-04-07-2021 19:53:50 INFO Agent 2 passed on AXP.
-04-07-2021 19:53:50 INFO Agent 2 bought 523 shares of AMGN.
-04-07-2021 19:53:50 INFO Agent 2 bought 0 shares of AAPL.
-04-07-2021 19:53:50 INFO Agent 2 bought 0 shares of BA.
-04-07-2021 19:53:52 INFO Agent 0 bought 0 shares of AXP.
-04-07-2021 19:53:52 INFO Agent 0 sold 1891 shares of AMGN.
-04-07-2021 19:53:52 INFO Agent 0 passed on AAPL.
-04-07-2021 19:53:52 INFO Agent 0 passed on BA.
-04-07-2021 19:53:52 INFO Agent 1 passed on AXP.
-04-07-2021 19:53:52 INFO Agent 1 bought 0 shares of AMGN.
-04-07-2021 19:53:52 INFO Agent 1 bought 0 shares of AAPL.
-04-07-2021 19:53:52 INFO Agent 1 bought 0 shares of BA.
-04-07-2021 19:53:52 INFO Agent 2 passed on AXP.
-04-07-2021 19:53:52 INFO Agent 2 sold 523 shares of AMGN.
-04-07-2021 19:53:52 INFO Agent 2 passed on AAPL.
-04-07-2021 19:53:52 INFO Agent 2 passed on BA.
-04-07-2021 19:53:53 INFO Agent 0 bought 3094 shares of AXP.
-04-07-2021 19:53:53 INFO Agent 0 passed on AMGN.
-04-07-2021 19:53:53 INFO Agent 0 passed on AAPL.
-04-07-2021 19:53:53 INFO Agent 0 passed on BA.
-04-07-2021 19:53:53 INFO Agent 1 passed on AXP.
-04-07-2021 19:53:53 INFO Agent 1 bought 0 shares of AMGN.
-04-07-2021 19:53:53 INFO Agent 1 bought 0 shares of AAPL.
-04-07-2021 19:53:53 INFO Agent 1 bought 0 shares of BA.
-04-07-2021 19:53:53 INFO Agent 2 passed on AXP.
-04-07-2021 19:53:53 INFO Agent 2 passed on AMGN.
-04-07-2021 19:53:53 INFO Agent 2 passed on AAPL.
-04-07-2021 19:53:53 INFO Agent 2 passed on BA.
-04-07-2021 19:53:54 INFO Agent 0 bought 0 shares of AXP.
-04-07-2021 19:53:54 INFO Agent 0 passed on AMGN.
-04-07-2021 19:53:54 INFO Agent 0 passed on AAPL.
-04-07-2021 19:53:54 INFO Agent 0 passed on BA.
-04-07-2021 19:53:54 INFO Agent 1 passed on AXP.
-04-07-2021 19:53:54 INFO Agent 1 sold 911 shares of AMGN.
-04-07-2021 19:53:54 INFO Agent 1 passed on AAPL.
-04-07-2021 19:53:54 INFO Agent 1 passed on BA.
-04-07-2021 19:53:55 INFO Agent 2 passed on AXP.
-04-07-2021 19:53:55 INFO Agent 2 passed on AMGN.
-04-07-2021 19:53:55 INFO Agent 2 passed on AAPL.
-04-07-2021 19:53:55 INFO Agent 2 passed on BA.
-04-07-2021 19:53:56 INFO Agent 0 bought 0 shares of AXP.
-04-07-2021 19:53:56 INFO Agent 0 passed on AMGN.
-04-07-2021 19:53:56 INFO Agent 0 passed on AAPL.
-04-07-2021 19:53:56 INFO Agent 0 passed on BA.
-04-07-2021 19:53:56 INFO Agent 1 passed on AXP.
-04-07-2021 19:53:56 INFO Agent 1 passed on AMGN.
-04-07-2021 19:53:56 INFO Agent 1 passed on AAPL.
-04-07-2021 19:53:56 INFO Agent 1 passed on BA.
-04-07-2021 19:53:56 INFO Agent 2 passed on AXP.
-04-07-2021 19:53:56 INFO Agent 2 passed on AMGN.
-04-07-2021 19:53:56 INFO Agent 2 passed on AAPL.
-04-07-2021 19:53:56 INFO Agent 2 passed on BA.
-04-07-2021 19:53:56 INFO Agent 0 bought 0 shares of AXP.
-04-07-2021 19:53:56 INFO Agent 0 passed on AMGN.
-04-07-2021 19:53:56 INFO Agent 0 passed on AAPL.
-04-07-2021 19:53:56 INFO Agent 0 passed on BA.
-04-07-2021 19:53:56 INFO Agent 1 passed on AXP.
-04-07-2021 19:53:56 INFO Agent 1 passed on AMGN.
-04-07-2021 19:53:56 INFO Agent 1 passed on AAPL.
-04-07-2021 19:53:56 INFO Agent 1 passed on BA.
-04-07-2021 19:53:56 INFO Agent 2 passed on AXP.
-04-07-2021 19:53:56 INFO Agent 2 passed on AMGN.
-04-07-2021 19:53:56 INFO Agent 2 passed on AAPL.
-04-07-2021 19:53:56 INFO Agent 2 passed on BA.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 0 passed on AXP.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 72 shares of AMGN.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 11 shares of AAPL.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 34 shares of BA.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 9 shares of CAT.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 0 passed on CSCO.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 0 passed on CVX.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 29 shares of GS.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 9 shares of HD.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 126 shares of HON.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 0 passed on IBM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 0 passed on INTC.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 0 passed on JNJ.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 21 shares of KO.
+04-08-2021 10:53:35 INFO Tick 2: Agent 0 bought 53 shares of JPM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 1 passed on AXP.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 107 shares of AMGN.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 16 shares of AAPL.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 43 shares of BA.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 30 shares of CAT.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 1 passed on CSCO.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 1 passed on CVX.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 62 shares of GS.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 10 shares of HD.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 162 shares of HON.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 1 passed on IBM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 1 passed on INTC.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 1 passed on JNJ.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 27 shares of KO.
+04-08-2021 10:53:35 INFO Tick 2: Agent 1 bought 59 shares of JPM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on AXP.
+04-08-2021 10:53:35 INFO Tick 2: Agent 2 bought 2 shares of AMGN.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on AAPL.
+04-08-2021 10:53:35 INFO Tick 2: Agent 2 bought 1 shares of BA.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on CAT.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on CSCO.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on CVX.
+04-08-2021 10:53:35 INFO Tick 2: Agent 2 bought 1 shares of GS.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on HD.
+04-08-2021 10:53:35 INFO Tick 2: Agent 2 bought 4 shares of HON.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on IBM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on INTC.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on JNJ.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 2 passed on KO.
+04-08-2021 10:53:35 INFO Tick 2: Agent 2 bought 1 shares of JPM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 3 passed on AXP.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 111 shares of AMGN.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 18 shares of AAPL.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 46 shares of BA.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 33 shares of CAT.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 3 passed on CSCO.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 3 passed on CVX.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 66 shares of GS.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 12 shares of HD.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 164 shares of HON.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 3 passed on IBM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 3 passed on INTC.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 3 passed on JNJ.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 30 shares of KO.
+04-08-2021 10:53:35 INFO Tick 2: Agent 3 bought 63 shares of JPM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 4 passed on AXP.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 85 shares of AMGN.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 13 shares of AAPL.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 39 shares of BA.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 13 shares of CAT.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 4 passed on CSCO.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 4 passed on CVX.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 36 shares of GS.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 10 shares of HD.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 146 shares of HON.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 4 passed on IBM.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 4 passed on INTC.
+04-08-2021 10:53:35 INFO Tick: 2: Agent 4 passed on JNJ.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 25 shares of KO.
+04-08-2021 10:53:35 INFO Tick 2: Agent 4 bought 61 shares of JPM.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 0 passed on AXP.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 638 shares of AMGN.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 25 shares of AAPL.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 66 shares of BA.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 77 shares of CAT.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 0 passed on CSCO.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 5 shares of CVX.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 223 shares of GS.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 58 shares of HD.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 254 shares of HON.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 6 shares of IBM.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 0 passed on INTC.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 3 shares of JNJ.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 10 shares of KO.
+04-08-2021 10:53:51 INFO Tick 3: Agent 0 bought 139 shares of JPM.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 2 shares of AXP.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 1974 shares of AMGN.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 28 shares of AAPL.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 95 shares of BA.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 91 shares of CAT.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 1 passed on CSCO.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 1 shares of CVX.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 392 shares of GS.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 75 shares of HD.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 629 shares of HON.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 4 shares of IBM.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 1 passed on INTC.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 2 shares of JNJ.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 11 shares of KO.
+04-08-2021 10:53:51 INFO Tick 3: Agent 1 bought 247 shares of JPM.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 bought 55 shares of AXP.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 sold 2 shares of AMGN.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 2 passed on AAPL.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 sold 1 shares of BA.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 2 passed on CAT.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 bought 9 shares of CSCO.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 bought 24 shares of CVX.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 sold 1 shares of GS.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 2 passed on HD.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 sold 4 shares of HON.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 bought 91 shares of IBM.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 bought 19 shares of INTC.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 bought 42 shares of JNJ.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 2 passed on KO.
+04-08-2021 10:53:51 INFO Tick 3: Agent 2 sold 1 shares of JPM.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 3 passed on AXP.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 1564 shares of AMGN.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 31 shares of AAPL.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 97 shares of BA.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 93 shares of CAT.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 3 passed on CSCO.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 3 passed on CVX.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 357 shares of GS.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 78 shares of HD.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 540 shares of HON.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 1 shares of IBM.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 3 passed on INTC.
+04-08-2021 10:53:51 INFO Tick: 3: Agent 3 passed on JNJ.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 12 shares of KO.
+04-08-2021 10:53:51 INFO Tick 3: Agent 3 bought 234 shares of JPM.
+04-08-2021 10:53:52 INFO Tick: 3: Agent 4 passed on AXP.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 742 shares of AMGN.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 29 shares of AAPL.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 78 shares of BA.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 85 shares of CAT.
+04-08-2021 10:53:52 INFO Tick: 3: Agent 4 passed on CSCO.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 8 shares of CVX.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 254 shares of GS.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 68 shares of HD.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 300 shares of HON.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 6 shares of IBM.
+04-08-2021 10:53:52 INFO Tick: 3: Agent 4 passed on INTC.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 3 shares of JNJ.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 10 shares of KO.
+04-08-2021 10:53:52 INFO Tick 3: Agent 4 bought 165 shares of JPM.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 142 shares of AXP.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 40827 shares of AMGN.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 39 shares of AAPL.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 181 shares of BA.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 322 shares of CAT.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 7 shares of CSCO.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 68 shares of CVX.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 2271 shares of GS.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 405 shares of HD.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 6816 shares of HON.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 91 shares of IBM.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 7 shares of INTC.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 92 shares of JNJ.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 sold 19 shares of KO.
+04-08-2021 10:57:48 INFO Tick 4: Agent 0 bought 949 shares of JPM.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 205 shares of AXP.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 3117068 shares of AMGN.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 54 shares of AAPL.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 384 shares of BA.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 765 shares of CAT.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 8 shares of CSCO.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 90 shares of CVX.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 18402 shares of GS.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 1005 shares of HD.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 127517 shares of HON.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 123 shares of IBM.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 8 shares of INTC.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 123 shares of JNJ.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 sold 23 shares of KO.
+04-08-2021 10:57:52 INFO Tick 4: Agent 1 bought 4267 shares of JPM.
+04-08-2021 10:57:52 INFO Tick 4: Agent 2 bought 32 shares of AXP.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on AMGN.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on AAPL.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on BA.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on CAT.
+04-08-2021 10:57:52 INFO Tick 4: Agent 2 bought 1 shares of CSCO.
+04-08-2021 10:57:52 INFO Tick 4: Agent 2 bought 8 shares of CVX.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on GS.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on HD.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on HON.
+04-08-2021 10:57:52 INFO Tick 4: Agent 2 bought 32 shares of IBM.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on INTC.
+04-08-2021 10:57:52 INFO Tick 4: Agent 2 bought 16 shares of JNJ.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on KO.
+04-08-2021 10:57:52 INFO Tick: 4: Agent 2 passed on JPM.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 205 shares of AXP.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 2157523 shares of AMGN.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 56 shares of AAPL.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 342 shares of BA.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 651 shares of CAT.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 9 shares of CSCO.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 95 shares of CVX.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 12589 shares of GS.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 843 shares of HD.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 83760 shares of HON.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 129 shares of IBM.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 9 shares of INTC.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 128 shares of JNJ.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 sold 23 shares of KO.
+04-08-2021 10:57:52 INFO Tick 4: Agent 3 bought 3171 shares of JPM.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 165 shares of AXP.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 54773 shares of AMGN.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 45 shares of AAPL.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 211 shares of BA.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 376 shares of CAT.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 8 shares of CSCO.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 79 shares of CVX.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 2665 shares of GS.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 472 shares of HD.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 8202 shares of HON.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 108 shares of IBM.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 8 shares of INTC.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 108 shares of JNJ.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 sold 22 shares of KO.
+04-08-2021 10:57:52 INFO Tick 4: Agent 4 bought 1114 shares of JPM.
