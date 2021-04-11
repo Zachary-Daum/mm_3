@@ -9,6 +9,8 @@ logging = Logger('main','./logs/market.LOG')
 order_book = Logger('order_book','./logs/books.LOG')
 agent_log = Logger('agent_log','./logs/agents.LOG')
 
+debug_log = Logger('debug','./logs/DEBUG.LOG')
+
 class Agent:
     def __init__(self,name=None, type=None, reversion_factor=None, extrapolation_degree=None, memory=None, misalignment_sensativity=None, type_change_proclivity=None):
         self.name = name
@@ -26,7 +28,7 @@ class Agent:
         # - Variables - #
         # * NOTE: Type is only ever modified on upticks so it doesn't need a private variable
         self._cash = random.uniform(100_000,1_000_000)
-        self.vars = pd.DataFrame({'type':[0,0],'cash':[self._cash,self._cash],'holdings':[{},{}]}) # CHANGED TYPE TO 0
+        self.vars = pd.DataFrame({'type':[type,type],'cash':[self._cash,self._cash],'holdings':[{},{}]}) # CHANGED TYPE TO 0
 
         # - Operators - #
         # * Keep different set for runs() and make sure that gets regularly cleared
@@ -74,7 +76,7 @@ class Agent:
 
             if price_expectation < 0:
                 raise ValueError(f"Price Expectation cannot be lower than 0.\n\033[91mDEBUG: (Agent {self.name} [{self.type}] @ {self.tick})\033[0m")
-            
+
             return price_expectation
 
         else:
@@ -90,6 +92,7 @@ class Agent:
             price_expectation = asset_price + extrapolation_degree * memory * sum
             if price_expectation < 0:
                 raise ValueError(f"Price Expectation cannot be lower than 0.\n\033[91mDEBUG: (Agent {self.name} [{self.type}] @ {self.tick})\033[0m")
+
             return price_expectation
 
     @staticmethod
@@ -101,7 +104,7 @@ class Agent:
         j = 1
         while j <= self.tick:
             temp1 = ( asset_obj.vars.at[j,'price'] - asset_obj.vars.at[j-1,'price'] ) / asset_obj.vars.at[j-1,'price']
-            temp2 = (expected_returns - asset_obj.price ) / asset_obj.price
+            temp2 = (expected_returns - asset_obj.vars.at[self.tick,'price'] ) / asset_obj.vars.at[self.tick,'price']
 
             sum += (temp1 - temp2)**2
 
@@ -152,14 +155,14 @@ class Agent:
     def init_ops(self,asset_dict=None):
         for asset in asset_dict:
             '''All operators that the agent performs need to have initial values'''
-            self.ops.at[0,'price_expectations'][asset] = asset_dict[asset].price
+            self.ops.at[0,'price_expectations'][asset] = asset_dict[asset].vars.at[self.tick,'price']
             self.ops.at[0,'expected_returns'][asset] = 0
             self.ops.at[0,'returns_variance'][asset] = 1
             self.ops.at[0,'risk_aversion'][asset] = 0
             self.ops.at[0,'optimal_shares'][asset] = 0
 
             # Set the same values for t=1
-            self.ops.at[1,'price_expectations'][asset] = asset_dict[asset].price
+            self.ops.at[1,'price_expectations'][asset] = asset_dict[asset].vars.at[self.tick,'price']
             self.ops.at[1,'expected_returns'][asset] = 0
             self.ops.at[1,'returns_variance'][asset] = 1
             self.ops.at[1,'risk_aversion'][asset] = 0
@@ -281,6 +284,7 @@ class Agent:
                 current_price = working_asset.vars.at[self.tick,'price']
             )
 
+
             self.ops.at[self.tick,'returns_variance'][asset] = self.calc_returns_variance(
                 asset_obj = working_asset,
                 expected_returns = self.ops.at[self.tick,'expected_returns'][asset]
@@ -322,7 +326,7 @@ class Agent:
                 # Change volume
                 asset_dict[asset].vars.at[self.tick,'bid_volume'] += order_size
 
-                order_book.info(f'Tick {self.tick}: Agent {self.name} bought {order_size} shares of {asset}.')
+                order_book.info(f'Tick {self.tick}: Agent {self.name} [{self.type}] bought {order_size} shares of {asset}.')
 
             elif self.vars.at[self.tick,'holdings'][asset] > self.ops.at[self.tick,'optimal_shares'][asset]:
                 # Sell
@@ -339,11 +343,11 @@ class Agent:
                 # Change offer volume
                 asset_dict[asset].vars.at[self.tick,'offer_volume'] += order_size
 
-                order_book.info(f'Tick {self.tick}: Agent {self.name} sold {order_size} shares of {asset}.')
+                order_book.info(f'Tick {self.tick}: Agent {self.name} [{self.type}] sold {order_size} shares of {asset}.')
 
 
             else:
-                order_book.info(f"Tick: {self.tick}: Agent {self.name} passed on {asset}.")
+                order_book.info(f"Tick: {self.tick}: Agent {self.name} [{self.type}] passed on {asset}.")
 
         # - Record Uptick - #
         agent_log.debug(f"""

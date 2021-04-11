@@ -1,860 +1,680 @@
-04-11-2021 11:54:28 INFO 
+04-11-2021 16:59:37 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343966
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.007801
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.008792
-JNJ_price_change_factor       0.001014
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004523
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005738
-0_reversion_factor            0.987718
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972212
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219536
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678461
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892146
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023760
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267734
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861043
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467460
+AXP_price_change_factor       0.008656
+AMGN_price_change_factor      0.003217
+AAPL_price_change_factor      0.008658
+BA_price_change_factor        0.008042
+                                ...   
+9_reversion_factor            0.725939
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146438
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:31 INFO 
+04-11-2021 16:59:48 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 2.704615442464479), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', -48.022579080876234), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', -43.522108296199065), ('JNJ_price_change_factor', -0.37349371061279446), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', -8.723499944566528), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', -12.168197738447034), ('0_reversion_factor', -0.37368394288820717), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.37094825973805146), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', -0.6567822999164474), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.09067360487121368), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', -0.372400768227788), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.25954608672291934), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', -0.24664782724206524), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.02030572156691335), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', -0.4066218554824569), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.13167629303295514), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 2.5055968737481193), ('AXP_price_change_factor', -4.071838979672899), ('AMGN_price_change_factor', -1.0508794801599486), ('AAPL_price_change_factor', -0.254533168465384), ('BA_price_change_factor', -0.13725787317489524), ('CAT_price_change_factor', -7.013699040744982), ('CSCO_price_change_factor', -0.06828139454666204), ('CVX_price_change_factor', -78.8282917267254), ('GS_price_change_factor', -3.9735560640502454), ('HD_price_change_factor', -0.003037784803210375), ('HON_price_change_factor', -10.828508979550966), ('IBM_price_change_factor', -0.002139772615250557), ('INTC_price_change_factor', -0.03974020477764406), ('JNJ_price_change_factor', -1.5088631458943946), ('KO_price_change_factor', -0.0824629588928616), ('JPM_price_change_factor', -5.919439600943168), ('MCD_price_change_factor', -0.2914303376606475), ('MMM_price_change_factor', -0.5202343644588681), ('MRK_price_change_factor', -3.7988326871769527), ('MSFT_price_change_factor', -1.1984373377494806), ('NKE_price_change_factor', -0.0025277416232893923), ('PG_price_change_factor', -0.09656715117052128), ('TRV_price_change_factor', -0.3430238892882098), ('UNH_price_change_factor', -8.463889067884951), ('CRM_price_change_factor', -39.3469148484418), ('VZ_price_change_factor', -0.1817151069976375), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', -0.9246110338516833), ('WMT_price_change_factor', -5.394376942084409), ('DIS_price_change_factor', -22.097785980529352), ('DOW_price_change_factor', -6.38970432151791), ('0_reversion_factor', -0.25789285800660755), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.126621527546944), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', -0.13615517085553308), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.266176343334551), ('2_memory', -0.2939891445071996), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.11542375660345883), ('3_memory', -0.2793128332078143), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.09724766210144953), ('4_memory', -0.21570720202106486), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.21791594815583126), ('5_memory', -0.24224505387122397), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -0.11364670247718256), ('6_memory', -0.1327100809903492), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.13842317107947477), ('7_memory', -0.32971165634577027), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', 0.0), ('8_memory', -0.0024888488579988266), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.3241672632398096), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.1489399928232904), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:54:31 INFO 
+04-11-2021 16:59:48 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343939
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972208
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219543
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023762
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467435
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725942
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146437
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:32 INFO 
+04-11-2021 16:59:49 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343939
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972208
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219543
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023762
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467435
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725942
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146437
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:35 INFO 
+04-11-2021 17:00:00 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 0.0015847684780330993), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', 6.569690723021321e-05), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.0), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', -4.355176070147182e-05), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', -9.424131523957304e-07), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', -6.569690723021321e-05), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.11107387178150833), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 4.355176070147182e-05), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 9.424131523957304e-07), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 0.01916875296512793), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -8.166250448823155e-05), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 2.8926413816181785e-05), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.0020343600024014257), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 3.830483001544175e-05), ('2_memory', -0.0002275819037989179), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', -5.644241912527237e-05), ('3_memory', 0.00021577933175328506), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.00019157472547248354), ('4_memory', 0.00046901436995684177), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 2.5071804229530178e-05), ('5_memory', 5.120657608223289e-05), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', 0.00041457101712427685), ('6_memory', 0.0002847040373577496), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', -2.7853267247222127e-05), ('7_memory', 0.00019680996872420726), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -7.883174331010188e-06), ('8_memory', -7.393990323769163e-05), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -9.555622471213631e-05), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 7.691130124251252e-06), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:54:36 INFO 
+04-11-2021 17:00:00 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343939
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972208
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219543
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023761
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467435
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725942
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146437
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:36 INFO 
+04-11-2021 17:00:01 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343939
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972208
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219543
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023761
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467435
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725942
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146437
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:39 INFO 
+04-11-2021 17:00:14 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 0.0), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', 0.0), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.0), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.0), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0017167706257477378), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 1.3987330125693065), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', 0.0), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.0), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.27281844301640434), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.00029156184207235203), ('3_memory', 0.00029156184207235203), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.3902061662425427), ('4_memory', -0.7623475184105727), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.0), ('5_memory', 0.0), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -0.4746036502943285), ('6_memory', -0.43987975078602193), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.0), ('7_memory', 0.0005840537066803542), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.004924763683105682), ('8_memory', -0.02680183535769487), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', 0.0), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.0), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:54:40 INFO 
+04-11-2021 17:00:14 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343939
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972208
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219543
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023761
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467421
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725942
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146437
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:40 INFO 
+04-11-2021 17:00:14 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343939
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972208
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219543
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023761
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467421
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725942
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146437
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:43 INFO 
+04-11-2021 17:01:14 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', -0.11129142512897788), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', 0.010820698842320398), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', -0.026496190192044355), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.039924724782395005), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.002294549427474535), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.012732987165584853), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', -0.012597009150913385), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.014319768407988487), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.021349755644567425), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.002333185241616964), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 1.699810617368126), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.038022875463668004), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.0240154688351768), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.04116088536312179), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.026150794675973144), ('2_memory', -0.08083318617384982), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.006842259398931461), ('3_memory', -0.010095773265699215), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.4519115624603931), ('4_memory', -0.2761688539016005), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.014472780212025915), ('5_memory', -0.04028631913431946), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -0.4661125045268366), ('6_memory', -0.028523402105627982), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.003047584149538096), ('7_memory', -0.014651016305640141), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.020017827971858804), ('8_memory', -0.05133319424889593), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.05401442021876646), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.031562557879534214), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:54:44 INFO 
+04-11-2021 17:01:14 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343940
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972209
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219542
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023761
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467404
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725943
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146437
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:44 INFO 
+04-11-2021 17:01:15 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343940
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972209
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219542
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023761
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467404
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725943
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146437
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:48 INFO 
+04-11-2021 17:01:28 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 0.0), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', 0.0), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.0), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.0), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.29708465298131426), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 0.8642937466434442), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.1268768063510406), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.05743423186048813), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', -0.08067926086584465), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.07332916534377176), ('2_memory', -0.3849644265232577), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', -0.0002513773535262054), ('3_memory', 0.003911789509878361), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.1039482733669117), ('4_memory', 0.2798855762854324), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.012680167723660984), ('5_memory', -0.20893960077361884), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -0.06643022044802493), ('6_memory', 0.22294629158969848), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', -0.0002513773535262054), ('7_memory', 0.003522202292040033), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.008368679169596938), ('8_memory', -0.0239659886886201), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.16513138418193574), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.07731513387829958), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:54:48 INFO 
+04-11-2021 17:01:28 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343940
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972209
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219542
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023758
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467395
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725945
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146436
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:48 INFO 
+04-11-2021 17:01:29 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343940
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987722
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972209
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219542
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195974
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678464
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023758
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267738
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861042
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467395
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725945
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146436
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:52 INFO 
+04-11-2021 17:01:43 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 0.2950307695389931), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.08050818551323835), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.013937511894460686), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.261244230939901), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', -0.12254177503961738), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', -0.06340514108067574), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.008189207632790518), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', -0.05400892842396865), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', -0.0023841096107346527), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', -0.07663628553528645), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.00659078933452073), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 0.8360324707265587), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.06529066715122211), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.004675203511065318), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.061416108529658286), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0016211171562374727), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.06678026257332048), ('2_memory', -0.08566475309860544), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.0022825608204790626), ('3_memory', -0.022898836560250047), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.11507551954213047), ('4_memory', 0.07344037810050441), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.05130974599992011), ('5_memory', -0.19535473555053362), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -0.11305082829285329), ('6_memory', -0.1000941015836998), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.000941542158739983), ('7_memory', -0.025773212352109276), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.010423565583865813), ('8_memory', -0.03380605752526966), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.06861185129144243), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.020298611295270774), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:54:52 INFO 
+04-11-2021 17:01:43 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343937
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972209
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219540
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678465
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023759
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267739
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861041
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467387
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725945
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146436
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:52 INFO 
+04-11-2021 17:01:44 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343937
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972209
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219540
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678465
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023759
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267739
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861041
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467387
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725945
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146436
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:56 INFO 
+04-11-2021 17:01:59 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 0.0), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', 0.0), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.0), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.0), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.8684721927311401), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 2.1291948985527998), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.13793457907185447), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.10668839633902083), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.1321787599830726), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.007077520686444849), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.1424919948971759), ('2_memory', -0.2129238466586303), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.031281234117916945), ('3_memory', -0.2947530676749843), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.291544463420752), ('4_memory', -0.5336326862604257), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.11924018385050861), ('5_memory', -0.15994859889984614), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -0.3467468844583266), ('6_memory', -0.36082755207470063), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.05118275938414296), ('7_memory', -0.32700970482345326), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.007093287035107032), ('8_memory', -0.04516685667722564), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.18997970067099024), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.12588266171739138), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:54:56 INFO 
+04-11-2021 17:01:59 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343937
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972209
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219540
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678465
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023750
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267739
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861041
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467365
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725947
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146434
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:54:56 INFO 
+04-11-2021 17:02:00 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343937
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972209
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219540
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678465
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892143
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023750
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267739
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861041
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467365
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725947
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146434
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:55:01 INFO 
+04-11-2021 17:02:16 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 0.26185175675864425), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.023751800397242562), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.1377900192309367), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', -0.047304880955645334), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', -0.01234482667632042), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', -0.04291271345938874), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.10243758414854254), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', -0.04045591986471031), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.005282420985188718), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', -0.06350745493456822), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.02969591235634894), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 1.4970939606860556), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.09668868315405144), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.07974147952577004), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.1679568176366386), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.08220552000152814), ('2_memory', -0.23005848885622848), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.003076967524646701), ('3_memory', -0.04256982643808138), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.23410634916424256), ('4_memory', -0.4612829424527076), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.046620476374883424), ('5_memory', -0.1243408876510732), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -0.31115887692036326), ('6_memory', -0.38469835111485606), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.007821601459319094), ('7_memory', -0.09746604052196073), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.032315261336199885), ('8_memory', -0.06934740395642569), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.14502727523366676), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.10780222215904134), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:55:01 INFO 
+04-11-2021 17:02:16 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343934
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972207
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219540
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678465
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892142
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023750
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267740
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861041
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467350
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725949
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146433
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:55:01 INFO 
+04-11-2021 17:02:17 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343934
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972207
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219540
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678465
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892142
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023750
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267740
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861041
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467350
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725949
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146433
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:55:05 INFO 
+04-11-2021 17:02:34 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 0.0), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', 0.0), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.0), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.0), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.5159514662117859), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 2.4826232743295362), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.2014308330159098), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.3952225253071151), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', -0.18177647559203702), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.013392290849674193), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.2707414106953565), ('2_memory', -0.611148435551867), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.0583344688378995), ('3_memory', -0.4036059495323263), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.13030709917353223), ('4_memory', -0.20585438726731908), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.19453033503683548), ('5_memory', -0.3896209133291251), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -0.1558784676423075), ('6_memory', -0.1640958162433237), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.07330739798634633), ('7_memory', -0.45024072744720645), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.013408057198334156), ('8_memory', -0.039196841865452026), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.4210164272026695), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.46489174334017225), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:55:05 INFO 
+04-11-2021 17:02:34 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343934
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972207
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219540
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678465
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892142
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023745
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267740
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861041
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467326
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725953
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146429
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:55:05 INFO 
+04-11-2021 17:02:35 INFO 
 ==== Initial Params ====
-universal_risk_aversion       0.343934
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008501
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972207
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219540
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195975
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678465
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892142
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023745
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267740
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861041
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467326
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725953
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146429
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
-04-11-2021 11:55:09 INFO 
+04-11-2021 17:02:53 INFO 
 ==== Gradient ====
-[('universal_risk_aversion', 0.20703113090726255), ('AMGN_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.054817560418110034), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.031202627224682367), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.26627707793734245), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.24757510016653494), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', -0.16272736087491246), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', -0.052512892870173467), ('2_extrapolation_degree', 0.0), ('2_memory', 0.0), ('2_misalignment_sensativity', 0.18869022949114633), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', -0.08303942132341646), ('3_extrapolation_degree', 0.0), ('3_memory', 0.0), ('3_misalignment_sensativity', 0.011134329080428884), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', -0.07077362748695748), ('4_extrapolation_degree', 0.0), ('4_memory', 0.0), ('4_misalignment_sensativity', 0.0812614226538999), ('4_type_change_proclivity', 0.0)]
+[('universal_risk_aversion', 3.234779113458699), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', 0.007514685689335998), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.010364393490767121), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.9811887161795463), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0034369300241188228), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', -0.01363744438272363), ('2_memory', -0.033907198571170305), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', -0.010496471882630587), ('3_memory', 0.02636196227747689), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -0.876952894193801), ('4_memory', -2.0631158678711436), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', -0.012785034376485704), ('5_memory', -0.008693218357493926), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -1.1380489851787168), ('6_memory', -1.323800098980974), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', -0.007008069106109183), ('7_memory', 0.024175079329826765), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.04538154673853878), ('8_memory', -0.13637022520607722), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.002450825193394124), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.014475609183737248), ('9_type_change_proclivity', 0.0)]
 
-04-11-2021 11:55:09 INFO 
+04-11-2021 17:02:53 INFO 
 ==== Adjusted Params ====
-universal_risk_aversion       0.343932
-AMGN_price_change_factor      0.009000
-CSCO_price_change_factor      0.008500
-CVX_price_change_factor       0.008282
-GS_price_change_factor        0.007644
-HON_price_change_factor       0.009228
-JNJ_price_change_factor       0.001018
-KO_price_change_factor        0.002394
-MSFT_price_change_factor      0.004610
-TRV_price_change_factor       0.005383
-UNH_price_change_factor       0.008579
-DOW_price_change_factor       0.005859
-0_reversion_factor            0.987723
-0_extrapolation_degree        0.969877
-0_memory                      0.962112
-0_misalignment_sensativity    0.972204
-0_type_change_proclivity      0.934669
-1_reversion_factor            0.219538
-1_extrapolation_degree        0.336314
-1_memory                      0.463826
-1_misalignment_sensativity    0.195977
-1_type_change_proclivity      0.454088
-2_reversion_factor            0.678466
-2_extrapolation_degree       -0.496084
-2_memory                      0.382912
-2_misalignment_sensativity    0.892140
-2_type_change_proclivity      0.418740
-3_reversion_factor            0.023746
-3_extrapolation_degree       -0.857201
-3_memory                      0.380358
-3_misalignment_sensativity    0.830799
-3_type_change_proclivity      0.324968
-4_reversion_factor            0.267740
-4_extrapolation_degree       -0.599993
-4_memory                      0.577228
-4_misalignment_sensativity    0.861040
-4_type_change_proclivity      0.408459
-dtype: float64
+universal_risk_aversion       0.467293
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725953
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146428
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:02:54 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.467293
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725953
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146428
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:03:13 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 7.36020402709078), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.0009195682705875896), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.28761893826238616), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 1.2482303748394319), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.005579371887813878), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.132319586611076), ('2_memory', -0.26318264973595795), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.0121146127221472), ('3_memory', -0.18859562841655464), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -1.8569175546108507), ('4_memory', -3.456638815473685), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.08121180025110863), ('5_memory', -0.16255975221747931), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -2.233619939344016), ('6_memory', -1.9871077670234616), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.03601262568875718), ('7_memory', -0.201735209543088), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.07604943258797459), ('8_memory', -0.23232232819997645), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.1338977839721922), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.3584957954928836), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:03:13 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.467220
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725954
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146425
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:03:14 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.467220
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725954
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146425
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:03:32 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 11.360992548240695), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.508210495762329), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.5061435411744153), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 1.6904939535490016), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.0), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.35383267812729713), ('2_memory', -1.4223462697501255), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.016386640710406297), ('3_memory', -0.11386405681104605), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -2.479841934495566), ('4_memory', -4.042813087313273), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.10391114536706603), ('5_memory', -0.8327484088381754), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -2.848088467054457), ('6_memory', -2.239122080800322), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.03225684109724902), ('7_memory', -0.1570518280264288), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.130886081917021), ('8_memory', -0.3496608445555349), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.7691400290313366), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.5871476792314922), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:03:32 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.467106
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725962
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146419
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:03:34 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.467106
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725962
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146419
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:03:53 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 8.474467141204158), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.37873674142488767), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 1.00733899103294), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', -0.3403802170852499), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.037334074335144685), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.7191043650873397), ('2_memory', -1.4769519697218403), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.050157984646901355), ('3_memory', -0.5215126116663926), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -1.2055419601920114), ('4_memory', -1.3216843839350023), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.44484422688170433), ('5_memory', -1.2046027017455874), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -1.2861535487609954), ('6_memory', -0.46011638857988313), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.09629221174379143), ('7_memory', -0.9173833454996716), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.10234357238190217), ('8_memory', -0.25346407530083326), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.8747761685597011), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 1.1616698644102774), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:03:54 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.467021
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725971
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146407
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:03:55 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.467021
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725971
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146407
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:04:16 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 9.580439066102006), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.23249590945487508), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.6450458857320562), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.6019274378015371), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.05223898849543218), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.8580237596412266), ('2_memory', -1.7263824706797415), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.12391216074788769), ('3_memory', -0.5950883721889921), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -1.2821076134821041), ('4_memory', -2.1522440783933794), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.5665347121190978), ('5_memory', -1.4194023500274655), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -1.5575244536260868), ('6_memory', -1.582383104935321), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.15822211552511511), ('7_memory', -0.9276765520268615), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.11587441248603003), ('8_memory', -0.263356075910246), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.9841265990234804), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 1.7067374138081748), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:04:16 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.466925
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725980
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146390
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:04:17 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.466925
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725980
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146390
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:04:40 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 10.361660550709727), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.08548731875463123), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.9523176920651322), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 0.915844657282876), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.03754694276449477), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.7684712694838769), ('2_memory', -1.3292969962138956), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.20686869643143702), ('3_memory', -0.8772899464277772), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -1.640952260141253), ('4_memory', -2.703576474038245), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.5385877971050723), ('5_memory', -0.9445480572624865), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -1.912339033606445), ('6_memory', -1.943917492243119), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.2519627150995607), ('7_memory', -1.0329886235340302), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.10406714900635716), ('8_memory', -0.3017631067442972), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.8778737737547448), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 1.8038973181909723), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:04:40 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.466822
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725989
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146372
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:04:41 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.466822
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.725989
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146372
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:05:04 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 11.650198202640016), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.5116445062752462), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 1.288396673625769), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 2.0425286970095335), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', -0.017022576746130724), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.2938954106073677), ('2_memory', -1.8968638437403484), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', -0.07516263283637414), ('3_memory', 0.1388826933614773), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -2.320171735416201), ('4_memory', -4.469410707520414), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.026920252955155988), ('5_memory', -1.0003342607301668), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -2.900127399040091), ('6_memory', -3.414721703500705), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', -0.09726212812901203), ('7_memory', 0.14547273374803105), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.19368978560064143), ('8_memory', -0.42776893044909947), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -1.074291433013057), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.07318806988529047), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:05:04 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.466705
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726000
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146371
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:05:06 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.466705
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726000
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146371
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:05:29 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 47.43618301647208), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.24095787173488148), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 1.6359868376042996), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 18.79952237049613), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.10789212731170394), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 1.1198435191068157), ('2_memory', -3.1762808630063333), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.04262812625917434), ('3_memory', -0.7896780453519625), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -12.194415448212244), ('4_memory', -28.79770135096635), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.6705655580958592), ('5_memory', -2.057906352886416), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -14.795906823837583), ('6_memory', -18.435420619542384), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.10467311861296125), ('7_memory', -1.492622079871957), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.4635352092703471), ('8_memory', -1.2911647931504966), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -1.6450123439253517), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 3.1298813554802862), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:05:29 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.466231
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726016
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146340
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:05:31 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.466231
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726016
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146340
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:05:56 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 40.34160183199107), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.39315663276831003), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.879237594111224), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 3.2828181674426915), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.012337061013472095), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 0.5764546011884342), ('2_memory', -0.5450399934473182), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.17753238480207045), ('3_memory', -0.6098274485852073), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -10.923847522565477), ('4_memory', -13.143687650194291), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 0.4529430483761132), ('5_memory', -0.5987064737597514), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -11.691214545035375), ('6_memory', -5.044538119537929), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.2216828313191499), ('7_memory', -0.8632429458220336), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.631490194187645), ('8_memory', -1.7152654727392402), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -0.7819251907547553), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 0.8284498430010245), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:05:56 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.465828
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726024
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146332
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:05:57 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.465828
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726024
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146332
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:06:22 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 47.206910158891), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -0.022555361927025785), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 0.5383945188674488), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 5.2030714491784025), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.70310984655789), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 5.672979537090281), ('2_memory', -13.70040245481075), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.20783345805496012), ('3_memory', -1.1552291761266176), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -7.843279283126172), ('4_memory', -16.88949155936564), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 3.2129115034969757), ('5_memory', -10.03341469008216), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -9.496897299179459), ('6_memory', -10.374515460534273), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.40144452336710046), ('7_memory', -6.051428745633114), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -0.5566848979877115), ('8_memory', -1.286086054346356), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -1.769217606760467), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 27.073536341619704), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:06:22 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.465355
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726042
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146061
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:06:24 INFO 
+==== Initial Params ====
+universal_risk_aversion       0.465355
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726042
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146061
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
+
+04-11-2021 17:07:11 INFO 
+==== Gradient ====
+[('universal_risk_aversion', 84.54204759970246), ('AXP_price_change_factor', 0.0), ('AMGN_price_change_factor', 0.0), ('AAPL_price_change_factor', 0.0), ('BA_price_change_factor', 0.0), ('CAT_price_change_factor', 0.0), ('CSCO_price_change_factor', 0.0), ('CVX_price_change_factor', 0.0), ('GS_price_change_factor', 0.0), ('HD_price_change_factor', 0.0), ('HON_price_change_factor', 0.0), ('IBM_price_change_factor', 0.0), ('INTC_price_change_factor', 0.0), ('JNJ_price_change_factor', 0.0), ('KO_price_change_factor', 0.0), ('JPM_price_change_factor', 0.0), ('MCD_price_change_factor', 0.0), ('MMM_price_change_factor', 0.0), ('MRK_price_change_factor', 0.0), ('MSFT_price_change_factor', 0.0), ('NKE_price_change_factor', 0.0), ('PG_price_change_factor', 0.0), ('TRV_price_change_factor', 0.0), ('UNH_price_change_factor', 0.0), ('CRM_price_change_factor', 0.0), ('VZ_price_change_factor', 0.0), ('V_price_change_factor', 0.0), ('WBA_price_change_factor', 0.0), ('WMT_price_change_factor', 0.0), ('DIS_price_change_factor', 0.0), ('DOW_price_change_factor', 0.0), ('0_reversion_factor', -1.1360249800810607), ('0_extrapolation_degree', 0.0), ('0_memory', 0.0), ('0_misalignment_sensativity', 3.266158341729799), ('0_type_change_proclivity', 0.0), ('1_reversion_factor', 22.520367788173132), ('1_extrapolation_degree', 0.0), ('1_memory', 0.0), ('1_misalignment_sensativity', 0.07922759024676651), ('1_type_change_proclivity', 0.0), ('2_reversion_factor', 0.0), ('2_extrapolation_degree', 3.0340266542629024), ('2_memory', -3.6305942976786554), ('2_misalignment_sensativity', 0.0), ('2_type_change_proclivity', 0.0), ('3_reversion_factor', 0.0), ('3_extrapolation_degree', 0.45173292195602954), ('3_memory', -4.83869766936845), ('3_misalignment_sensativity', 0.0), ('3_type_change_proclivity', 0.0), ('4_reversion_factor', 0.0), ('4_extrapolation_degree', -19.27490463592374), ('4_memory', -39.2186677167053), ('4_misalignment_sensativity', 0.0), ('4_type_change_proclivity', 0.0), ('5_reversion_factor', 0.0), ('5_extrapolation_degree', 2.2282149756579273), ('5_memory', -3.586580323803936), ('5_misalignment_sensativity', 0.0), ('5_type_change_proclivity', 0.0), ('6_reversion_factor', 0.0), ('6_extrapolation_degree', -23.10763102912926), ('6_memory', -23.698080618850383), ('6_misalignment_sensativity', 0.0), ('6_type_change_proclivity', 0.0), ('7_reversion_factor', 0.0), ('7_extrapolation_degree', 0.8149452286913217), ('7_memory', -5.931617643545337), ('7_misalignment_sensativity', 0.0), ('7_type_change_proclivity', 0.0), ('8_reversion_factor', 0.0), ('8_extrapolation_degree', -1.2198843959626515), ('8_memory', -2.7406221700718802), ('8_misalignment_sensativity', 0.0), ('8_type_change_proclivity', 0.0), ('9_reversion_factor', -2.9755901448391597), ('9_extrapolation_degree', 0.0), ('9_memory', 0.0), ('9_misalignment_sensativity', 4.112077234374958), ('9_type_change_proclivity', 0.0)]
+
+04-11-2021 17:07:11 INFO 
+==== Adjusted Params ====
+universal_risk_aversion       0.464510
+AXP_price_change_factor       0.008697
+AMGN_price_change_factor      0.003227
+AAPL_price_change_factor      0.008660
+BA_price_change_factor        0.008044
+                                ...   
+9_reversion_factor            0.726072
+9_extrapolation_degree       -0.256003
+9_memory                      0.540514
+9_misalignment_sensativity    0.146020
+9_type_change_proclivity      0.732779
+Length: 81, dtype: float64
 
