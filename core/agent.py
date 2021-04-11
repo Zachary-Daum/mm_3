@@ -26,7 +26,7 @@ class Agent:
         # - Variables - #
         # * NOTE: Type is only ever modified on upticks so it doesn't need a private variable
         self._cash = random.uniform(100_000,1_000_000)
-        self.vars = pd.DataFrame({'type':[type,type],'cash':[self._cash,self._cash],'holdings':[{},{}]})
+        self.vars = pd.DataFrame({'type':[0,0],'cash':[self._cash,self._cash],'holdings':[{},{}]}) # CHANGED TYPE TO 0
 
         # - Operators - #
         # * Keep different set for runs() and make sure that gets regularly cleared
@@ -63,17 +63,22 @@ class Agent:
         # * Price expectations are for the price of an asset at t+1
         # * Params are passed as variables so that they can be changed from run() and uptick()
         # * The past expectations used are always from the last uptick()
-        asset_price = asset_obj.vars.at[self.tick,'price']
         
         if self.type == 0:
+            '''We write all these variables out ahead of time for debugging purposes'''
             # Fundamentalist Expectation
-            price_expectation = asset_price + reversion_factor * ( self.ops.at[self.tick-1,'price_expectations'][asset_obj.ticker] - asset_price )
+            current_price = asset_obj.vars.at[self.tick,'price']
+            last_price = asset_obj.vars.at[self.tick-1,'price']
+
+            price_expectation = current_price - reversion_factor * ( current_price - last_price ) 
+
             if price_expectation < 0:
                 raise ValueError(f"Price Expectation cannot be lower than 0.\n\033[91mDEBUG: (Agent {self.name} [{self.type}] @ {self.tick})\033[0m")
-
+            
             return price_expectation
 
         else:
+            asset_price = asset_obj.vars.at[self.tick,'price']
             # Momentum Trader & Contrarian Expectations
             sum = 0
             j = 0
@@ -203,7 +208,7 @@ class Agent:
 
             self._expected_returns[asset] = self.calc_expected_returns(
                 expected_price = self._price_expectations[asset],
-                current_price = working_asset.price # We don't use a similuated price here because prices are always calcuated for one tick ahead
+                current_price = working_asset.vars.at[self.tick,'price'] # We don't use a similuated price here because prices are always calcuated for one tick ahead
             )
 
             self._returns_variance[asset] = self.calc_returns_variance(
@@ -273,7 +278,7 @@ class Agent:
 
             self.ops.at[self.tick,'expected_returns'][asset] = self.calc_expected_returns(
                 expected_price = self.ops.at[self.tick,'price_expectations'][asset],
-                current_price = working_asset.price
+                current_price = working_asset.vars.at[self.tick,'price']
             )
 
             self.ops.at[self.tick,'returns_variance'][asset] = self.calc_returns_variance(

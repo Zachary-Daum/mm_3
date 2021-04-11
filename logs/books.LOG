@@ -1,300 +1,825 @@
-04-09-2021 10:15:34 INFO Tick: 2: Agent 0 passed on AXP.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 65 shares of AMGN.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 12 shares of AAPL.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 28 shares of BA.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 26 shares of CAT.
-04-09-2021 10:15:34 INFO Tick: 2: Agent 0 passed on CSCO.
-04-09-2021 10:15:34 INFO Tick: 2: Agent 0 passed on CVX.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 46 shares of GS.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 7 shares of HD.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 83 shares of HON.
-04-09-2021 10:15:34 INFO Tick: 2: Agent 0 passed on IBM.
-04-09-2021 10:15:34 INFO Tick: 2: Agent 0 passed on INTC.
-04-09-2021 10:15:34 INFO Tick: 2: Agent 0 passed on JNJ.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 19 shares of KO.
-04-09-2021 10:15:34 INFO Tick 2: Agent 0 bought 34 shares of JPM.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 1 passed on AXP.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 59 shares of AMGN.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 8 shares of AAPL.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 23 shares of BA.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 16 shares of CAT.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 1 passed on CSCO.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 1 passed on CVX.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 33 shares of GS.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 5 shares of HD.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 91 shares of HON.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 1 passed on IBM.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 1 passed on INTC.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 1 passed on JNJ.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 14 shares of KO.
-04-09-2021 10:15:44 INFO Tick 2: Agent 1 bought 32 shares of JPM.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 2 passed on AXP.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 19 shares of AMGN.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 3 shares of AAPL.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 8 shares of BA.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 5 shares of CAT.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 2 passed on CSCO.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 2 passed on CVX.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 11 shares of GS.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 2 shares of HD.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 28 shares of HON.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 2 passed on IBM.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 2 passed on INTC.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 2 passed on JNJ.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 5 shares of KO.
-04-09-2021 10:15:44 INFO Tick 2: Agent 2 bought 10 shares of JPM.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 3 passed on AXP.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 48 shares of AMGN.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 8 shares of AAPL.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 21 shares of BA.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 15 shares of CAT.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 3 passed on CSCO.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 3 passed on CVX.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 30 shares of GS.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 5 shares of HD.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 69 shares of HON.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 3 passed on IBM.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 3 passed on INTC.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 3 passed on JNJ.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 14 shares of KO.
-04-09-2021 10:15:44 INFO Tick 2: Agent 3 bought 28 shares of JPM.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 4 passed on AXP.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 58 shares of AMGN.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 10 shares of AAPL.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 25 shares of BA.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 21 shares of CAT.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 4 passed on CSCO.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 4 passed on CVX.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 38 shares of GS.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 6 shares of HD.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 78 shares of HON.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 4 passed on IBM.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 4 passed on INTC.
-04-09-2021 10:15:44 INFO Tick: 2: Agent 4 passed on JNJ.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 17 shares of KO.
-04-09-2021 10:15:44 INFO Tick 2: Agent 4 bought 32 shares of JPM.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 1 shares of AXP.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 171 shares of AMGN.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 12 shares of AAPL.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 45 shares of BA.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 39 shares of CAT.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 0 passed on CSCO.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 0 passed on CVX.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 186 shares of GS.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 23 shares of HD.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 3 shares of HON.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 0 passed on IBM.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 0 passed on INTC.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 0 passed on JNJ.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 103 shares of KO.
-04-09-2021 10:16:28 INFO Tick 3: Agent 0 bought 35 shares of JPM.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 1 passed on AXP.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 292 shares of AMGN.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 11 shares of AAPL.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 48 shares of BA.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 41 shares of CAT.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 1 passed on CSCO.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 1 passed on CVX.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 307 shares of GS.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 20 shares of HD.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 sold 7 shares of HON.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 1 shares of IBM.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 1 passed on INTC.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 1 passed on JNJ.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 125 shares of KO.
-04-09-2021 10:16:28 INFO Tick 3: Agent 1 bought 34 shares of JPM.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 13 shares of AXP.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 35 shares of AMGN.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 sold 1 shares of AAPL.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 1 shares of BA.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 4 shares of CAT.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 2 shares of CSCO.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 5 shares of CVX.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 55 shares of GS.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 3 shares of HD.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 sold 28 shares of HON.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 21 shares of IBM.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 4 shares of INTC.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 9 shares of JNJ.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 bought 26 shares of KO.
-04-09-2021 10:16:28 INFO Tick 3: Agent 2 sold 6 shares of JPM.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 3 passed on AXP.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 bought 143 shares of AMGN.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 bought 10 shares of AAPL.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 bought 36 shares of BA.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 bought 32 shares of CAT.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 3 passed on CSCO.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 3 passed on CVX.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 bought 157 shares of GS.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 bought 18 shares of HD.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 sold 4 shares of HON.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 3 passed on IBM.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 3 passed on INTC.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 3 passed on JNJ.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 bought 83 shares of KO.
-04-09-2021 10:16:28 INFO Tick 3: Agent 3 bought 25 shares of JPM.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 1 shares of AXP.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 158 shares of AMGN.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 12 shares of AAPL.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 42 shares of BA.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 38 shares of CAT.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 4 passed on CSCO.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 4 passed on CVX.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 174 shares of GS.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 22 shares of HD.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 sold 1 shares of HON.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 4 passed on IBM.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 4 passed on INTC.
-04-09-2021 10:16:28 INFO Tick: 3: Agent 4 passed on JNJ.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 95 shares of KO.
-04-09-2021 10:16:28 INFO Tick 3: Agent 4 bought 30 shares of JPM.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 8 shares of AXP.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 1130 shares of AMGN.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 3 shares of AAPL.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 66 shares of BA.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 60 shares of CAT.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 1 shares of CSCO.
-04-09-2021 10:18:35 INFO Tick: 4: Agent 0 passed on CVX.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 1441 shares of GS.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 76 shares of HD.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 sold 86 shares of HON.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 32 shares of IBM.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 2 shares of INTC.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 13 shares of JNJ.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 798 shares of KO.
-04-09-2021 10:18:35 INFO Tick 4: Agent 0 bought 8 shares of JPM.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 7 shares of AXP.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 6358 shares of AMGN.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 2 shares of AAPL.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 89 shares of BA.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 80 shares of CAT.
-04-09-2021 10:18:35 INFO Tick: 4: Agent 1 passed on CSCO.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 1 shares of CVX.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 9586 shares of GS.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 91 shares of HD.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 sold 84 shares of HON.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 29 shares of IBM.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 1 shares of INTC.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 11 shares of JNJ.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 2811 shares of KO.
-04-09-2021 10:18:35 INFO Tick 4: Agent 1 bought 5 shares of JPM.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 sold 2 shares of AXP.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 bought 769 shares of AMGN.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 sold 2 shares of AAPL.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 sold 9 shares of BA.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 sold 7 shares of CAT.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 sold 1 shares of CSCO.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 sold 1 shares of CVX.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 bought 1264 shares of GS.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 bought 12 shares of HD.
-04-09-2021 10:18:35 INFO Tick: 4: Agent 2 passed on HON.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 bought 4 shares of IBM.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 sold 1 shares of INTC.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 bought 2 shares of JNJ.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 bought 372 shares of KO.
-04-09-2021 10:18:35 INFO Tick 4: Agent 2 sold 4 shares of JPM.
-04-09-2021 10:18:35 INFO Tick 4: Agent 3 bought 7 shares of AXP.
-04-09-2021 10:18:35 INFO Tick 4: Agent 3 bought 1232 shares of AMGN.
-04-09-2021 10:18:35 INFO Tick 4: Agent 3 bought 1 shares of AAPL.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 50 shares of BA.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 49 shares of CAT.
-04-09-2021 10:18:36 INFO Tick: 4: Agent 3 passed on CSCO.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 1 shares of CVX.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 1679 shares of GS.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 61 shares of HD.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 sold 65 shares of HON.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 27 shares of IBM.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 2 shares of INTC.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 11 shares of JNJ.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 739 shares of KO.
-04-09-2021 10:18:36 INFO Tick 4: Agent 3 bought 4 shares of JPM.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 8 shares of AXP.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 1031 shares of AMGN.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 2 shares of AAPL.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 59 shares of BA.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 56 shares of CAT.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 1 shares of CSCO.
-04-09-2021 10:18:36 INFO Tick: 4: Agent 4 passed on CVX.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 1320 shares of GS.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 69 shares of HD.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 sold 77 shares of HON.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 30 shares of IBM.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 2 shares of INTC.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 12 shares of JNJ.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 720 shares of KO.
-04-09-2021 10:18:36 INFO Tick 4: Agent 4 bought 7 shares of JPM.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 bought 6271 shares of AXP.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 sold 1016 shares of AMGN.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 bought 1381 shares of AAPL.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 bought 2960 shares of BA.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 bought 19347 shares of CAT.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 bought 636 shares of CSCO.
-04-09-2021 10:20:23 INFO Tick: 5: Agent 0 passed on CVX.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 sold 1277 shares of GS.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 bought 1406 shares of HD.
-04-09-2021 10:20:23 INFO Tick: 5: Agent 0 passed on HON.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 sold 32 shares of IBM.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 bought 1069 shares of INTC.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 sold 13 shares of JNJ.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 sold 816 shares of KO.
-04-09-2021 10:20:23 INFO Tick 5: Agent 0 sold 34 shares of JPM.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 sold 4 shares of AXP.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 bought 3985420 shares of AMGN.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 sold 21 shares of AAPL.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 bought 6 shares of BA.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 sold 54 shares of CAT.
-04-09-2021 10:20:23 INFO Tick: 5: Agent 1 passed on CSCO.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 sold 1 shares of CVX.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 bought 7347818 shares of GS.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 bought 148 shares of HD.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 bought 29 shares of HON.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 bought 32 shares of IBM.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 sold 1 shares of INTC.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 bought 7 shares of JNJ.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 bought 255564 shares of KO.
-04-09-2021 10:20:23 INFO Tick 5: Agent 1 sold 68 shares of JPM.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 sold 10 shares of AXP.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 bought 1291567 shares of AMGN.
-04-09-2021 10:20:24 INFO Tick: 5: Agent 2 passed on AAPL.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 bought 7 shares of BA.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 sold 2 shares of CAT.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 sold 1 shares of CSCO.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 sold 4 shares of CVX.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 bought 2748011 shares of GS.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 bought 17 shares of HD.
-04-09-2021 10:20:24 INFO Tick: 5: Agent 2 passed on HON.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 sold 10 shares of IBM.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 sold 3 shares of INTC.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 sold 6 shares of JNJ.
-04-09-2021 10:20:24 INFO Tick 5: Agent 2 bought 61731 shares of KO.
-04-09-2021 10:20:24 INFO Tick: 5: Agent 2 passed on JPM.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 sold 4 shares of AXP.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 bought 257823 shares of AMGN.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 sold 19 shares of AAPL.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 sold 34 shares of BA.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 sold 51 shares of CAT.
-04-09-2021 10:20:24 INFO Tick: 5: Agent 3 passed on CSCO.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 sold 1 shares of CVX.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 bought 473142 shares of GS.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 bought 16 shares of HD.
-04-09-2021 10:20:24 INFO Tick: 5: Agent 3 passed on HON.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 bought 10 shares of IBM.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 sold 2 shares of INTC.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 bought 3 shares of JNJ.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 bought 17115 shares of KO.
-04-09-2021 10:20:24 INFO Tick 5: Agent 3 sold 54 shares of JPM.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 sold 2 shares of AXP.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 bought 2311 shares of AMGN.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 sold 23 shares of AAPL.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 sold 48 shares of BA.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 sold 60 shares of CAT.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 sold 1 shares of CSCO.
-04-09-2021 10:20:24 INFO Tick: 5: Agent 4 passed on CVX.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 bought 2159 shares of GS.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 bought 5 shares of HD.
-04-09-2021 10:20:24 INFO Tick: 5: Agent 4 passed on HON.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 bought 10 shares of IBM.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 sold 1 shares of INTC.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 bought 3 shares of JNJ.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 bought 447 shares of KO.
-04-09-2021 10:20:24 INFO Tick 5: Agent 4 sold 66 shares of JPM.
+04-11-2021 11:54:31 INFO Tick: 2: Agent 0 passed on AMGN.
+04-11-2021 11:54:31 INFO Tick 2: Agent 0 bought 8 shares of CSCO.
+04-11-2021 11:54:31 INFO Tick 2: Agent 0 bought 20 shares of CVX.
+04-11-2021 11:54:31 INFO Tick: 2: Agent 0 passed on GS.
+04-11-2021 11:54:31 INFO Tick: 2: Agent 0 passed on HON.
+04-11-2021 11:54:31 INFO Tick 2: Agent 0 bought 32 shares of JNJ.
+04-11-2021 11:54:31 INFO Tick: 2: Agent 0 passed on KO.
+04-11-2021 11:54:31 INFO Tick 2: Agent 0 bought 13 shares of MSFT.
+04-11-2021 11:54:31 INFO Tick: 2: Agent 0 passed on TRV.
+04-11-2021 11:54:31 INFO Tick: 2: Agent 0 passed on UNH.
+04-11-2021 11:54:31 INFO Tick: 2: Agent 0 passed on DOW.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 1 passed on AMGN.
+04-11-2021 11:54:32 INFO Tick 2: Agent 1 bought 1 shares of CSCO.
+04-11-2021 11:54:32 INFO Tick 2: Agent 1 bought 4 shares of CVX.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 1 passed on GS.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 1 passed on HON.
+04-11-2021 11:54:32 INFO Tick 2: Agent 1 bought 8 shares of JNJ.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 1 passed on KO.
+04-11-2021 11:54:32 INFO Tick 2: Agent 1 bought 3 shares of MSFT.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 1 passed on TRV.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 1 passed on UNH.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 1 passed on DOW.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 2 passed on AMGN.
+04-11-2021 11:54:32 INFO Tick 2: Agent 2 bought 5 shares of CSCO.
+04-11-2021 11:54:32 INFO Tick 2: Agent 2 bought 14 shares of CVX.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 2 passed on GS.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 2 passed on HON.
+04-11-2021 11:54:32 INFO Tick 2: Agent 2 bought 22 shares of JNJ.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 2 passed on KO.
+04-11-2021 11:54:32 INFO Tick 2: Agent 2 bought 9 shares of MSFT.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 2 passed on TRV.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 2 passed on UNH.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 2 passed on DOW.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on AMGN.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on CSCO.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on CVX.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on GS.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on HON.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on JNJ.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on KO.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on MSFT.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on TRV.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on UNH.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 3 passed on DOW.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 4 passed on AMGN.
+04-11-2021 11:54:32 INFO Tick 2: Agent 4 bought 2 shares of CSCO.
+04-11-2021 11:54:32 INFO Tick 2: Agent 4 bought 5 shares of CVX.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 4 passed on GS.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 4 passed on HON.
+04-11-2021 11:54:32 INFO Tick 2: Agent 4 bought 8 shares of JNJ.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 4 passed on KO.
+04-11-2021 11:54:32 INFO Tick 2: Agent 4 bought 3 shares of MSFT.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 4 passed on TRV.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 4 passed on UNH.
+04-11-2021 11:54:32 INFO Tick: 2: Agent 4 passed on DOW.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 0 passed on AMGN.
+04-11-2021 11:54:36 INFO Tick 3: Agent 0 sold 8 shares of CSCO.
+04-11-2021 11:54:36 INFO Tick 3: Agent 0 sold 20 shares of CVX.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 0 passed on GS.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 0 passed on HON.
+04-11-2021 11:54:36 INFO Tick 3: Agent 0 sold 32 shares of JNJ.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 0 passed on KO.
+04-11-2021 11:54:36 INFO Tick 3: Agent 0 sold 13 shares of MSFT.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 0 passed on TRV.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 0 passed on UNH.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 0 passed on DOW.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 1 passed on AMGN.
+04-11-2021 11:54:36 INFO Tick 3: Agent 1 sold 1 shares of CSCO.
+04-11-2021 11:54:36 INFO Tick 3: Agent 1 sold 4 shares of CVX.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 1 passed on GS.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 1 passed on HON.
+04-11-2021 11:54:36 INFO Tick 3: Agent 1 sold 8 shares of JNJ.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 1 passed on KO.
+04-11-2021 11:54:36 INFO Tick 3: Agent 1 sold 3 shares of MSFT.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 1 passed on TRV.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 1 passed on UNH.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 1 passed on DOW.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 2 passed on AMGN.
+04-11-2021 11:54:36 INFO Tick 3: Agent 2 sold 5 shares of CSCO.
+04-11-2021 11:54:36 INFO Tick 3: Agent 2 sold 14 shares of CVX.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 2 passed on GS.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 2 passed on HON.
+04-11-2021 11:54:36 INFO Tick 3: Agent 2 sold 22 shares of JNJ.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 2 passed on KO.
+04-11-2021 11:54:36 INFO Tick 3: Agent 2 sold 9 shares of MSFT.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 2 passed on TRV.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 2 passed on UNH.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 2 passed on DOW.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on AMGN.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on CSCO.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on CVX.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on GS.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on HON.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on JNJ.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on KO.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on MSFT.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on TRV.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on UNH.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 3 passed on DOW.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 4 passed on AMGN.
+04-11-2021 11:54:36 INFO Tick 3: Agent 4 sold 2 shares of CSCO.
+04-11-2021 11:54:36 INFO Tick 3: Agent 4 sold 5 shares of CVX.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 4 passed on GS.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 4 passed on HON.
+04-11-2021 11:54:36 INFO Tick 3: Agent 4 sold 8 shares of JNJ.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 4 passed on KO.
+04-11-2021 11:54:36 INFO Tick 3: Agent 4 sold 3 shares of MSFT.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 4 passed on TRV.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 4 passed on UNH.
+04-11-2021 11:54:36 INFO Tick: 3: Agent 4 passed on DOW.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 0 passed on AMGN.
+04-11-2021 11:54:40 INFO Tick 4: Agent 0 bought 34 shares of CSCO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 0 bought 67 shares of CVX.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 0 passed on GS.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 0 passed on HON.
+04-11-2021 11:54:40 INFO Tick 4: Agent 0 bought 19 shares of JNJ.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 0 passed on KO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 0 bought 32 shares of MSFT.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 0 passed on TRV.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 0 passed on UNH.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 0 passed on DOW.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 1 passed on AMGN.
+04-11-2021 11:54:40 INFO Tick 4: Agent 1 bought 8 shares of CSCO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 1 bought 21 shares of CVX.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 1 passed on GS.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 1 passed on HON.
+04-11-2021 11:54:40 INFO Tick 4: Agent 1 bought 4 shares of JNJ.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 1 passed on KO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 1 bought 8 shares of MSFT.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 1 passed on TRV.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 1 passed on UNH.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 1 passed on DOW.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 2 passed on AMGN.
+04-11-2021 11:54:40 INFO Tick 4: Agent 2 bought 23 shares of CSCO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 2 bought 48 shares of CVX.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 2 passed on GS.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 2 passed on HON.
+04-11-2021 11:54:40 INFO Tick 4: Agent 2 bought 13 shares of JNJ.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 2 passed on KO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 2 bought 22 shares of MSFT.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 2 passed on TRV.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 2 passed on UNH.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 2 passed on DOW.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on AMGN.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on CSCO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 3 bought 1 shares of CVX.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on GS.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on HON.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on JNJ.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on KO.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on MSFT.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on TRV.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on UNH.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 3 passed on DOW.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 4 passed on AMGN.
+04-11-2021 11:54:40 INFO Tick 4: Agent 4 bought 9 shares of CSCO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 4 bought 19 shares of CVX.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 4 passed on GS.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 4 passed on HON.
+04-11-2021 11:54:40 INFO Tick 4: Agent 4 bought 5 shares of JNJ.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 4 passed on KO.
+04-11-2021 11:54:40 INFO Tick 4: Agent 4 bought 8 shares of MSFT.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 4 passed on TRV.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 4 passed on UNH.
+04-11-2021 11:54:40 INFO Tick: 4: Agent 4 passed on DOW.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 0 passed on AMGN.
+04-11-2021 11:54:44 INFO Tick 5: Agent 0 sold 34 shares of CSCO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 0 sold 67 shares of CVX.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 0 passed on GS.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 0 passed on HON.
+04-11-2021 11:54:44 INFO Tick 5: Agent 0 sold 19 shares of JNJ.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 0 passed on KO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 0 sold 32 shares of MSFT.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 0 passed on TRV.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 0 passed on UNH.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 0 passed on DOW.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 1 passed on AMGN.
+04-11-2021 11:54:44 INFO Tick 5: Agent 1 sold 8 shares of CSCO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 1 sold 21 shares of CVX.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 1 passed on GS.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 1 passed on HON.
+04-11-2021 11:54:44 INFO Tick 5: Agent 1 sold 4 shares of JNJ.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 1 passed on KO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 1 sold 8 shares of MSFT.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 1 passed on TRV.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 1 passed on UNH.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 1 passed on DOW.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 2 passed on AMGN.
+04-11-2021 11:54:44 INFO Tick 5: Agent 2 sold 23 shares of CSCO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 2 sold 48 shares of CVX.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 2 passed on GS.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 2 passed on HON.
+04-11-2021 11:54:44 INFO Tick 5: Agent 2 sold 13 shares of JNJ.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 2 passed on KO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 2 sold 22 shares of MSFT.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 2 passed on TRV.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 2 passed on UNH.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 2 passed on DOW.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on AMGN.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on CSCO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 3 sold 1 shares of CVX.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on GS.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on HON.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on JNJ.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on KO.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on MSFT.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on TRV.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on UNH.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 3 passed on DOW.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 4 passed on AMGN.
+04-11-2021 11:54:44 INFO Tick 5: Agent 4 sold 9 shares of CSCO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 4 sold 19 shares of CVX.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 4 passed on GS.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 4 passed on HON.
+04-11-2021 11:54:44 INFO Tick 5: Agent 4 sold 5 shares of JNJ.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 4 passed on KO.
+04-11-2021 11:54:44 INFO Tick 5: Agent 4 sold 8 shares of MSFT.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 4 passed on TRV.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 4 passed on UNH.
+04-11-2021 11:54:44 INFO Tick: 5: Agent 4 passed on DOW.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 0 passed on AMGN.
+04-11-2021 11:54:48 INFO Tick 6: Agent 0 bought 72 shares of CSCO.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 0 passed on CVX.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 0 passed on GS.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 0 passed on HON.
+04-11-2021 11:54:48 INFO Tick 6: Agent 0 bought 11 shares of JNJ.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 0 passed on KO.
+04-11-2021 11:54:48 INFO Tick 6: Agent 0 bought 63 shares of MSFT.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 0 passed on TRV.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 0 passed on UNH.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 0 passed on DOW.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 1 passed on AMGN.
+04-11-2021 11:54:48 INFO Tick 6: Agent 1 bought 35 shares of CSCO.
+04-11-2021 11:54:48 INFO Tick 6: Agent 1 bought 62 shares of CVX.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 1 passed on GS.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 1 passed on HON.
+04-11-2021 11:54:48 INFO Tick 6: Agent 1 bought 2 shares of JNJ.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 1 passed on KO.
+04-11-2021 11:54:48 INFO Tick 6: Agent 1 bought 19 shares of MSFT.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 1 passed on TRV.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 1 passed on UNH.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 1 passed on DOW.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 2 passed on AMGN.
+04-11-2021 11:54:48 INFO Tick 6: Agent 2 bought 55 shares of CSCO.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 2 passed on CVX.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 2 passed on GS.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 2 passed on HON.
+04-11-2021 11:54:48 INFO Tick 6: Agent 2 bought 7 shares of JNJ.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 2 passed on KO.
+04-11-2021 11:54:48 INFO Tick 6: Agent 2 bought 45 shares of MSFT.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 2 passed on TRV.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 2 passed on UNH.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 2 passed on DOW.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on AMGN.
+04-11-2021 11:54:48 INFO Tick 6: Agent 3 bought 2 shares of CSCO.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on CVX.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on GS.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on HON.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on JNJ.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on KO.
+04-11-2021 11:54:48 INFO Tick 6: Agent 3 bought 1 shares of MSFT.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on TRV.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on UNH.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 3 passed on DOW.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 4 passed on AMGN.
+04-11-2021 11:54:48 INFO Tick 6: Agent 4 bought 22 shares of CSCO.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 4 passed on CVX.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 4 passed on GS.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 4 passed on HON.
+04-11-2021 11:54:48 INFO Tick 6: Agent 4 bought 3 shares of JNJ.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 4 passed on KO.
+04-11-2021 11:54:48 INFO Tick 6: Agent 4 bought 18 shares of MSFT.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 4 passed on TRV.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 4 passed on UNH.
+04-11-2021 11:54:48 INFO Tick: 6: Agent 4 passed on DOW.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 0 passed on AMGN.
+04-11-2021 11:54:52 INFO Tick 7: Agent 0 sold 72 shares of CSCO.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 0 passed on CVX.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 0 passed on GS.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 0 passed on HON.
+04-11-2021 11:54:52 INFO Tick 7: Agent 0 sold 11 shares of JNJ.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 0 passed on KO.
+04-11-2021 11:54:52 INFO Tick 7: Agent 0 sold 63 shares of MSFT.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 0 passed on TRV.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 0 passed on UNH.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 0 passed on DOW.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 1 passed on AMGN.
+04-11-2021 11:54:52 INFO Tick 7: Agent 1 sold 35 shares of CSCO.
+04-11-2021 11:54:52 INFO Tick 7: Agent 1 sold 62 shares of CVX.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 1 passed on GS.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 1 passed on HON.
+04-11-2021 11:54:52 INFO Tick 7: Agent 1 sold 2 shares of JNJ.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 1 passed on KO.
+04-11-2021 11:54:52 INFO Tick 7: Agent 1 sold 19 shares of MSFT.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 1 passed on TRV.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 1 passed on UNH.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 1 passed on DOW.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 2 passed on AMGN.
+04-11-2021 11:54:52 INFO Tick 7: Agent 2 sold 55 shares of CSCO.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 2 passed on CVX.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 2 passed on GS.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 2 passed on HON.
+04-11-2021 11:54:52 INFO Tick 7: Agent 2 sold 7 shares of JNJ.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 2 passed on KO.
+04-11-2021 11:54:52 INFO Tick 7: Agent 2 sold 45 shares of MSFT.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 2 passed on TRV.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 2 passed on UNH.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 2 passed on DOW.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on AMGN.
+04-11-2021 11:54:52 INFO Tick 7: Agent 3 sold 2 shares of CSCO.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on CVX.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on GS.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on HON.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on JNJ.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on KO.
+04-11-2021 11:54:52 INFO Tick 7: Agent 3 sold 1 shares of MSFT.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on TRV.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on UNH.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 3 passed on DOW.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 4 passed on AMGN.
+04-11-2021 11:54:52 INFO Tick 7: Agent 4 sold 22 shares of CSCO.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 4 passed on CVX.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 4 passed on GS.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 4 passed on HON.
+04-11-2021 11:54:52 INFO Tick 7: Agent 4 sold 3 shares of JNJ.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 4 passed on KO.
+04-11-2021 11:54:52 INFO Tick 7: Agent 4 sold 18 shares of MSFT.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 4 passed on TRV.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 4 passed on UNH.
+04-11-2021 11:54:52 INFO Tick: 7: Agent 4 passed on DOW.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 0 passed on AMGN.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 0 passed on CSCO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 0 bought 74 shares of CVX.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 0 passed on GS.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 0 passed on HON.
+04-11-2021 11:54:56 INFO Tick 8: Agent 0 bought 6 shares of JNJ.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 0 passed on KO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 0 bought 67 shares of MSFT.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 0 passed on TRV.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 0 passed on UNH.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 0 passed on DOW.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 1 passed on AMGN.
+04-11-2021 11:54:56 INFO Tick 8: Agent 1 bought 70 shares of CSCO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 1 bought 29 shares of CVX.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 1 passed on GS.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 1 passed on HON.
+04-11-2021 11:54:56 INFO Tick 8: Agent 1 bought 1 shares of JNJ.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 1 passed on KO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 1 bought 37 shares of MSFT.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 1 passed on TRV.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 1 passed on UNH.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 1 passed on DOW.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 2 passed on AMGN.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 2 passed on CSCO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 2 bought 55 shares of CVX.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 2 passed on GS.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 2 passed on HON.
+04-11-2021 11:54:56 INFO Tick 8: Agent 2 bought 4 shares of JNJ.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 2 passed on KO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 2 bought 53 shares of MSFT.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 2 passed on TRV.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 2 passed on UNH.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 2 passed on DOW.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on AMGN.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on CSCO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 3 bought 2 shares of CVX.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on GS.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on HON.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on JNJ.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on KO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 3 bought 2 shares of MSFT.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on TRV.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on UNH.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 3 passed on DOW.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 4 passed on AMGN.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 4 passed on CSCO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 4 bought 22 shares of CVX.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 4 passed on GS.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 4 passed on HON.
+04-11-2021 11:54:56 INFO Tick 8: Agent 4 bought 1 shares of JNJ.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 4 passed on KO.
+04-11-2021 11:54:56 INFO Tick 8: Agent 4 bought 22 shares of MSFT.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 4 passed on TRV.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 4 passed on UNH.
+04-11-2021 11:54:56 INFO Tick: 8: Agent 4 passed on DOW.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 0 passed on AMGN.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 0 passed on CSCO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 0 sold 74 shares of CVX.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 0 passed on GS.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 0 passed on HON.
+04-11-2021 11:55:01 INFO Tick 9: Agent 0 sold 6 shares of JNJ.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 0 passed on KO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 0 sold 67 shares of MSFT.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 0 passed on TRV.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 0 passed on UNH.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 0 passed on DOW.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 1 passed on AMGN.
+04-11-2021 11:55:01 INFO Tick 9: Agent 1 sold 70 shares of CSCO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 1 sold 29 shares of CVX.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 1 passed on GS.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 1 passed on HON.
+04-11-2021 11:55:01 INFO Tick 9: Agent 1 sold 1 shares of JNJ.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 1 passed on KO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 1 sold 37 shares of MSFT.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 1 passed on TRV.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 1 passed on UNH.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 1 passed on DOW.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 2 passed on AMGN.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 2 passed on CSCO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 2 sold 55 shares of CVX.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 2 passed on GS.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 2 passed on HON.
+04-11-2021 11:55:01 INFO Tick 9: Agent 2 sold 4 shares of JNJ.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 2 passed on KO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 2 sold 53 shares of MSFT.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 2 passed on TRV.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 2 passed on UNH.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 2 passed on DOW.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on AMGN.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on CSCO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 3 sold 2 shares of CVX.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on GS.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on HON.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on JNJ.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on KO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 3 sold 2 shares of MSFT.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on TRV.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on UNH.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 3 passed on DOW.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 4 passed on AMGN.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 4 passed on CSCO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 4 sold 22 shares of CVX.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 4 passed on GS.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 4 passed on HON.
+04-11-2021 11:55:01 INFO Tick 9: Agent 4 sold 1 shares of JNJ.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 4 passed on KO.
+04-11-2021 11:55:01 INFO Tick 9: Agent 4 sold 22 shares of MSFT.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 4 passed on TRV.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 4 passed on UNH.
+04-11-2021 11:55:01 INFO Tick: 9: Agent 4 passed on DOW.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 0 passed on AMGN.
+04-11-2021 11:55:05 INFO Tick 10: Agent 0 bought 73 shares of CSCO.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 0 passed on CVX.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 0 passed on GS.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 0 passed on HON.
+04-11-2021 11:55:05 INFO Tick 10: Agent 0 bought 3 shares of JNJ.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 0 passed on KO.
+04-11-2021 11:55:05 INFO Tick 10: Agent 0 bought 45 shares of MSFT.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 0 passed on TRV.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 0 passed on UNH.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 0 passed on DOW.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 1 passed on AMGN.
+04-11-2021 11:55:05 INFO Tick 10: Agent 1 bought 33 shares of CSCO.
+04-11-2021 11:55:05 INFO Tick 10: Agent 1 bought 68 shares of CVX.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 1 passed on GS.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 1 passed on HON.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 1 passed on JNJ.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 1 passed on KO.
+04-11-2021 11:55:05 INFO Tick 10: Agent 1 bought 44 shares of MSFT.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 1 passed on TRV.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 1 passed on UNH.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 1 passed on DOW.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 2 passed on AMGN.
+04-11-2021 11:55:05 INFO Tick 10: Agent 2 bought 55 shares of CSCO.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 2 passed on CVX.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 2 passed on GS.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 2 passed on HON.
+04-11-2021 11:55:05 INFO Tick 10: Agent 2 bought 2 shares of JNJ.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 2 passed on KO.
+04-11-2021 11:55:05 INFO Tick 10: Agent 2 bought 42 shares of MSFT.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 2 passed on TRV.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 2 passed on UNH.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 2 passed on DOW.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on AMGN.
+04-11-2021 11:55:05 INFO Tick 10: Agent 3 bought 2 shares of CSCO.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on CVX.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on GS.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on HON.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on JNJ.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on KO.
+04-11-2021 11:55:05 INFO Tick 10: Agent 3 bought 1 shares of MSFT.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on TRV.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on UNH.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 3 passed on DOW.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on AMGN.
+04-11-2021 11:55:05 INFO Tick 10: Agent 4 bought 22 shares of CSCO.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on CVX.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on GS.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on HON.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on JNJ.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on KO.
+04-11-2021 11:55:05 INFO Tick 10: Agent 4 bought 18 shares of MSFT.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on TRV.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on UNH.
+04-11-2021 11:55:05 INFO Tick: 10: Agent 4 passed on DOW.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 0 passed on AMGN.
+04-11-2021 11:55:09 INFO Tick 11: Agent 0 sold 73 shares of CSCO.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 0 passed on CVX.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 0 passed on GS.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 0 passed on HON.
+04-11-2021 11:55:09 INFO Tick 11: Agent 0 sold 3 shares of JNJ.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 0 passed on KO.
+04-11-2021 11:55:09 INFO Tick 11: Agent 0 sold 45 shares of MSFT.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 0 passed on TRV.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 0 passed on UNH.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 0 passed on DOW.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 1 passed on AMGN.
+04-11-2021 11:55:09 INFO Tick 11: Agent 1 sold 33 shares of CSCO.
+04-11-2021 11:55:09 INFO Tick 11: Agent 1 sold 68 shares of CVX.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 1 passed on GS.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 1 passed on HON.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 1 passed on JNJ.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 1 passed on KO.
+04-11-2021 11:55:09 INFO Tick 11: Agent 1 sold 44 shares of MSFT.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 1 passed on TRV.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 1 passed on UNH.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 1 passed on DOW.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 2 passed on AMGN.
+04-11-2021 11:55:09 INFO Tick 11: Agent 2 sold 55 shares of CSCO.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 2 passed on CVX.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 2 passed on GS.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 2 passed on HON.
+04-11-2021 11:55:09 INFO Tick 11: Agent 2 sold 2 shares of JNJ.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 2 passed on KO.
+04-11-2021 11:55:09 INFO Tick 11: Agent 2 sold 42 shares of MSFT.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 2 passed on TRV.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 2 passed on UNH.
+04-11-2021 11:55:09 INFO Tick: 11: Agent 2 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick 11: Agent 3 sold 2 shares of CSCO.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on CVX.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on KO.
+04-11-2021 11:55:10 INFO Tick 11: Agent 3 sold 1 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 3 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick 11: Agent 4 sold 22 shares of CSCO.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on CVX.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on KO.
+04-11-2021 11:55:10 INFO Tick 11: Agent 4 sold 18 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 11: Agent 4 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 0 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 0 passed on CSCO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 0 bought 74 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 0 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 0 passed on HON.
+04-11-2021 11:55:10 INFO Tick 12: Agent 0 bought 1 shares of JNJ.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 0 passed on KO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 0 bought 65 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 0 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 0 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 0 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 1 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick 12: Agent 1 bought 70 shares of CSCO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 1 bought 32 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 1 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 1 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 1 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 1 passed on KO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 1 bought 38 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 1 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 1 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 1 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on CSCO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 2 bought 55 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on KO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 2 bought 52 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 2 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on CSCO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 3 bought 2 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on KO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 3 bought 2 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 3 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on CSCO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 4 bought 22 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on KO.
+04-11-2021 11:55:10 INFO Tick 12: Agent 4 bought 21 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 12: Agent 4 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 0 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 0 passed on CSCO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 0 sold 74 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 0 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 0 passed on HON.
+04-11-2021 11:55:10 INFO Tick 13: Agent 0 sold 1 shares of JNJ.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 0 passed on KO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 0 sold 65 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 0 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 0 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 0 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 1 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick 13: Agent 1 sold 70 shares of CSCO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 1 sold 32 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 1 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 1 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 1 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 1 passed on KO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 1 sold 38 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 1 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 1 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 1 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on CSCO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 2 sold 55 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on KO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 2 sold 52 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 2 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on CSCO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 3 sold 2 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on KO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 3 sold 2 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 3 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on CSCO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 4 sold 22 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on KO.
+04-11-2021 11:55:10 INFO Tick 13: Agent 4 sold 21 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 13: Agent 4 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick 14: Agent 0 bought 73 shares of CSCO.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on CVX.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on KO.
+04-11-2021 11:55:10 INFO Tick 14: Agent 0 bought 47 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 0 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 1 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick 14: Agent 1 bought 33 shares of CSCO.
+04-11-2021 11:55:10 INFO Tick 14: Agent 1 bought 68 shares of CVX.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 1 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 1 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 1 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 1 passed on KO.
+04-11-2021 11:55:10 INFO Tick 14: Agent 1 bought 44 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 1 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 1 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 1 passed on DOW.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on AMGN.
+04-11-2021 11:55:10 INFO Tick 14: Agent 2 bought 55 shares of CSCO.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on CVX.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on GS.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on HON.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on JNJ.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on KO.
+04-11-2021 11:55:10 INFO Tick 14: Agent 2 bought 43 shares of MSFT.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on TRV.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on UNH.
+04-11-2021 11:55:10 INFO Tick: 14: Agent 2 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick 14: Agent 3 bought 2 shares of CSCO.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on CVX.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on KO.
+04-11-2021 11:55:11 INFO Tick 14: Agent 3 bought 1 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 3 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick 14: Agent 4 bought 22 shares of CSCO.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on CVX.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on KO.
+04-11-2021 11:55:11 INFO Tick 14: Agent 4 bought 18 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 14: Agent 4 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick 15: Agent 0 sold 73 shares of CSCO.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on CVX.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on KO.
+04-11-2021 11:55:11 INFO Tick 15: Agent 0 sold 47 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 0 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 1 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick 15: Agent 1 sold 33 shares of CSCO.
+04-11-2021 11:55:11 INFO Tick 15: Agent 1 sold 68 shares of CVX.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 1 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 1 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 1 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 1 passed on KO.
+04-11-2021 11:55:11 INFO Tick 15: Agent 1 sold 44 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 1 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 1 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 1 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick 15: Agent 2 sold 55 shares of CSCO.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on CVX.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on KO.
+04-11-2021 11:55:11 INFO Tick 15: Agent 2 sold 43 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 2 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick 15: Agent 3 sold 2 shares of CSCO.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on CVX.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on KO.
+04-11-2021 11:55:11 INFO Tick 15: Agent 3 sold 1 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 3 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick 15: Agent 4 sold 22 shares of CSCO.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on CVX.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on KO.
+04-11-2021 11:55:11 INFO Tick 15: Agent 4 sold 18 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 15: Agent 4 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on CSCO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 0 bought 74 shares of CVX.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on KO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 0 bought 64 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 0 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 1 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick 16: Agent 1 bought 70 shares of CSCO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 1 bought 32 shares of CVX.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 1 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 1 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 1 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 1 passed on KO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 1 bought 38 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 1 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 1 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 1 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on CSCO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 2 bought 55 shares of CVX.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on KO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 2 bought 51 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 2 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on CSCO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 3 bought 2 shares of CVX.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on KO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 3 bought 2 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 3 passed on DOW.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on AMGN.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on CSCO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 4 bought 22 shares of CVX.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on GS.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on HON.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on JNJ.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on KO.
+04-11-2021 11:55:11 INFO Tick 16: Agent 4 bought 21 shares of MSFT.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on TRV.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on UNH.
+04-11-2021 11:55:11 INFO Tick: 16: Agent 4 passed on DOW.

@@ -10,9 +10,13 @@
 * Write all data ending to LOG files
     ✔️ Make sure that the market continues to test after training
     * Save updated parameters to CSV
+    * Append asset price data to CSV after each tick
 
 ✔️ Data visualization
     * Add Volume bars on the bottom
+    * Correlation Matrixes
+    * Real DOW30 vs Sim DOW30
+        * Compare w/ total number of each type of trader depending on DOW conditions.
 
 * Update Model Training Data
     * Train on 50%, test w/ 50%
@@ -29,6 +33,8 @@
     * Make sure to recalculate scores (should be done in market.py)
     * And calculate the change in wealth for each agent as they are upticked and append to the appropriate list.
 
+----
+
 # Possible Problems/Solutions
 
 * Universal Risk Aversion being too low
@@ -38,3 +44,5 @@
 *❗ sum on price expectations for Momentum Traders & Contrarians is adding up to >1 (still w/in tolerable range)
 
 * Make sure paramters (not extrapolation_degree) cannot be negative
+
+* Gradient is way too steep

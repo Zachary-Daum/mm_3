@@ -1,1 +1,6 @@
 *.LOG
+*.log
+*.CSV
+*.csv
+
+model_data/*/*/*.csv
