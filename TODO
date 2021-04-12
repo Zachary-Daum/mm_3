@@ -13,7 +13,7 @@
     * Append asset price data to CSV after each tick
 
 ✔️ Data visualization
-    * Add Volume bars on the bottom
+    ✔️ Add Volume bars on the bottom
     * Correlation Matrixes
     * Real DOW30 vs Sim DOW30
         * Compare w/ total number of each type of trader depending on DOW conditions.
