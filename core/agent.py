@@ -134,7 +134,7 @@ class Agent:
 
     @staticmethod
     def calc_optimal_shares(expected_returns=None, risk_aversion=None, returns_variance=None):
-        optimal_shares = expected_returns / ( risk_aversion * returns_variance )
+        optimal_shares = math.floor( expected_returns / ( risk_aversion * returns_variance ) ) # TESTING
         return optimal_shares if optimal_shares > 0 else 0
      
     def calc_wealth(self, asset_dict=None):
@@ -239,7 +239,7 @@ class Agent:
             '''
             if self.vars.at[self.tick,'holdings'][asset] < self._optimal_shares[asset]:
                 # "buy" order
-                order_size = self._optimal_shares[asset] - self.vars.at[self.tick,'holdings'][asset]
+                order_size = math.floor( self._optimal_shares[asset] - self.vars.at[self.tick,'holdings'][asset] )
                 # Make sure buy price isn't greater than balance.
                 '''if order_size * asset_dict[asset].price > self.cash:
                     order_size = math.floor( self.cash / asset_dict[asset].price )''' # TESTING
@@ -248,7 +248,7 @@ class Agent:
 
             elif self.vars.at[self.tick,'holdings'][asset] > self._optimal_shares[asset]:
                 # "sell" order
-                order_size = self.vars.at[self.tick,'holdings'][asset] - self._optimal_shares[asset]
+                order_size = math.floor( self.vars.at[self.tick,'holdings'][asset] - self._optimal_shares[asset] )
                 asset_dict[asset]._offer_volume += order_size
 
             else:
@@ -303,7 +303,7 @@ class Agent:
         for asset in asset_dict:
             if self.vars.at[self.tick,'holdings'][asset] < self.ops.at[self.tick,'optimal_shares'][asset]:
                 # Buy
-                order_size = self.ops.at[self.tick,'optimal_shares'][asset] - self.vars.at[self.tick,'holdings'][asset]
+                order_size = math.floor( self.ops.at[self.tick,'optimal_shares'][asset] - self.vars.at[self.tick,'holdings'][asset] )
 
                 order_price = order_size * asset_dict[asset].price
 
@@ -326,7 +326,7 @@ class Agent:
 
             elif self.vars.at[self.tick,'holdings'][asset] > self.ops.at[self.tick,'optimal_shares'][asset]:
                 # Sell
-                order_size = self.vars.at[self.tick,'holdings'][asset] - self.ops.at[self.tick,'optimal_shares'][asset]
+                order_size = math.floor( self.vars.at[self.tick,'holdings'][asset] - self.ops.at[self.tick,'optimal_shares'][asset] )
 
                 order_price = order_size * asset_dict[asset].price
 
