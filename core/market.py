@@ -19,7 +19,7 @@ class Market:
         # - Create Agents & Assets - #
         for asset in asset_range:
             # _ Asset Params _ #
-            price_change_factor = random.uniform(.01,.001)
+            price_change_factor = random.uniform(.05,.005)
             self.params = self.params.append( pd.Series({f'{asset}_price_change_factor':price_change_factor}) )
             # _ Init Asset _ #
             self.asset_dict[asset] = Asset(asset,price_change_factor)

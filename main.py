@@ -19,7 +19,7 @@ model_log = Logger('model','./logs/model.LOG')
 assets = ['AXP','AMGN','AAPL','BA','CAT','CSCO','CVX','GS','HD','HON','IBM','INTC','JNJ','KO','JPM','MCD','MMM','MRK','MSFT','NKE','PG','TRV','UNH','CRM','VZ','V','WBA','WMT','DIS','DOW']
 #assets = ['AMGN','CSCO','CVX','GS','HON','JNJ','KO','MSFT','TRV','UNH','DOW']
 
-agents = range(10)
+agents = range(30)
 
 '''Train Model'''
 def gradient(args=None):
@@ -47,7 +47,7 @@ def gradient(args=None):
     # Return slope of cost function dy/dx
     return (working_param ,( param_up_mse - param_down_mse ) / dx) # Return tuple of ([working_param],[slope])
 
-def train(model=None, learn_rate=10e-6, n_iter=25, adj_factor=0.05):
+def train(model=None, learn_rate=10e-6, n_iter=5, adj_factor=0.05):
     # - Run Iterations - #
     for _ in range(n_iter):
         model_log.info(f'\n==== Initial Params ====\n{model.params}\n')
@@ -84,7 +84,7 @@ def train(model=None, learn_rate=10e-6, n_iter=25, adj_factor=0.05):
         model.uptick()
         print("Training: Model Upticked")
 
-def test(model=None, n_iter=75):
+def test(model=None, n_iter=10):
     for _ in range(n_iter):
         model.uptick()
         print("Testing: Model Upticked")

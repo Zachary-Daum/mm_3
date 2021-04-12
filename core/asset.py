@@ -87,6 +87,3 @@ class Asset:
         --- Offer Volume ---
         {self.vars.at[self.tick,'offer_volume']}
         """)
-
-        #self.vars.at[self.tick,'bid_volume'] = 0
-        #self.vars.at[self.tick,'offer_volume'] = 0

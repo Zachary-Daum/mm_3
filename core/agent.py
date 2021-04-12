@@ -82,14 +82,25 @@ class Agent:
         else:
             asset_price = asset_obj.vars.at[self.tick,'price']
             # Momentum Trader & Contrarian Expectations
-            sum = 0
+            """sum = 0
             j = 0
             while j < self.tick:
                 '''If j = self.tick then this well return a KeyError with t-1-j'''
                 sum +=  pow( 1 - memory , j ) * ( asset_obj.vars.at[self.tick - j,'price'] - asset_obj.vars.at[self.tick - 1 -j,'price'] )
                 j += 1
 
-            price_expectation = asset_price + extrapolation_degree * memory * sum
+            price_expectation = asset_price + extrapolation_degree * memory * sum"""
+            
+            # - Testing EQ  - #
+            sum = 0
+            j = 0
+            while j < self.tick:
+                sum += pow(( 1 - memory ),( self.tick - j )) * ( asset_obj.vars.at[self.tick-j,'price'] - asset_obj.vars.at[self.tick-1-j,'price'] )
+
+                j += 1
+
+            price_expectation = asset_price + extrapolation_degree * sum
+
             if price_expectation < 0:
                 raise ValueError(f"Price Expectation cannot be lower than 0.\n\033[91mDEBUG: (Agent {self.name} [{self.type}] @ {self.tick})\033[0m")
 
@@ -123,7 +134,7 @@ class Agent:
 
     @staticmethod
     def calc_optimal_shares(expected_returns=None, risk_aversion=None, returns_variance=None):
-        optimal_shares = math.floor( 100 * expected_returns / ( risk_aversion * returns_variance ) ) # TESTING
+        optimal_shares = math.floor( expected_returns / ( risk_aversion * returns_variance ) ) # TESTING
         return optimal_shares if optimal_shares > 0 else 0
      
     def calc_wealth(self, asset_dict=None):
@@ -135,21 +146,6 @@ class Agent:
 
         wealth = self.cash + sum
         return wealth
-
-    '''def eval_type(self):
-        type_change_proclivity = self.params.at['type_change_proclivity']
-        # Evauluate sum first bc it is used multiple times
-        sum = 0
-        for type in agent_types:
-            sum += math.exp( type_change_proclivity * agent_types[type].score )
-        
-        def calc_choice_probability(type=None):
-
-            probability = math.exp( agent_types[type].score ) / sum
-            return probability
-
-        selected_type = random.choices([0,1,2], weights = [calc_choice_probability(0),calc_choice_probability(1),calc_choice_probability(2)])
-        return selected_type'''
         
     # === Functions === #
     def init_ops(self,asset_dict=None):
