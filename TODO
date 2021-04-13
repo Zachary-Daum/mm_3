@@ -41,8 +41,14 @@
     * Causes high optimal_shares
     * Try: Generating random # from normal probability distribution.
 
-*❗ sum on price expectations for Momentum Traders & Contrarians is adding up to >1 (still w/in tolerable range)
+✔️❗ sum on price expectations for Momentum Traders & Contrarians is adding up to >1 (still w/in tolerable range)
 
-* Make sure paramters (not extrapolation_degree) cannot be negative
+✔️ Make sure paramters (not extrapolation_degree) cannot be negative
 
-* Gradient is way too steep
+✔️ Gradient is way too steep
+
+✔️ TODO: FIXME: !!! Score isn't calculated correctly
+✔️ TODO: After each tick, record params
+
+* TODO: Make sure extrapolation_degree is corrected after each 
+* TODO: Have start generated on normal distribution that has been found to be condiutive to buying
