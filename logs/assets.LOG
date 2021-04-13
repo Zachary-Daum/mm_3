@@ -1,55 +1,55 @@
-04-11-2021 21:10:42 DEBUG Agent AXP uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent AXP uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset AXP | Tick: 2 ====
         --- Price ---
         138.57000732421875
         --- Bid Volume ---
-        0.0
+        7.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent AMGN uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent AMGN uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset AMGN | Tick: 2 ====
         --- Price ---
         226.69000244140625
         --- Bid Volume ---
-        2.0
+        7.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent AAPL uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent AAPL uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset AAPL | Tick: 2 ====
         --- Price ---
         123.6999969482422
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent BA uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent BA uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset BA | Tick: 2 ====
         --- Price ---
         220.3000030517578
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent CAT uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent CAT uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset CAT | Tick: 2 ====
         --- Price ---
         220.17999267578125
         --- Bid Volume ---
-        2.0
+        8.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent CSCO uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent CSCO uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset CSCO | Tick: 2 ====
         --- Price ---
         45.290000915527344
@@ -58,28 +58,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent CVX uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent CVX uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset CVX | Tick: 2 ====
         --- Price ---
         101.7217025756836
         --- Bid Volume ---
-        0.0
+        26.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent GS uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent GS uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset GS | Tick: 2 ====
         --- Price ---
         326.1600036621094
         --- Bid Volume ---
-        3.0
+        12.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent HD uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent HD uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset HD | Tick: 2 ====
         --- Price ---
         259.07000732421875
@@ -88,8 +88,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent HON uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent HON uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset HON | Tick: 2 ====
         --- Price ---
         204.41000366210935
@@ -98,18 +98,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent IBM uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent IBM uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset IBM | Tick: 2 ====
         --- Price ---
         120.05999755859376
         --- Bid Volume ---
-        0.0
+        9.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent INTC uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent INTC uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset INTC | Tick: 2 ====
         --- Price ---
         61.81999969482422
@@ -118,28 +118,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent JNJ uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent JNJ uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset JNJ | Tick: 2 ====
         --- Price ---
         161.24099731445312
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent KO uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent KO uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset KO | Tick: 2 ====
         --- Price ---
         49.65999984741211
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent JPM uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent JPM uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset JPM | Tick: 2 ====
         --- Price ---
         149.52000427246094
@@ -148,28 +148,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent MCD uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent MCD uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset MCD | Tick: 2 ====
         --- Price ---
         207.76400756835935
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent MMM uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent MMM uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset MMM | Tick: 2 ====
         --- Price ---
         176.2657012939453
         --- Bid Volume ---
-        0.0
+        5.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent MRK uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent MRK uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset MRK | Tick: 2 ====
         --- Price ---
         73.25
@@ -178,18 +178,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent MSFT uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent MSFT uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset MSFT | Tick: 2 ====
         --- Price ---
         235.75
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent NKE uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent NKE uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset NKE | Tick: 2 ====
         --- Price ---
         135.9600067138672
@@ -198,48 +198,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent PG uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent PG uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset PG | Tick: 2 ====
         --- Price ---
         124.62000274658205
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent TRV uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent TRV uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset TRV | Tick: 2 ====
         --- Price ---
         148.02000427246094
         --- Bid Volume ---
-        2.0
+        8.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent UNH uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent UNH uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset UNH | Tick: 2 ====
         --- Price ---
         337.4599914550781
         --- Bid Volume ---
-        12.0
+        29.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent CRM uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent CRM uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset CRM | Tick: 2 ====
         --- Price ---
         218.8800048828125
         --- Bid Volume ---
-        2.0
+        39.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent VZ uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent VZ uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset VZ | Tick: 2 ====
         --- Price ---
         55.5099983215332
@@ -248,8 +248,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent V uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent V uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset V | Tick: 2 ====
         --- Price ---
         216.3800048828125
@@ -258,18 +258,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent WBA uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent WBA uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset WBA | Tick: 2 ====
         --- Price ---
         48.2599983215332
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent WMT uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent WMT uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset WMT | Tick: 2 ====
         --- Price ---
         131.5500030517578
@@ -278,18 +278,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent DIS uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent DIS uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset DIS | Tick: 2 ====
         --- Price ---
         191.97659301757807
         --- Bid Volume ---
-        2.0
+        53.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:42 DEBUG Agent DOW uptick to 2
-04-11-2021 21:10:42 DEBUG 
+04-13-2021 16:26:09 DEBUG Agent DOW uptick to 2
+04-13-2021 16:26:09 DEBUG 
         ==== Asset DOW | Tick: 2 ====
         --- Price ---
         61.34999847412109
@@ -298,58 +298,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent AXP uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent AXP uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset AXP | Tick: 3 ====
         --- Price ---
-        138.57000732421875
+        138.6176369525607
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:10:59 DEBUG Agent AMGN uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent AMGN uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset AMGN | Tick: 3 ====
         --- Price ---
-        226.7151722363839
+        226.87288606120921
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent AAPL uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent AAPL uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset AAPL | Tick: 3 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent BA uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent BA uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset BA | Tick: 3 ====
         --- Price ---
-        220.3000030517578
+        220.3499317973543
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent CAT uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent CAT uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset CAT | Tick: 3 ====
         --- Price ---
-        220.26879528557978
+        220.48496841668862
         --- Bid Volume ---
-        0.0
+        6.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent CSCO uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent CSCO uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset CSCO | Tick: 3 ====
         --- Price ---
         45.290000915527344
@@ -358,28 +358,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent CVX uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent CVX uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset CVX | Tick: 3 ====
         --- Price ---
-        101.7217025756836
+        102.62808196519063
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        19.0
         
-04-11-2021 21:10:59 DEBUG Agent GS uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent GS uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset GS | Tick: 3 ====
         --- Price ---
-        326.2770830855324
+        326.5506984483991
         --- Bid Volume ---
-        0.0
+        8.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent HD uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent HD uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset HD | Tick: 3 ====
         --- Price ---
         259.07000732421875
@@ -388,8 +388,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent HON uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent HON uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset HON | Tick: 3 ====
         --- Price ---
         204.41000366210935
@@ -398,18 +398,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent IBM uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent IBM uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset IBM | Tick: 3 ====
         --- Price ---
-        120.05999755859376
+        120.24313925681129
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        9.0
         
-04-11-2021 21:10:59 DEBUG Agent INTC uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent INTC uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset INTC | Tick: 3 ====
         --- Price ---
         61.81999969482422
@@ -418,28 +418,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent JNJ uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent JNJ uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset JNJ | Tick: 3 ====
         --- Price ---
-        161.24099731445312
+        161.3257789274973
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:10:59 DEBUG Agent KO uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent KO uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset KO | Tick: 3 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent JPM uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent JPM uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset JPM | Tick: 3 ====
         --- Price ---
         149.52000427246094
@@ -448,28 +448,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent MCD uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent MCD uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset MCD | Tick: 3 ====
         --- Price ---
-        207.76400756835935
+        207.89668589321292
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent MMM uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent MMM uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset MMM | Tick: 3 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent MRK uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent MRK uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset MRK | Tick: 3 ====
         --- Price ---
         73.25
@@ -478,18 +478,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent MSFT uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent MSFT uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset MSFT | Tick: 3 ====
         --- Price ---
-        235.75
+        235.78969217680898
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:10:59 DEBUG Agent NKE uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent NKE uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset NKE | Tick: 3 ====
         --- Price ---
         135.9600067138672
@@ -498,48 +498,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent PG uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent PG uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset PG | Tick: 3 ====
         --- Price ---
-        124.62000274658205
+        124.76199405743874
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent TRV uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent TRV uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset TRV | Tick: 3 ====
         --- Price ---
-        148.11733016565663
+        148.25191812369746
         --- Bid Volume ---
-        0.0
+        6.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent UNH uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent UNH uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset UNH | Tick: 3 ====
         --- Price ---
-        337.6590219503448
+        338.60599155324053
+        --- Bid Volume ---
+        23.0
+        --- Offer Volume ---
+        0.0
+        
+04-13-2021 16:26:49 DEBUG Agent CRM uptick to 3
+04-13-2021 16:26:49 DEBUG 
+        ==== Asset CRM | Tick: 3 ====
+        --- Price ---
+        219.46422101512908
         --- Bid Volume ---
         1.0
         --- Offer Volume ---
-        0.0
+        18.0
         
-04-11-2021 21:10:59 DEBUG Agent CRM uptick to 3
-04-11-2021 21:10:59 DEBUG 
-        ==== Asset CRM | Tick: 3 ====
-        --- Price ---
-        218.93345460158622
-        --- Bid Volume ---
-        0.0
-        --- Offer Volume ---
-        0.0
-        
-04-11-2021 21:10:59 DEBUG Agent VZ uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent VZ uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset VZ | Tick: 3 ====
         --- Price ---
         55.5099983215332
@@ -548,8 +548,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent V uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent V uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset V | Tick: 3 ====
         --- Price ---
         216.3800048828125
@@ -558,18 +558,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent WBA uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent WBA uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset WBA | Tick: 3 ====
         --- Price ---
-        48.2599983215332
+        48.31725876944935
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:10:59 DEBUG Agent WMT uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent WMT uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset WMT | Tick: 3 ====
         --- Price ---
         131.5500030517578
@@ -578,18 +578,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:10:59 DEBUG Agent DIS uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent DIS uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset DIS | Tick: 3 ====
         --- Price ---
-        191.99076719226701
+        192.30623014596628
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        17.0
         
-04-11-2021 21:10:59 DEBUG Agent DOW uptick to 3
-04-11-2021 21:10:59 DEBUG 
+04-13-2021 16:26:49 DEBUG Agent DOW uptick to 3
+04-13-2021 16:26:49 DEBUG 
         ==== Asset DOW | Tick: 3 ====
         --- Price ---
         61.34999847412109
@@ -598,58 +598,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent AXP uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent AXP uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset AXP | Tick: 4 ====
         --- Price ---
-        138.57000732421875
+        138.60402848732014
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:18 DEBUG Agent AMGN uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent AMGN uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset AMGN | Tick: 4 ====
         --- Price ---
-        226.7151722363839
+        226.97739098681092
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:11:18 DEBUG Agent AAPL uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent AAPL uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset AAPL | Tick: 4 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent BA uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent BA uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset BA | Tick: 4 ====
         --- Price ---
-        220.3000030517578
+        220.44978928854727
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:18 DEBUG Agent CAT uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent CAT uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset CAT | Tick: 4 ====
         --- Price ---
-        220.26879528557978
+        220.71370022236914
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:11:18 DEBUG Agent CSCO uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent CSCO uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset CSCO | Tick: 4 ====
         --- Price ---
         45.290000915527344
@@ -658,28 +658,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent CVX uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent CVX uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset CVX | Tick: 4 ====
         --- Price ---
-        101.7217025756836
+        102.00058854168576
         --- Bid Volume ---
-        0.0
+        28.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent GS uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent GS uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset GS | Tick: 4 ====
         --- Price ---
-        326.2770830855324
+        326.8111616392589
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        7.0
         
-04-11-2021 21:11:18 DEBUG Agent HD uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent HD uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset HD | Tick: 4 ====
         --- Price ---
         259.07000732421875
@@ -688,8 +688,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent HON uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent HON uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset HON | Tick: 4 ====
         --- Price ---
         204.41000366210935
@@ -698,18 +698,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent IBM uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent IBM uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset IBM | Tick: 4 ====
         --- Price ---
         120.05999755859376
         --- Bid Volume ---
-        0.0
+        7.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent INTC uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent INTC uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset INTC | Tick: 4 ====
         --- Price ---
         61.81999969482422
@@ -718,28 +718,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent JNJ uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent JNJ uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset JNJ | Tick: 4 ====
         --- Price ---
-        161.24099731445312
+        161.26219271771416
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:18 DEBUG Agent KO uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent KO uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset KO | Tick: 4 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent JPM uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent JPM uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset JPM | Tick: 4 ====
         --- Price ---
         149.52000427246094
@@ -748,28 +748,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent MCD uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent MCD uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset MCD | Tick: 4 ====
         --- Price ---
-        207.76400756835935
+        208.0293642180665
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:18 DEBUG Agent MMM uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent MMM uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset MMM | Tick: 4 ====
         --- Price ---
-        176.2657012939453
+        176.3596236182656
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:18 DEBUG Agent MRK uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent MRK uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset MRK | Tick: 4 ====
         --- Price ---
         73.25
@@ -778,18 +778,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent MSFT uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent MSFT uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset MSFT | Tick: 4 ====
         --- Price ---
-        235.75
+        235.77976913260673
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:18 DEBUG Agent NKE uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent NKE uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset NKE | Tick: 4 ====
         --- Price ---
         135.9600067138672
@@ -798,48 +798,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent PG uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent PG uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset PG | Tick: 4 ====
         --- Price ---
-        124.62000274658205
+        124.90398536829544
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:18 DEBUG Agent TRV uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent TRV uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset TRV | Tick: 4 ====
         --- Price ---
-        148.11733016565663
+        148.42585351212486
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:11:18 DEBUG Agent UNH uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent UNH uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset UNH | Tick: 4 ====
         --- Price ---
-        337.67560782495036
+        339.51488818281763
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
-        0.0
+        17.0
         
-04-11-2021 21:11:18 DEBUG Agent CRM uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent CRM uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset CRM | Tick: 4 ====
         --- Price ---
-        218.93345460158622
+        219.20956270104236
         --- Bid Volume ---
-        0.0
+        15.0
         --- Offer Volume ---
-        0.0
+        6.0
         
-04-11-2021 21:11:18 DEBUG Agent VZ uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent VZ uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset VZ | Tick: 4 ====
         --- Price ---
         55.5099983215332
@@ -848,8 +848,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent V uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent V uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset V | Tick: 4 ====
         --- Price ---
         216.3800048828125
@@ -858,18 +858,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent WBA uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent WBA uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset WBA | Tick: 4 ====
         --- Price ---
         48.2599983215332
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent WMT uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent WMT uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset WMT | Tick: 4 ====
         --- Price ---
         131.5500030517578
@@ -878,18 +878,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:18 DEBUG Agent DIS uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent DIS uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset DIS | Tick: 4 ====
         --- Price ---
-        191.99076719226701
+        192.2191561875241
         --- Bid Volume ---
-        0.0
+        17.0
         --- Offer Volume ---
-        0.0
+        17.0
         
-04-11-2021 21:11:18 DEBUG Agent DOW uptick to 4
-04-11-2021 21:11:18 DEBUG 
+04-13-2021 16:27:34 DEBUG Agent DOW uptick to 4
+04-13-2021 16:27:34 DEBUG 
         ==== Asset DOW | Tick: 4 ====
         --- Price ---
         61.34999847412109
@@ -898,58 +898,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent AXP uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent AXP uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset AXP | Tick: 5 ====
         --- Price ---
-        138.57000732421875
+        138.59722425469985
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent AMGN uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent AMGN uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset AMGN | Tick: 5 ====
         --- Price ---
-        226.7151722363839
+        226.89901229260965
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent AAPL uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent AAPL uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset AAPL | Tick: 5 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent BA uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent BA uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset BA | Tick: 5 ====
         --- Price ---
-        220.3000030517578
+        220.44978928854727
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent CAT uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent CAT uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset CAT | Tick: 5 ====
         --- Price ---
-        220.26879528557978
+        220.59933431952888
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:37 DEBUG Agent CSCO uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent CSCO uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset CSCO | Tick: 5 ====
         --- Price ---
         45.290000915527344
@@ -958,28 +958,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent CVX uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent CVX uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset CVX | Tick: 5 ====
         --- Price ---
-        101.7217025756836
+        102.97668942269334
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        25.0
         
-04-11-2021 21:11:37 DEBUG Agent GS uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent GS uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset GS | Tick: 5 ====
         --- Price ---
-        326.2770830855324
+        326.6483721449715
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:37 DEBUG Agent HD uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent HD uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset HD | Tick: 5 ====
         --- Price ---
         259.07000732421875
@@ -988,8 +988,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent HON uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent HON uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset HON | Tick: 5 ====
         --- Price ---
         204.41000366210935
@@ -998,18 +998,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent IBM uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent IBM uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset IBM | Tick: 5 ====
         --- Price ---
-        120.05999755859376
+        120.20244110165183
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:11:37 DEBUG Agent INTC uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent INTC uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset INTC | Tick: 5 ====
         --- Price ---
         61.81999969482422
@@ -1018,28 +1018,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent JNJ uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent JNJ uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset JNJ | Tick: 5 ====
         --- Price ---
-        161.24099731445312
+        161.30458352423625
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:37 DEBUG Agent KO uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent KO uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset KO | Tick: 5 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent JPM uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent JPM uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset JPM | Tick: 5 ====
         --- Price ---
         149.52000427246094
@@ -1048,28 +1048,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent MCD uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent MCD uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset MCD | Tick: 5 ====
         --- Price ---
-        207.76400756835935
+        207.98513810978196
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent MMM uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent MMM uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset MMM | Tick: 5 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent MRK uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent MRK uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset MRK | Tick: 5 ====
         --- Price ---
         73.25
@@ -1078,18 +1078,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent MSFT uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent MSFT uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset MSFT | Tick: 5 ====
         --- Price ---
-        235.75
+        235.77976913260673
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent NKE uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent NKE uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset NKE | Tick: 5 ====
         --- Price ---
         135.9600067138672
@@ -1098,48 +1098,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent PG uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent PG uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset PG | Tick: 5 ====
         --- Price ---
-        124.62000274658205
+        124.8566549313432
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent TRV uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent TRV uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset TRV | Tick: 5 ====
         --- Price ---
-        148.11733016565663
+        148.33888581791118
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent UNH uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent UNH uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset UNH | Tick: 5 ====
         --- Price ---
-        337.67560782495036
+        339.00116400088274
         --- Bid Volume ---
-        0.0
+        9.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:37 DEBUG Agent CRM uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent CRM uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset CRM | Tick: 5 ====
         --- Price ---
-        218.93345460158622
+        219.34438180850003
         --- Bid Volume ---
-        0.0
+        5.0
         --- Offer Volume ---
-        0.0
+        9.0
         
-04-11-2021 21:11:37 DEBUG Agent VZ uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent VZ uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset VZ | Tick: 5 ====
         --- Price ---
         55.5099983215332
@@ -1148,8 +1148,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent V uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent V uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset V | Tick: 5 ====
         --- Price ---
         216.3800048828125
@@ -1158,18 +1158,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent WBA uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent WBA uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset WBA | Tick: 5 ====
         --- Price ---
-        48.2599983215332
+        48.28862854549128
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:37 DEBUG Agent WMT uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent WMT uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset WMT | Tick: 5 ====
         --- Price ---
         131.5500030517578
@@ -1178,18 +1178,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:37 DEBUG Agent DIS uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent DIS uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset DIS | Tick: 5 ====
         --- Price ---
-        191.99076719226701
+        192.2191561875241
         --- Bid Volume ---
-        0.0
+        11.0
         --- Offer Volume ---
-        0.0
+        5.0
         
-04-11-2021 21:11:37 DEBUG Agent DOW uptick to 5
-04-11-2021 21:11:37 DEBUG 
+04-13-2021 16:28:28 DEBUG Agent DOW uptick to 5
+04-13-2021 16:28:28 DEBUG 
         ==== Asset DOW | Tick: 5 ====
         --- Price ---
         61.34999847412109
@@ -1198,58 +1198,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent AXP uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent AXP uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset AXP | Tick: 6 ====
         --- Price ---
-        138.57000732421875
+        138.59722425469985
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:57 DEBUG Agent AMGN uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent AMGN uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset AMGN | Tick: 6 ====
         --- Price ---
-        226.7151722363839
+        226.89901229260965
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        5.0
         
-04-11-2021 21:11:57 DEBUG Agent AAPL uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent AAPL uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset AAPL | Tick: 6 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:57 DEBUG Agent BA uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent BA uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset BA | Tick: 6 ====
         --- Price ---
-        220.3000030517578
+        220.44978928854727
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:57 DEBUG Agent CAT uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent CAT uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset CAT | Tick: 6 ====
         --- Price ---
-        220.26879528557978
+        220.56121235191546
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
-        0.0
+        6.0
         
-04-11-2021 21:11:57 DEBUG Agent CSCO uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent CSCO uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset CSCO | Tick: 6 ====
         --- Price ---
         45.290000915527344
@@ -1258,28 +1258,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent CVX uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent CVX uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset CVX | Tick: 6 ====
         --- Price ---
-        101.7217025756836
+        102.10517077893657
         --- Bid Volume ---
-        0.0
+        18.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent GS uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent GS uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset GS | Tick: 6 ====
         --- Price ---
-        326.2770830855324
+        326.71348794268647
         --- Bid Volume ---
-        0.0
+        6.0
         --- Offer Volume ---
-        0.0
+        11.0
         
-04-11-2021 21:11:57 DEBUG Agent HD uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent HD uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset HD | Tick: 6 ====
         --- Price ---
         259.07000732421875
@@ -1288,8 +1288,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent HON uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent HON uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset HON | Tick: 6 ====
         --- Price ---
         204.41000366210935
@@ -1298,18 +1298,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent IBM uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent IBM uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset IBM | Tick: 6 ====
         --- Price ---
-        120.05999755859376
+        120.12104479133293
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent INTC uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent INTC uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset INTC | Tick: 6 ====
         --- Price ---
         61.81999969482422
@@ -1318,28 +1318,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent JNJ uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent JNJ uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset JNJ | Tick: 6 ====
         --- Price ---
-        161.24099731445312
+        161.2833881209752
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent KO uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent KO uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset KO | Tick: 6 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:57 DEBUG Agent JPM uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent JPM uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset JPM | Tick: 6 ====
         --- Price ---
         149.52000427246094
@@ -1348,28 +1348,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent MCD uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent MCD uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset MCD | Tick: 6 ====
         --- Price ---
-        207.76400756835935
+        207.98513810978196
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:11:57 DEBUG Agent MMM uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent MMM uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset MMM | Tick: 6 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:11:57 DEBUG Agent MRK uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent MRK uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset MRK | Tick: 6 ====
         --- Price ---
         73.25
@@ -1378,18 +1378,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent MSFT uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent MSFT uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset MSFT | Tick: 6 ====
         --- Price ---
-        235.75
+        235.77976913260673
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent NKE uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent NKE uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset NKE | Tick: 6 ====
         --- Price ---
         135.9600067138672
@@ -1398,48 +1398,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent PG uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent PG uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset PG | Tick: 6 ====
         --- Price ---
-        124.62000274658205
+        124.8566549313432
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:11:57 DEBUG Agent TRV uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent TRV uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset TRV | Tick: 6 ====
         --- Price ---
-        148.11733016565663
+        148.33888581791118
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
-        0.0
+        7.0
         
-04-11-2021 21:11:57 DEBUG Agent UNH uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent UNH uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset UNH | Tick: 6 ====
         --- Price ---
-        337.67560782495036
+        339.3173019589965
         --- Bid Volume ---
-        0.0
+        17.0
         --- Offer Volume ---
-        0.0
+        33.0
         
-04-11-2021 21:11:57 DEBUG Agent CRM uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent CRM uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset CRM | Tick: 6 ====
         --- Price ---
-        218.93345460158622
+        219.28446220518552
         --- Bid Volume ---
-        0.0
+        10.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:11:57 DEBUG Agent VZ uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent VZ uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset VZ | Tick: 6 ====
         --- Price ---
         55.5099983215332
@@ -1448,8 +1448,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent V uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent V uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset V | Tick: 6 ====
         --- Price ---
         216.3800048828125
@@ -1458,18 +1458,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent WBA uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent WBA uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset WBA | Tick: 6 ====
         --- Price ---
         48.2599983215332
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent WMT uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent WMT uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset WMT | Tick: 6 ====
         --- Price ---
         131.5500030517578
@@ -1478,18 +1478,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:57 DEBUG Agent DIS uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent DIS uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset DIS | Tick: 6 ====
         --- Price ---
-        191.99076719226701
+        192.25647359828503
         --- Bid Volume ---
-        0.0
+        12.0
         --- Offer Volume ---
-        0.0
+        5.0
         
-04-11-2021 21:11:57 DEBUG Agent DOW uptick to 6
-04-11-2021 21:11:57 DEBUG 
+04-13-2021 16:29:25 DEBUG Agent DOW uptick to 6
+04-13-2021 16:29:25 DEBUG 
         ==== Asset DOW | Tick: 6 ====
         --- Price ---
         61.34999847412109
@@ -1498,28 +1498,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent AXP uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent AXP uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset AXP | Tick: 7 ====
         --- Price ---
-        138.57000732421875
+        138.59042002207957
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent AMGN uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent AMGN uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset AMGN | Tick: 7 ====
         --- Price ---
-        226.7151722363839
+        226.8467598298088
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent AAPL uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent AAPL uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset AAPL | Tick: 7 ====
         --- Price ---
         123.6999969482422
@@ -1528,28 +1528,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent BA uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent BA uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset BA | Tick: 7 ====
         --- Price ---
-        220.3000030517578
+        220.3998605429508
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent CAT uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent CAT uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset CAT | Tick: 7 ====
         --- Price ---
-        220.26879528557978
+        220.48496841668862
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent CSCO uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent CSCO uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset CSCO | Tick: 7 ====
         --- Price ---
         45.290000915527344
@@ -1558,28 +1558,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent CVX uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent CVX uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset CVX | Tick: 7 ====
         --- Price ---
-        101.7217025756836
+        102.73266420244144
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        17.0
         
-04-11-2021 21:11:58 DEBUG Agent GS uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent GS uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset GS | Tick: 7 ====
         --- Price ---
-        326.2770830855324
+        326.5506984483991
         --- Bid Volume ---
-        0.0
+        5.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent HD uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent HD uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset HD | Tick: 7 ====
         --- Price ---
         259.07000732421875
@@ -1588,8 +1588,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent HON uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent HON uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset HON | Tick: 7 ====
         --- Price ---
         204.41000366210935
@@ -1598,18 +1598,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent IBM uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent IBM uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset IBM | Tick: 7 ====
         --- Price ---
-        120.05999755859376
+        120.14139386891266
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:58 DEBUG Agent INTC uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent INTC uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset INTC | Tick: 7 ====
         --- Price ---
         61.81999969482422
@@ -1618,18 +1618,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent JNJ uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent JNJ uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset JNJ | Tick: 7 ====
         --- Price ---
-        161.24099731445312
+        161.32577892749728
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:58 DEBUG Agent KO uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent KO uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset KO | Tick: 7 ====
         --- Price ---
         49.65999984741211
@@ -1638,8 +1638,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent JPM uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent JPM uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset JPM | Tick: 7 ====
         --- Price ---
         149.52000427246094
@@ -1648,28 +1648,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent MCD uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent MCD uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset MCD | Tick: 7 ====
         --- Price ---
-        207.76400756835935
+        207.94091200149742
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent MMM uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent MMM uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset MMM | Tick: 7 ====
         --- Price ---
-        176.2657012939453
+        176.31937119355692
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent MRK uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent MRK uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset MRK | Tick: 7 ====
         --- Price ---
         73.25
@@ -1678,18 +1678,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent MSFT uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent MSFT uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset MSFT | Tick: 7 ====
         --- Price ---
-        235.75
+        235.78969217680898
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:58 DEBUG Agent NKE uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent NKE uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset NKE | Tick: 7 ====
         --- Price ---
         135.9600067138672
@@ -1698,48 +1698,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent PG uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent PG uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset PG | Tick: 7 ====
         --- Price ---
-        124.62000274658205
+        124.80932449439096
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:58 DEBUG Agent TRV uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent TRV uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset TRV | Tick: 7 ====
         --- Price ---
-        148.11733016565663
+        148.2519181236975
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent UNH uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent UNH uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset UNH | Tick: 7 ====
         --- Price ---
-        337.67560782495036
+        338.685026042769
         --- Bid Volume ---
-        0.0
+        26.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:58 DEBUG Agent CRM uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent CRM uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset CRM | Tick: 7 ====
         --- Price ---
-        218.93345460158622
+        219.38932151098592
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        11.0
         
-04-11-2021 21:11:58 DEBUG Agent VZ uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent VZ uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset VZ | Tick: 7 ====
         --- Price ---
         55.5099983215332
@@ -1748,8 +1748,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent V uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent V uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset V | Tick: 7 ====
         --- Price ---
         216.3800048828125
@@ -1758,18 +1758,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent WBA uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent WBA uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset WBA | Tick: 7 ====
         --- Price ---
-        48.2599983215332
+        48.31725876944935
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:58 DEBUG Agent WMT uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent WMT uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset WMT | Tick: 7 ====
         --- Price ---
         131.5500030517578
@@ -1778,18 +1778,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:58 DEBUG Agent DIS uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent DIS uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset DIS | Tick: 7 ====
         --- Price ---
-        191.99076719226701
+        192.3000105775061
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        15.0
         
-04-11-2021 21:11:58 DEBUG Agent DOW uptick to 7
-04-11-2021 21:11:58 DEBUG 
+04-13-2021 16:29:28 DEBUG Agent DOW uptick to 7
+04-13-2021 16:29:28 DEBUG 
         ==== Asset DOW | Tick: 7 ====
         --- Price ---
         61.34999847412109
@@ -1798,58 +1798,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent AXP uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent AXP uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset AXP | Tick: 8 ====
         --- Price ---
-        138.57000732421875
+        138.59042002207957
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:59 DEBUG Agent AMGN uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent AMGN uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset AMGN | Tick: 8 ====
         --- Price ---
-        226.7151722363839
+        226.8467598298088
         --- Bid Volume ---
-        0.0
+        5.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:11:59 DEBUG Agent AAPL uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent AAPL uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset AAPL | Tick: 8 ====
         --- Price ---
         123.6999969482422
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent BA uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent BA uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset BA | Tick: 8 ====
         --- Price ---
-        220.3000030517578
+        220.3998605429508
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:59 DEBUG Agent CAT uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent CAT uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset CAT | Tick: 8 ====
         --- Price ---
-        220.26879528557978
+        220.48496841668862
         --- Bid Volume ---
-        0.0
+        6.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:11:59 DEBUG Agent CSCO uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent CSCO uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset CSCO | Tick: 8 ====
         --- Price ---
         45.290000915527344
@@ -1858,28 +1858,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent CVX uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent CVX uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset CVX | Tick: 8 ====
         --- Price ---
-        101.7217025756836
+        102.14003152468683
         --- Bid Volume ---
-        0.0
+        17.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent GS uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent GS uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset GS | Tick: 8 ====
         --- Price ---
-        326.2770830855324
+        326.71348794268647
         --- Bid Volume ---
-        0.0
+        9.0
         --- Offer Volume ---
-        0.0
+        11.0
         
-04-11-2021 21:11:59 DEBUG Agent HD uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent HD uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset HD | Tick: 8 ====
         --- Price ---
         259.07000732421875
@@ -1888,8 +1888,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent HON uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent HON uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset HON | Tick: 8 ====
         --- Price ---
         204.41000366210935
@@ -1898,18 +1898,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent IBM uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent IBM uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset IBM | Tick: 8 ====
         --- Price ---
-        120.05999755859376
+        120.12104479133293
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:59 DEBUG Agent INTC uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent INTC uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset INTC | Tick: 8 ====
         --- Price ---
         61.81999969482422
@@ -1918,28 +1918,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent JNJ uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent JNJ uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset JNJ | Tick: 8 ====
         --- Price ---
-        161.24099731445312
+        161.2833881209752
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:59 DEBUG Agent KO uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent KO uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset KO | Tick: 8 ====
         --- Price ---
         49.65999984741211
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent JPM uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent JPM uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset JPM | Tick: 8 ====
         --- Price ---
         149.52000427246094
@@ -1948,28 +1948,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent MCD uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent MCD uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset MCD | Tick: 8 ====
         --- Price ---
-        207.76400756835935
+        207.94091200149742
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:59 DEBUG Agent MMM uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent MMM uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset MMM | Tick: 8 ====
         --- Price ---
-        176.2657012939453
+        176.31937119355692
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:59 DEBUG Agent MRK uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent MRK uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset MRK | Tick: 8 ====
         --- Price ---
         73.25
@@ -1978,18 +1978,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent MSFT uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent MSFT uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset MSFT | Tick: 8 ====
         --- Price ---
-        235.75
+        235.77976913260673
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:11:59 DEBUG Agent NKE uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent NKE uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset NKE | Tick: 8 ====
         --- Price ---
         135.9600067138672
@@ -1998,48 +1998,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent PG uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent PG uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset PG | Tick: 8 ====
         --- Price ---
-        124.62000274658205
+        124.76199405743873
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:11:59 DEBUG Agent TRV uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent TRV uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset TRV | Tick: 8 ====
         --- Price ---
-        148.11733016565663
+        148.2519181236975
         --- Bid Volume ---
-        0.0
+        6.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:11:59 DEBUG Agent UNH uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent UNH uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset UNH | Tick: 8 ====
         --- Price ---
-        337.67560782495036
+        339.6729571618745
         --- Bid Volume ---
-        0.0
+        23.0
         --- Offer Volume ---
-        0.0
+        40.0
         
-04-11-2021 21:11:59 DEBUG Agent CRM uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent CRM uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset CRM | Tick: 8 ====
         --- Price ---
-        218.93345460158622
+        219.23952250269963
         --- Bid Volume ---
-        0.0
+        9.0
         --- Offer Volume ---
-        0.0
+        6.0
         
-04-11-2021 21:11:59 DEBUG Agent VZ uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent VZ uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset VZ | Tick: 8 ====
         --- Price ---
         55.5099983215332
@@ -2048,8 +2048,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent V uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent V uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset V | Tick: 8 ====
         --- Price ---
         216.3800048828125
@@ -2058,8 +2058,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent WBA uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent WBA uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset WBA | Tick: 8 ====
         --- Price ---
         48.2599983215332
@@ -2068,8 +2068,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent WMT uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent WMT uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset WMT | Tick: 8 ====
         --- Price ---
         131.5500030517578
@@ -2078,18 +2078,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:11:59 DEBUG Agent DIS uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent DIS uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset DIS | Tick: 8 ====
         --- Price ---
-        191.99076719226701
+        192.21915618752408
         --- Bid Volume ---
-        0.0
+        10.0
         --- Offer Volume ---
-        0.0
+        13.0
         
-04-11-2021 21:11:59 DEBUG Agent DOW uptick to 8
-04-11-2021 21:11:59 DEBUG 
+04-13-2021 16:29:30 DEBUG Agent DOW uptick to 8
+04-13-2021 16:29:30 DEBUG 
         ==== Asset DOW | Tick: 8 ====
         --- Price ---
         61.34999847412109
@@ -2098,58 +2098,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent AXP uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent AXP uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset AXP | Tick: 9 ====
         --- Price ---
-        138.57000732421875
+        138.59722425469985
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent AMGN uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent AMGN uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset AMGN | Tick: 9 ====
         --- Price ---
-        226.7151722363839
+        226.89901229260965
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent AAPL uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent AAPL uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset AAPL | Tick: 9 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent BA uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent BA uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset BA | Tick: 9 ====
         --- Price ---
-        220.3000030517578
+        220.3998605429508
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent CAT uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent CAT uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset CAT | Tick: 9 ====
         --- Price ---
-        220.26879528557978
+        220.56121235191546
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent CSCO uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent CSCO uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset CSCO | Tick: 9 ====
         --- Price ---
         45.290000915527344
@@ -2158,28 +2158,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent CVX uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent CVX uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset CVX | Tick: 9 ====
         --- Price ---
-        101.7217025756836
+        102.73266420244144
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        17.0
         
-04-11-2021 21:12:00 DEBUG Agent GS uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent GS uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset GS | Tick: 9 ====
         --- Price ---
-        326.2770830855324
+        326.6483721449715
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent HD uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent HD uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset HD | Tick: 9 ====
         --- Price ---
         259.07000732421875
@@ -2188,8 +2188,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent HON uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent HON uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset HON | Tick: 9 ====
         --- Price ---
         204.41000366210935
@@ -2198,18 +2198,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent IBM uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent IBM uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset IBM | Tick: 9 ====
         --- Price ---
-        120.05999755859376
+        120.10069571375321
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent INTC uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent INTC uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset INTC | Tick: 9 ====
         --- Price ---
         61.81999969482422
@@ -2218,28 +2218,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent JNJ uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent JNJ uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset JNJ | Tick: 9 ====
         --- Price ---
-        161.24099731445312
+        161.2833881209752
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent KO uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent KO uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset KO | Tick: 9 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent JPM uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent JPM uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset JPM | Tick: 9 ====
         --- Price ---
         149.52000427246094
@@ -2248,28 +2248,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent MCD uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent MCD uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset MCD | Tick: 9 ====
         --- Price ---
-        207.76400756835935
+        207.98513810978196
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent MMM uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent MMM uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset MMM | Tick: 9 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent MRK uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent MRK uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset MRK | Tick: 9 ====
         --- Price ---
         73.25
@@ -2278,18 +2278,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent MSFT uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent MSFT uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset MSFT | Tick: 9 ====
         --- Price ---
-        235.75
+        235.76984608840448
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent NKE uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent NKE uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset NKE | Tick: 9 ====
         --- Price ---
         135.9600067138672
@@ -2298,48 +2298,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent PG uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent PG uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset PG | Tick: 9 ====
         --- Price ---
-        124.62000274658205
+        124.80932449439096
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent TRV uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent TRV uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset TRV | Tick: 9 ====
         --- Price ---
-        148.11733016565663
+        148.30989658650662
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent UNH uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent UNH uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset UNH | Tick: 9 ====
         --- Price ---
-        337.67560782495036
+        339.00116400088274
         --- Bid Volume ---
-        0.0
+        17.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:00 DEBUG Agent CRM uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent CRM uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset CRM | Tick: 9 ====
         --- Price ---
-        218.93345460158622
+        219.28446220518552
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
-        0.0
+        6.0
         
-04-11-2021 21:12:00 DEBUG Agent VZ uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent VZ uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset VZ | Tick: 9 ====
         --- Price ---
         55.5099983215332
@@ -2348,8 +2348,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent V uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent V uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset V | Tick: 9 ====
         --- Price ---
         216.3800048828125
@@ -2358,18 +2358,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent WBA uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent WBA uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset WBA | Tick: 9 ====
         --- Price ---
         48.2599983215332
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent WMT uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent WMT uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset WMT | Tick: 9 ====
         --- Price ---
         131.5500030517578
@@ -2378,18 +2378,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:00 DEBUG Agent DIS uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent DIS uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset DIS | Tick: 9 ====
         --- Price ---
-        191.99076719226701
+        192.20049748214362
         --- Bid Volume ---
-        0.0
+        9.0
         --- Offer Volume ---
-        0.0
+        7.0
         
-04-11-2021 21:12:00 DEBUG Agent DOW uptick to 9
-04-11-2021 21:12:00 DEBUG 
+04-13-2021 16:29:33 DEBUG Agent DOW uptick to 9
+04-13-2021 16:29:33 DEBUG 
         ==== Asset DOW | Tick: 9 ====
         --- Price ---
         61.34999847412109
@@ -2398,58 +2398,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent AXP uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent AXP uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset AXP | Tick: 10 ====
         --- Price ---
-        138.57000732421875
+        138.59722425469985
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:01 DEBUG Agent AMGN uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent AMGN uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset AMGN | Tick: 10 ====
         --- Price ---
-        226.7151722363839
+        226.89901229260965
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:12:01 DEBUG Agent AAPL uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent AAPL uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset AAPL | Tick: 10 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent BA uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent BA uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset BA | Tick: 10 ====
         --- Price ---
-        220.3000030517578
+        220.3998605429508
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:01 DEBUG Agent CAT uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent CAT uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset CAT | Tick: 10 ====
         --- Price ---
-        220.26879528557978
+        220.56121235191546
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:12:01 DEBUG Agent CSCO uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent CSCO uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset CSCO | Tick: 10 ====
         --- Price ---
         45.290000915527344
@@ -2458,28 +2458,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent CVX uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent CVX uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset CVX | Tick: 10 ====
         --- Price ---
-        101.7217025756836
+        102.14003152468683
         --- Bid Volume ---
-        0.0
+        24.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent GS uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent GS uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset GS | Tick: 10 ====
         --- Price ---
-        326.2770830855324
+        326.6483721449715
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        6.0
         
-04-11-2021 21:12:01 DEBUG Agent HD uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent HD uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset HD | Tick: 10 ====
         --- Price ---
         259.07000732421875
@@ -2488,8 +2488,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent HON uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent HON uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset HON | Tick: 10 ====
         --- Price ---
         204.41000366210935
@@ -2498,18 +2498,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent IBM uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent IBM uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset IBM | Tick: 10 ====
         --- Price ---
-        120.05999755859376
+        120.12104479133293
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:01 DEBUG Agent INTC uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent INTC uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset INTC | Tick: 10 ====
         --- Price ---
         61.81999969482422
@@ -2518,28 +2518,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent JNJ uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent JNJ uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset JNJ | Tick: 10 ====
         --- Price ---
-        161.24099731445312
+        161.30458352423625
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:01 DEBUG Agent KO uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent KO uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset KO | Tick: 10 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent JPM uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent JPM uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset JPM | Tick: 10 ====
         --- Price ---
         149.52000427246094
@@ -2548,28 +2548,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent MCD uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent MCD uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset MCD | Tick: 10 ====
         --- Price ---
-        207.76400756835935
+        207.98513810978196
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:01 DEBUG Agent MMM uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent MMM uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset MMM | Tick: 10 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:01 DEBUG Agent MRK uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent MRK uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset MRK | Tick: 10 ====
         --- Price ---
         73.25
@@ -2578,18 +2578,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent MSFT uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent MSFT uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset MSFT | Tick: 10 ====
         --- Price ---
-        235.75
+        235.77976913260673
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:01 DEBUG Agent NKE uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent NKE uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset NKE | Tick: 10 ====
         --- Price ---
         135.9600067138672
@@ -2598,48 +2598,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent PG uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent PG uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset PG | Tick: 10 ====
         --- Price ---
-        124.62000274658205
+        124.80932449439096
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:01 DEBUG Agent TRV uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent TRV uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset TRV | Tick: 10 ====
         --- Price ---
-        148.11733016565663
+        148.33888581791118
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:12:01 DEBUG Agent UNH uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent UNH uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset UNH | Tick: 10 ====
         --- Price ---
-        337.67560782495036
+        339.63343991711025
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        30.0
         
-04-11-2021 21:12:01 DEBUG Agent CRM uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent CRM uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset CRM | Tick: 10 ====
         --- Price ---
-        218.93345460158622
+        219.25450240352825
         --- Bid Volume ---
-        0.0
+        11.0
         --- Offer Volume ---
-        0.0
+        12.0
         
-04-11-2021 21:12:01 DEBUG Agent VZ uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent VZ uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset VZ | Tick: 10 ====
         --- Price ---
         55.5099983215332
@@ -2648,8 +2648,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent V uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent V uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset V | Tick: 10 ====
         --- Price ---
         216.3800048828125
@@ -2658,18 +2658,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent WBA uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent WBA uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset WBA | Tick: 10 ====
         --- Price ---
-        48.2599983215332
+        48.28862854549128
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:01 DEBUG Agent WMT uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent WMT uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset WMT | Tick: 10 ====
         --- Price ---
         131.5500030517578
@@ -2678,18 +2678,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent DIS uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent DIS uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset DIS | Tick: 10 ====
         --- Price ---
-        191.99076719226701
+        192.21293661906392
         --- Bid Volume ---
-        0.0
+        19.0
         --- Offer Volume ---
-        0.0
+        19.0
         
-04-11-2021 21:12:01 DEBUG Agent DOW uptick to 10
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:36 DEBUG Agent DOW uptick to 10
+04-13-2021 16:29:36 DEBUG 
         ==== Asset DOW | Tick: 10 ====
         --- Price ---
         61.34999847412109
@@ -2698,58 +2698,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent AXP uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent AXP uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset AXP | Tick: 11 ====
         --- Price ---
-        138.57000732421875
+        138.5836157894593
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent AMGN uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent AMGN uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset AMGN | Tick: 11 ====
         --- Price ---
-        226.7151722363839
+        226.8206335984084
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent AAPL uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent AAPL uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset AAPL | Tick: 11 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent BA uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent BA uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset BA | Tick: 11 ====
         --- Price ---
-        220.3000030517578
+        220.34993179735432
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent CAT uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent CAT uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset CAT | Tick: 11 ====
         --- Price ---
-        220.26879528557978
+        220.40872448146177
         --- Bid Volume ---
-        0.0
+        7.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent CSCO uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent CSCO uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset CSCO | Tick: 11 ====
         --- Price ---
         45.290000915527344
@@ -2758,28 +2758,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent CVX uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent CVX uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset CVX | Tick: 11 ====
         --- Price ---
-        101.7217025756836
+        102.97668942269333
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        26.0
         
-04-11-2021 21:12:01 DEBUG Agent GS uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent GS uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset GS | Tick: 11 ====
         --- Price ---
-        326.2770830855324
+        326.48558265068414
         --- Bid Volume ---
-        0.0
+        9.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:01 DEBUG Agent HD uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent HD uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset HD | Tick: 11 ====
         --- Price ---
         259.07000732421875
@@ -2788,8 +2788,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent HON uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent HON uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset HON | Tick: 11 ====
         --- Price ---
         204.41000366210935
@@ -2798,18 +2798,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent IBM uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent IBM uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset IBM | Tick: 11 ====
         --- Price ---
-        120.05999755859376
+        120.10069571375321
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:01 DEBUG Agent INTC uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent INTC uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset INTC | Tick: 11 ====
         --- Price ---
         61.81999969482422
@@ -2818,28 +2818,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent JNJ uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent JNJ uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset JNJ | Tick: 11 ====
         --- Price ---
-        161.24099731445312
+        161.2833881209752
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:01 DEBUG Agent KO uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent KO uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset KO | Tick: 11 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent JPM uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent JPM uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset JPM | Tick: 11 ====
         --- Price ---
         149.52000427246094
@@ -2848,28 +2848,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent MCD uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent MCD uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset MCD | Tick: 11 ====
         --- Price ---
-        207.76400756835935
+        207.8966858932129
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent MMM uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent MMM uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset MMM | Tick: 11 ====
         --- Price ---
-        176.2657012939453
+        176.30595371865402
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent MRK uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent MRK uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset MRK | Tick: 11 ====
         --- Price ---
         73.25
@@ -2878,18 +2878,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent MSFT uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent MSFT uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset MSFT | Tick: 11 ====
         --- Price ---
-        235.75
+        235.76984608840448
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:01 DEBUG Agent NKE uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent NKE uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset NKE | Tick: 11 ====
         --- Price ---
         135.9600067138672
@@ -2898,48 +2898,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent PG uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent PG uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset PG | Tick: 11 ====
         --- Price ---
-        124.62000274658205
+        124.76199405743873
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent TRV uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent TRV uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset TRV | Tick: 11 ====
         --- Price ---
-        148.11733016565663
+        148.2229288922929
         --- Bid Volume ---
-        0.0
+        5.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:01 DEBUG Agent UNH uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent UNH uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset UNH | Tick: 11 ====
         --- Price ---
-        337.67560782495036
+        338.5269570637121
         --- Bid Volume ---
-        0.0
+        41.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:01 DEBUG Agent CRM uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent CRM uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset CRM | Tick: 11 ====
         --- Price ---
-        218.93345460158622
+        219.23952250269963
         --- Bid Volume ---
-        0.0
+        8.0
         --- Offer Volume ---
-        0.0
+        8.0
         
-04-11-2021 21:12:01 DEBUG Agent VZ uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent VZ uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset VZ | Tick: 11 ====
         --- Price ---
         55.5099983215332
@@ -2948,8 +2948,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent V uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent V uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset V | Tick: 11 ====
         --- Price ---
         216.3800048828125
@@ -2958,18 +2958,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent WBA uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent WBA uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset WBA | Tick: 11 ====
         --- Price ---
-        48.2599983215332
+        48.28862854549128
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent WMT uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent WMT uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset WMT | Tick: 11 ====
         --- Price ---
         131.5500030517578
@@ -2978,18 +2978,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:01 DEBUG Agent DIS uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent DIS uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset DIS | Tick: 11 ====
         --- Price ---
-        191.99076719226701
+        192.21293661906392
         --- Bid Volume ---
-        0.0
+        11.0
         --- Offer Volume ---
-        0.0
+        11.0
         
-04-11-2021 21:12:01 DEBUG Agent DOW uptick to 11
-04-11-2021 21:12:01 DEBUG 
+04-13-2021 16:29:39 DEBUG Agent DOW uptick to 11
+04-13-2021 16:29:39 DEBUG 
         ==== Asset DOW | Tick: 11 ====
         --- Price ---
         61.34999847412109
@@ -2998,58 +2998,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent AXP uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent AXP uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset AXP | Tick: 12 ====
         --- Price ---
-        138.57000732421875
+        138.59042002207957
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent AMGN uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent AMGN uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset AMGN | Tick: 12 ====
         --- Price ---
-        226.7151722363839
+        226.89901229260965
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent AAPL uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent AAPL uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset AAPL | Tick: 12 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent BA uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent BA uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset BA | Tick: 12 ====
         --- Price ---
-        220.3000030517578
+        220.3998605429508
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent CAT uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent CAT uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset CAT | Tick: 12 ====
         --- Price ---
-        220.26879528557978
+        220.67557825475572
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:12:02 DEBUG Agent CSCO uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent CSCO uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset CSCO | Tick: 12 ====
         --- Price ---
         45.290000915527344
@@ -3058,28 +3058,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent CVX uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent CVX uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset CVX | Tick: 12 ====
         --- Price ---
-        101.7217025756836
+        102.07031003318629
         --- Bid Volume ---
-        0.0
+        24.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent GS uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent GS uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset GS | Tick: 12 ====
         --- Price ---
-        326.2770830855324
+        326.74604584154395
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:12:02 DEBUG Agent HD uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent HD uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset HD | Tick: 12 ====
         --- Price ---
         259.07000732421875
@@ -3088,8 +3088,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent HON uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent HON uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset HON | Tick: 12 ====
         --- Price ---
         204.41000366210935
@@ -3098,18 +3098,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent IBM uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent IBM uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset IBM | Tick: 12 ====
         --- Price ---
-        120.05999755859376
+        120.10069571375321
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:02 DEBUG Agent INTC uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent INTC uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset INTC | Tick: 12 ====
         --- Price ---
         61.81999969482422
@@ -3118,28 +3118,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent JNJ uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent JNJ uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset JNJ | Tick: 12 ====
         --- Price ---
-        161.24099731445312
+        161.2833881209752
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:02 DEBUG Agent KO uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent KO uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset KO | Tick: 12 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent JPM uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent JPM uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset JPM | Tick: 12 ====
         --- Price ---
         149.52000427246094
@@ -3148,28 +3148,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent MCD uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent MCD uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset MCD | Tick: 12 ====
         --- Price ---
-        207.76400756835935
+        207.98513810978196
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent MMM uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent MMM uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset MMM | Tick: 12 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent MRK uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent MRK uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset MRK | Tick: 12 ====
         --- Price ---
         73.25
@@ -3178,18 +3178,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent MSFT uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent MSFT uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset MSFT | Tick: 12 ====
         --- Price ---
-        235.75
+        235.76984608840448
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:02 DEBUG Agent NKE uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent NKE uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset NKE | Tick: 12 ====
         --- Price ---
         135.9600067138672
@@ -3198,48 +3198,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent PG uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent PG uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset PG | Tick: 12 ====
         --- Price ---
-        124.62000274658205
+        124.85665493134319
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent TRV uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent TRV uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset TRV | Tick: 12 ====
         --- Price ---
-        148.11733016565663
+        148.33888581791118
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:02 DEBUG Agent UNH uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent UNH uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset UNH | Tick: 12 ====
         --- Price ---
-        337.67560782495036
+        340.0681296095167
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        27.0
         
-04-11-2021 21:12:02 DEBUG Agent CRM uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent CRM uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset CRM | Tick: 12 ====
         --- Price ---
-        218.93345460158622
+        219.23952250269963
         --- Bid Volume ---
-        0.0
+        12.0
         --- Offer Volume ---
-        0.0
+        9.0
         
-04-11-2021 21:12:02 DEBUG Agent VZ uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent VZ uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset VZ | Tick: 12 ====
         --- Price ---
         55.5099983215332
@@ -3248,8 +3248,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent V uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent V uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset V | Tick: 12 ====
         --- Price ---
         216.3800048828125
@@ -3258,18 +3258,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent WBA uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent WBA uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset WBA | Tick: 12 ====
         --- Price ---
-        48.2599983215332
+        48.28862854549128
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:02 DEBUG Agent WMT uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent WMT uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset WMT | Tick: 12 ====
         --- Price ---
         131.5500030517578
@@ -3278,18 +3278,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:02 DEBUG Agent DIS uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent DIS uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset DIS | Tick: 12 ====
         --- Price ---
-        191.99076719226701
+        192.21293661906392
         --- Bid Volume ---
-        0.0
+        19.0
         --- Offer Volume ---
-        0.0
+        15.0
         
-04-11-2021 21:12:02 DEBUG Agent DOW uptick to 12
-04-11-2021 21:12:02 DEBUG 
+04-13-2021 16:29:42 DEBUG Agent DOW uptick to 12
+04-13-2021 16:29:42 DEBUG 
         ==== Asset DOW | Tick: 12 ====
         --- Price ---
         61.34999847412109
@@ -3298,58 +3298,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent AXP uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent AXP uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset AXP | Tick: 13 ====
         --- Price ---
-        138.57000732421875
+        138.59042002207957
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:03 DEBUG Agent AMGN uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent AMGN uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset AMGN | Tick: 13 ====
         --- Price ---
-        226.7151722363839
+        226.89901229260965
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        5.0
         
-04-11-2021 21:12:03 DEBUG Agent AAPL uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent AAPL uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset AAPL | Tick: 13 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:03 DEBUG Agent BA uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent BA uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset BA | Tick: 13 ====
         --- Price ---
-        220.3000030517578
+        220.3998605429508
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:03 DEBUG Agent CAT uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent CAT uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset CAT | Tick: 13 ====
         --- Price ---
-        220.26879528557978
+        220.56121235191546
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        6.0
         
-04-11-2021 21:12:03 DEBUG Agent CSCO uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent CSCO uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset CSCO | Tick: 13 ====
         --- Price ---
         45.290000915527344
@@ -3358,28 +3358,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent CVX uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent CVX uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset CVX | Tick: 13 ====
         --- Price ---
-        101.7217025756836
+        102.90696793119278
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        23.0
         
-04-11-2021 21:12:03 DEBUG Agent GS uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent GS uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset GS | Tick: 13 ====
         --- Price ---
-        326.2770830855324
+        326.6483721449715
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        9.0
         
-04-11-2021 21:12:03 DEBUG Agent HD uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent HD uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset HD | Tick: 13 ====
         --- Price ---
         259.07000732421875
@@ -3388,8 +3388,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent HON uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent HON uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset HON | Tick: 13 ====
         --- Price ---
         204.41000366210935
@@ -3398,18 +3398,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent IBM uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent IBM uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset IBM | Tick: 13 ====
         --- Price ---
-        120.05999755859376
+        120.12104479133293
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent INTC uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent INTC uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset INTC | Tick: 13 ====
         --- Price ---
         61.81999969482422
@@ -3418,28 +3418,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent JNJ uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent JNJ uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset JNJ | Tick: 13 ====
         --- Price ---
-        161.24099731445312
+        161.30458352423625
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent KO uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent KO uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset KO | Tick: 13 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:03 DEBUG Agent JPM uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent JPM uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset JPM | Tick: 13 ====
         --- Price ---
         149.52000427246094
@@ -3448,28 +3448,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent MCD uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent MCD uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset MCD | Tick: 13 ====
         --- Price ---
-        207.76400756835935
+        207.98513810978196
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:12:03 DEBUG Agent MMM uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent MMM uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset MMM | Tick: 13 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:12:03 DEBUG Agent MRK uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent MRK uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset MRK | Tick: 13 ====
         --- Price ---
         73.25
@@ -3478,18 +3478,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent MSFT uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent MSFT uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset MSFT | Tick: 13 ====
         --- Price ---
-        235.75
+        235.77976913260673
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent NKE uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent NKE uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset NKE | Tick: 13 ====
         --- Price ---
         135.9600067138672
@@ -3498,48 +3498,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent PG uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent PG uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset PG | Tick: 13 ====
         --- Price ---
-        124.62000274658205
+        124.85665493134319
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:12:03 DEBUG Agent TRV uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent TRV uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset TRV | Tick: 13 ====
         --- Price ---
-        148.11733016565663
+        148.33888581791118
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        7.0
         
-04-11-2021 21:12:03 DEBUG Agent UNH uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent UNH uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset UNH | Tick: 13 ====
         --- Price ---
-        337.67560782495036
+        339.11971573517536
         --- Bid Volume ---
-        0.0
+        10.0
         --- Offer Volume ---
-        0.0
+        23.0
         
-04-11-2021 21:12:03 DEBUG Agent CRM uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent CRM uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset CRM | Tick: 13 ====
         --- Price ---
-        218.93345460158622
+        219.28446220518552
         --- Bid Volume ---
-        0.0
+        9.0
         --- Offer Volume ---
-        0.0
+        5.0
         
-04-11-2021 21:12:03 DEBUG Agent VZ uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent VZ uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset VZ | Tick: 13 ====
         --- Price ---
         55.5099983215332
@@ -3548,8 +3548,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent V uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent V uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset V | Tick: 13 ====
         --- Price ---
         216.3800048828125
@@ -3558,18 +3558,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent WBA uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent WBA uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset WBA | Tick: 13 ====
         --- Price ---
         48.2599983215332
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent WMT uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent WMT uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset WMT | Tick: 13 ====
         --- Price ---
         131.5500030517578
@@ -3578,18 +3578,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:03 DEBUG Agent DIS uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent DIS uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset DIS | Tick: 13 ====
         --- Price ---
-        191.99076719226701
+        192.23781489290454
         --- Bid Volume ---
-        0.0
+        15.0
         --- Offer Volume ---
-        0.0
+        8.0
         
-04-11-2021 21:12:03 DEBUG Agent DOW uptick to 13
-04-11-2021 21:12:03 DEBUG 
+04-13-2021 16:29:46 DEBUG Agent DOW uptick to 13
+04-13-2021 16:29:46 DEBUG 
         ==== Asset DOW | Tick: 13 ====
         --- Price ---
         61.34999847412109
@@ -3598,58 +3598,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent AXP uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent AXP uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset AXP | Tick: 14 ====
         --- Price ---
-        138.57000732421875
+        138.576811556839
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:04 DEBUG Agent AMGN uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent AMGN uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset AMGN | Tick: 14 ====
         --- Price ---
-        226.7151722363839
+        226.76838113560754
         --- Bid Volume ---
-        0.0
+        10.0
         --- Offer Volume ---
-        0.0
+        3.0
         
-04-11-2021 21:12:04 DEBUG Agent AAPL uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent AAPL uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset AAPL | Tick: 14 ====
         --- Price ---
         123.6999969482422
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent BA uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent BA uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset BA | Tick: 14 ====
         --- Price ---
-        220.3000030517578
+        220.34993179735432
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:04 DEBUG Agent CAT uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent CAT uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset CAT | Tick: 14 ====
         --- Price ---
-        220.26879528557978
+        220.33248054623493
         --- Bid Volume ---
-        0.0
+        17.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:12:04 DEBUG Agent CSCO uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent CSCO uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset CSCO | Tick: 14 ====
         --- Price ---
         45.290000915527344
@@ -3658,28 +3658,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent CVX uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent CVX uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset CVX | Tick: 14 ====
         --- Price ---
-        101.7217025756836
+        102.10517077893655
         --- Bid Volume ---
-        0.0
+        19.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent GS uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent GS uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset GS | Tick: 14 ====
         --- Price ---
-        326.2770830855324
+        326.35535105525423
         --- Bid Volume ---
-        0.0
+        24.0
         --- Offer Volume ---
-        0.0
+        6.0
         
-04-11-2021 21:12:04 DEBUG Agent HD uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent HD uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset HD | Tick: 14 ====
         --- Price ---
         259.07000732421875
@@ -3688,8 +3688,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent HON uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent HON uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset HON | Tick: 14 ====
         --- Price ---
         204.41000366210935
@@ -3698,18 +3698,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent IBM uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent IBM uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset IBM | Tick: 14 ====
         --- Price ---
-        120.05999755859376
+        120.14139386891266
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:04 DEBUG Agent INTC uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent INTC uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset INTC | Tick: 14 ====
         --- Price ---
         61.81999969482422
@@ -3718,28 +3718,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent JNJ uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent JNJ uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset JNJ | Tick: 14 ====
         --- Price ---
-        161.24099731445312
+        161.3257789274973
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:04 DEBUG Agent KO uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent KO uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset KO | Tick: 14 ====
         --- Price ---
         49.65999984741211
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent JPM uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent JPM uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset JPM | Tick: 14 ====
         --- Price ---
         149.52000427246094
@@ -3748,28 +3748,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent MCD uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent MCD uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset MCD | Tick: 14 ====
         --- Price ---
-        207.76400756835935
+        207.85245978492839
         --- Bid Volume ---
-        0.0
+        8.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:04 DEBUG Agent MMM uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent MMM uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset MMM | Tick: 14 ====
         --- Price ---
-        176.2657012939453
+        176.2925362437511
         --- Bid Volume ---
-        0.0
+        5.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:04 DEBUG Agent MRK uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent MRK uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset MRK | Tick: 14 ====
         --- Price ---
         73.25
@@ -3778,18 +3778,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent MSFT uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent MSFT uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset MSFT | Tick: 14 ====
         --- Price ---
-        235.75
+        235.78969217680898
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:04 DEBUG Agent NKE uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent NKE uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset NKE | Tick: 14 ====
         --- Price ---
         135.9600067138672
@@ -3798,48 +3798,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent PG uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent PG uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset PG | Tick: 14 ====
         --- Price ---
-        124.62000274658205
+        124.71466362048649
         --- Bid Volume ---
-        0.0
+        7.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:04 DEBUG Agent TRV uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent TRV uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset TRV | Tick: 14 ====
         --- Price ---
-        148.11733016565663
+        148.13596119807923
         --- Bid Volume ---
-        0.0
+        17.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:12:04 DEBUG Agent UNH uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent UNH uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset UNH | Tick: 14 ====
         --- Price ---
-        337.67560782495036
+        338.6059915532405
         --- Bid Volume ---
-        0.0
+        50.0
         --- Offer Volume ---
-        0.0
+        24.0
         
-04-11-2021 21:12:04 DEBUG Agent CRM uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent CRM uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset CRM | Tick: 14 ====
         --- Price ---
-        218.93345460158622
+        219.34438180850003
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        15.0
         
-04-11-2021 21:12:04 DEBUG Agent VZ uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent VZ uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset VZ | Tick: 14 ====
         --- Price ---
         55.5099983215332
@@ -3848,8 +3848,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent V uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent V uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset V | Tick: 14 ====
         --- Price ---
         216.3800048828125
@@ -3858,18 +3858,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent WBA uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent WBA uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset WBA | Tick: 14 ====
         --- Price ---
-        48.2599983215332
+        48.31725876944935
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:04 DEBUG Agent WMT uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent WMT uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset WMT | Tick: 14 ====
         --- Price ---
         131.5500030517578
@@ -3878,18 +3878,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:04 DEBUG Agent DIS uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent DIS uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset DIS | Tick: 14 ====
         --- Price ---
-        191.99076719226701
+        192.2813518721256
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        24.0
         
-04-11-2021 21:12:04 DEBUG Agent DOW uptick to 14
-04-11-2021 21:12:04 DEBUG 
+04-13-2021 16:29:49 DEBUG Agent DOW uptick to 14
+04-13-2021 16:29:49 DEBUG 
         ==== Asset DOW | Tick: 14 ====
         --- Price ---
         61.34999847412109
@@ -3898,58 +3898,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent AXP uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent AXP uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset AXP | Tick: 15 ====
         --- Price ---
-        138.57000732421875
+        138.59722425469985
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:05 DEBUG Agent AMGN uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent AMGN uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset AMGN | Tick: 15 ====
         --- Price ---
-        226.7151722363839
+        226.9512647554105
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
-        0.0
+        5.0
         
-04-11-2021 21:12:05 DEBUG Agent AAPL uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent AAPL uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset AAPL | Tick: 15 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent BA uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent BA uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset BA | Tick: 15 ====
         --- Price ---
-        220.3000030517578
+        220.3998605429508
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:05 DEBUG Agent CAT uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent CAT uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset CAT | Tick: 15 ====
         --- Price ---
-        220.26879528557978
+        220.8280661252094
         --- Bid Volume ---
-        0.0
+        5.0
         --- Offer Volume ---
-        0.0
+        11.0
         
-04-11-2021 21:12:05 DEBUG Agent CSCO uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent CSCO uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset CSCO | Tick: 15 ====
         --- Price ---
         45.290000915527344
@@ -3958,28 +3958,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent CVX uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent CVX uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset CVX | Tick: 15 ====
         --- Price ---
-        101.7217025756836
+        102.76752494819169
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
-        0.0
+        20.0
         
-04-11-2021 21:12:05 DEBUG Agent GS uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent GS uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset GS | Tick: 15 ====
         --- Price ---
-        326.2770830855324
+        326.94139323468886
         --- Bid Volume ---
-        0.0
+        7.0
         --- Offer Volume ---
-        0.0
+        16.0
         
-04-11-2021 21:12:05 DEBUG Agent HD uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent HD uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset HD | Tick: 15 ====
         --- Price ---
         259.07000732421875
@@ -3988,8 +3988,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent HON uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent HON uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset HON | Tick: 15 ====
         --- Price ---
         204.41000366210935
@@ -3998,18 +3998,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent IBM uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent IBM uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset IBM | Tick: 15 ====
         --- Price ---
-        120.05999755859376
+        120.10069571375321
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:05 DEBUG Agent INTC uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent INTC uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset INTC | Tick: 15 ====
         --- Price ---
         61.81999969482422
@@ -4018,28 +4018,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent JNJ uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent JNJ uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset JNJ | Tick: 15 ====
         --- Price ---
-        161.24099731445312
+        161.28338812097522
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:05 DEBUG Agent KO uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent KO uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset KO | Tick: 15 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent JPM uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent JPM uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset JPM | Tick: 15 ====
         --- Price ---
         149.52000427246094
@@ -4048,28 +4048,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent MCD uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent MCD uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset MCD | Tick: 15 ====
         --- Price ---
-        207.76400756835935
+        208.11781643463556
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        5.0
         
-04-11-2021 21:12:05 DEBUG Agent MMM uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent MMM uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset MMM | Tick: 15 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:05 DEBUG Agent MRK uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent MRK uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset MRK | Tick: 15 ====
         --- Price ---
         73.25
@@ -4078,18 +4078,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent MSFT uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent MSFT uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset MSFT | Tick: 15 ====
         --- Price ---
-        235.75
+        235.76984608840448
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
-        0.0
+        2.0
         
-04-11-2021 21:12:05 DEBUG Agent NKE uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent NKE uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset NKE | Tick: 15 ====
         --- Price ---
         135.9600067138672
@@ -4098,48 +4098,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent PG uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent PG uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset PG | Tick: 15 ====
         --- Price ---
-        124.62000274658205
+        124.95131580524765
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
-        0.0
+        4.0
         
-04-11-2021 21:12:05 DEBUG Agent TRV uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent TRV uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset TRV | Tick: 15 ====
         --- Price ---
-        148.11733016565663
+        148.51282120633857
         --- Bid Volume ---
-        0.0
+        5.0
         --- Offer Volume ---
-        0.0
+        11.0
         
-04-11-2021 21:12:05 DEBUG Agent UNH uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent UNH uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset UNH | Tick: 15 ====
         --- Price ---
-        337.67560782495036
+        339.6334399171102
         --- Bid Volume ---
-        0.0
+        18.0
         --- Offer Volume ---
-        0.0
+        31.0
         
-04-11-2021 21:12:05 DEBUG Agent CRM uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent CRM uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset CRM | Tick: 15 ====
         --- Price ---
-        218.93345460158622
+        219.14964309772785
         --- Bid Volume ---
-        0.0
+        13.0
         --- Offer Volume ---
-        0.0
+        7.0
         
-04-11-2021 21:12:05 DEBUG Agent VZ uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent VZ uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset VZ | Tick: 15 ====
         --- Price ---
         55.5099983215332
@@ -4148,8 +4148,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent V uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent V uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset V | Tick: 15 ====
         --- Price ---
         216.3800048828125
@@ -4158,8 +4158,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent WBA uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent WBA uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset WBA | Tick: 15 ====
         --- Price ---
         48.2599983215332
@@ -4168,8 +4168,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent WMT uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent WMT uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset WMT | Tick: 15 ====
         --- Price ---
         131.5500030517578
@@ -4178,18 +4178,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:05 DEBUG Agent DIS uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent DIS uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset DIS | Tick: 15 ====
         --- Price ---
-        191.99076719226701
+        192.15074093446236
         --- Bid Volume ---
-        0.0
+        16.0
         --- Offer Volume ---
-        0.0
+        14.0
         
-04-11-2021 21:12:05 DEBUG Agent DOW uptick to 15
-04-11-2021 21:12:05 DEBUG 
+04-13-2021 16:29:53 DEBUG Agent DOW uptick to 15
+04-13-2021 16:29:53 DEBUG 
         ==== Asset DOW | Tick: 15 ====
         --- Price ---
         61.34999847412109
@@ -4198,58 +4198,58 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent AXP uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent AXP uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset AXP | Tick: 16 ====
         --- Price ---
-        138.57000732421875
+        138.59042002207957
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent AMGN uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent AMGN uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset AMGN | Tick: 16 ====
         --- Price ---
-        226.7151722363839
+        226.89901229260965
         --- Bid Volume ---
-        0.0
+        3.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent AAPL uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent AAPL uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset AAPL | Tick: 16 ====
         --- Price ---
-        123.6999969482422
+        123.7178323551832
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent BA uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent BA uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset BA | Tick: 16 ====
         --- Price ---
-        220.3000030517578
+        220.3998605429508
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent CAT uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent CAT uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset CAT | Tick: 16 ====
         --- Price ---
-        220.26879528557978
+        220.59933431952888
         --- Bid Volume ---
-        0.0
+        10.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:06 DEBUG Agent CSCO uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent CSCO uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset CSCO | Tick: 16 ====
         --- Price ---
         45.290000915527344
@@ -4258,28 +4258,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent CVX uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent CVX uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset CVX | Tick: 16 ====
         --- Price ---
-        101.7217025756836
+        102.07031003318627
         --- Bid Volume ---
-        0.0
+        26.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:06 DEBUG Agent GS uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent GS uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset GS | Tick: 16 ====
         --- Price ---
-        326.2770830855324
+        326.6483721449716
         --- Bid Volume ---
-        0.0
+        17.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:06 DEBUG Agent HD uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent HD uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset HD | Tick: 16 ====
         --- Price ---
         259.07000732421875
@@ -4288,8 +4288,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent HON uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent HON uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset HON | Tick: 16 ====
         --- Price ---
         204.41000366210935
@@ -4298,18 +4298,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent IBM uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent IBM uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset IBM | Tick: 16 ====
         --- Price ---
-        120.05999755859376
+        120.08034663617349
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent INTC uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent INTC uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset INTC | Tick: 16 ====
         --- Price ---
         61.81999969482422
@@ -4318,28 +4318,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent JNJ uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent JNJ uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset JNJ | Tick: 16 ====
         --- Price ---
-        161.24099731445312
+        161.26219271771416
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent KO uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent KO uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset KO | Tick: 16 ====
         --- Price ---
-        49.65999984741211
+        49.67173005434055
         --- Bid Volume ---
         0.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent JPM uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent JPM uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset JPM | Tick: 16 ====
         --- Price ---
         149.52000427246094
@@ -4348,28 +4348,28 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent MCD uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent MCD uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset MCD | Tick: 16 ====
         --- Price ---
-        207.76400756835935
+        207.98513810978199
         --- Bid Volume ---
-        0.0
+        4.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent MMM uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent MMM uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset MMM | Tick: 16 ====
         --- Price ---
-        176.2657012939453
+        176.3327886684598
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent MRK uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent MRK uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset MRK | Tick: 16 ====
         --- Price ---
         73.25
@@ -4378,18 +4378,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent MSFT uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent MSFT uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset MSFT | Tick: 16 ====
         --- Price ---
-        235.75
+        235.75992304420222
         --- Bid Volume ---
-        0.0
+        2.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent NKE uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent NKE uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset NKE | Tick: 16 ====
         --- Price ---
         135.9600067138672
@@ -4398,48 +4398,48 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent PG uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent PG uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset PG | Tick: 16 ====
         --- Price ---
-        124.62000274658205
+        124.85665493134319
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent TRV uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent TRV uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset TRV | Tick: 16 ====
         --- Price ---
-        148.11733016565663
+        148.33888581791118
         --- Bid Volume ---
-        0.0
+        9.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent UNH uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent UNH uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset UNH | Tick: 16 ====
         --- Price ---
-        337.67560782495036
+        339.1197157351753
         --- Bid Volume ---
-        0.0
+        32.0
         --- Offer Volume ---
-        0.0
+        1.0
         
-04-11-2021 21:12:06 DEBUG Agent CRM uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent CRM uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset CRM | Tick: 16 ====
         --- Price ---
-        218.93345460158622
+        219.23952250269963
         --- Bid Volume ---
-        0.0
+        8.0
         --- Offer Volume ---
-        0.0
+        11.0
         
-04-11-2021 21:12:06 DEBUG Agent VZ uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent VZ uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset VZ | Tick: 16 ====
         --- Price ---
         55.5099983215332
@@ -4448,8 +4448,8 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent V uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent V uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset V | Tick: 16 ====
         --- Price ---
         216.3800048828125
@@ -4458,18 +4458,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent WBA uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent WBA uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset WBA | Tick: 16 ====
         --- Price ---
         48.2599983215332
         --- Bid Volume ---
-        0.0
+        1.0
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent WMT uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent WMT uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset WMT | Tick: 16 ====
         --- Price ---
         131.5500030517578
@@ -4478,18 +4478,18 @@
         --- Offer Volume ---
         0.0
         
-04-11-2021 21:12:06 DEBUG Agent DIS uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent DIS uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset DIS | Tick: 16 ====
         --- Price ---
-        191.99076719226701
+        192.16318007138267
         --- Bid Volume ---
-        0.0
+        17.0
         --- Offer Volume ---
-        0.0
+        13.0
         
-04-11-2021 21:12:06 DEBUG Agent DOW uptick to 16
-04-11-2021 21:12:06 DEBUG 
+04-13-2021 16:29:56 DEBUG Agent DOW uptick to 16
+04-13-2021 16:29:56 DEBUG 
         ==== Asset DOW | Tick: 16 ====
         --- Price ---
         61.34999847412109

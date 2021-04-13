@@ -3,7 +3,7 @@ from .asset import Asset
 
 import pandas as pd
 import random
-
+from copy import deepcopy
 
 class Market:
     def __init__(self,asset_range=None,agent_range=None):
@@ -65,3 +65,9 @@ class Market:
 
         for asset in self.asset_dict:
             self.asset_dict[asset].uptick(self.params)
+
+        # Log Params to File
+        working_params = deepcopy(self.params)
+
+        working_params = working_params.to_frame().T
+        working_params.to_csv('./model_data/params.csv',header=False,mode='a')

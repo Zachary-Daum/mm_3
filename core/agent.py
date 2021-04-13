@@ -134,19 +134,41 @@ class Agent:
 
     @staticmethod
     def calc_optimal_shares(expected_returns=None, risk_aversion=None, returns_variance=None):
-        optimal_shares = math.floor( expected_returns / ( risk_aversion * returns_variance ) ) # TESTING
+
+        optimal_shares = math.floor( 10 * expected_returns / ( risk_aversion * returns_variance ) ) # TESTING
         return optimal_shares if optimal_shares > 0 else 0
      
-    def calc_wealth(self, asset_dict=None):
-        '''This function is necessary for calculating the return on wealth for the eval_type() funciton.'''
-        sum = 0
-        for asset in self.vars.at[self.tick,'holdings']:
-            # Sum of the value of all holdings
-            sum += self.vars.at[self.tick,'holdings'][asset] * asset_dict[asset].vars.at[self.tick,'price']
+    def calc_change_in_wealth(self,asset_dict):
+        '''Gives the rate of the change of wealth'''
+        # Wealth Before
+        wealth1 = self.vars.at[self.tick-1,'cash']
 
-        wealth = self.cash + sum
-        return wealth
-        
+        for asset in asset_dict :
+            wealth1 += self.vars.at[self.tick-1,'holdings'][asset] * asset_dict[asset].vars.at[self.tick-1,'price']
+
+        # Wealth Now
+        wealth2 = self.vars.at[self.tick,'cash']
+        for asset in asset_dict:
+            wealth2 += self.vars.at[self.tick,'holdings'][asset] * asset_dict[asset].vars.at[self.tick,'price']
+
+        change_in_wealth = wealth2 / wealth1
+        return change_in_wealth
+
+    def eval_type(self,type_change_proclivity):
+        probabilities = {0:0,1:0,2:0}
+
+        total = 0
+        for type in agent_types:
+            temp_score = agent_types[type].score
+
+            total += math.exp( temp_score * type_change_proclivity)
+
+
+        for type in agent_types:
+            probabilities[type] = math.exp(( type_change_proclivity * agent_types[type].score )) / ( total )
+
+        choice = random.choices(list(probabilities.keys()) , weights=list(probabilities.values()))
+        return choice[0]
     # === Functions === #
     def init_ops(self,asset_dict=None):
         for asset in asset_dict:
@@ -191,8 +213,13 @@ class Agent:
 
         # - Update self.vars DF - #
         cash = self.vars.at[self.tick,'cash'] # Temporary
+
+        next_type = self.eval_type(
+            type_change_proclivity = self.params.at['type_change_proclivity']
+        )
         
-        self.vars = self.vars.append({'type':self.vars.at[self.tick-1,'type'],'cash':cash,'holdings':holdings}, ignore_index=True)
+        self.vars = self.vars.append({'type':next_type,'cash':cash,'holdings':holdings}, ignore_index=True)
+
 
     def run(self,params=None,asset_dict=None):
         for asset in asset_dict:
@@ -301,20 +328,12 @@ class Agent:
         # * No fractional orders allowed. (We'll just round down)
         # * Make sure orders go towards the .vars DF for each asset
         for asset in asset_dict:
-            if self.vars.at[self.tick,'holdings'][asset] < self.ops.at[self.tick,'optimal_shares'][asset]:
+            current_holdings = self.vars.at[self.tick,'holdings'][asset]
+            optimal_holdings = self.ops.at[self.tick,'optimal_shares'][asset]
+
+            if current_holdings < optimal_holdings:
                 # Buy
                 order_size = math.floor( self.ops.at[self.tick,'optimal_shares'][asset] - self.vars.at[self.tick,'holdings'][asset] )
-
-                order_price = order_size * asset_dict[asset].price
-
-                '''if order_price > self.cash:
-                    # Not enough money
-                    order_size = math.floor( self.cash / asset_dict[asset].price )
-
-                    order_price = order_size * asset_dict[asset].price''' # TESTING
-
-                # Change cash levels 
-                # self.vars.at[self.tick,'cash'] -= order_price TESTING
 
                 # Change Holdings
                 self.vars.at[self.tick,'holdings'][asset] += order_size
@@ -324,7 +343,7 @@ class Agent:
 
                 order_book.info(f'Tick {self.tick}: Agent {self.name} [{self.type}] bought {order_size} shares of {asset}.')
 
-            elif self.vars.at[self.tick,'holdings'][asset] > self.ops.at[self.tick,'optimal_shares'][asset]:
+            elif current_holdings >optimal_holdings:
                 # Sell
                 order_size = math.floor( self.vars.at[self.tick,'holdings'][asset] - self.ops.at[self.tick,'optimal_shares'][asset] )
 
@@ -363,4 +382,8 @@ class Agent:
         """)
 
         # Append chage in wealth to type
+        change_in_wealth = self.calc_change_in_wealth(asset_dict)
 
+        working_type = agent_types[self.type]
+        working_type.historical_returns.append(change_in_wealth)
+        agent_types[self.type].calc_score()

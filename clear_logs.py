@@ -6,5 +6,9 @@ def clr_logs():
         open(log,'w').close()
 
 
+def clear_data():
+    open('./model_data/params.csv','w').close
+
+
 if __name__ == "__main__":
     clr_logs()

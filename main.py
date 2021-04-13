@@ -9,7 +9,7 @@ from copy import deepcopy
 import pandas as pd
 
 # Clear Logs Before Running
-from clear_logs import clr_logs
+from clear_logs import clear_data, clr_logs
 
 logging = Logger('main','./logs/market.LOG')
 model_log = Logger('model','./logs/model.LOG')
@@ -47,7 +47,7 @@ def gradient(args=None):
     # Return slope of cost function dy/dx
     return (working_param ,( param_up_mse - param_down_mse ) / dx) # Return tuple of ([working_param],[slope])
 
-def train(model=None, learn_rate=10e-6, n_iter=5, adj_factor=0.05):
+def train(model=None, learn_rate=2.5*10e-5, n_iter=5, adj_factor=0.05):
     # - Run Iterations - #
     for _ in range(n_iter):
         model_log.info(f'\n==== Initial Params ====\n{model.params}\n')
@@ -102,6 +102,7 @@ def test(model=None, n_iter=10):
 if __name__ == "__main__":
     # Clear Logs before running
     clr_logs()
+    clear_data()
 
     '''Create Market'''
     simulation = Market(assets,agents)

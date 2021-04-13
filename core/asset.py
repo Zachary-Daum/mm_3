@@ -32,22 +32,6 @@ class Asset:
         '''Only called so set new price on upticks'''
         self.vars.at[self.tick+1,'price'] = new_price
 
-    @property
-    def bid_volume(self,tick=None):
-        return self.vars.at[self.tick,'bid_volume'] if tick==None else self.var.at[tick,'bid_volume']
-
-    def update_bid_volume(self,size):
-        '''Only called after upticks, when running make changes to self._bid_volume'''
-        self.vars.at[self.tick,'bid_volume'] += size
-
-    @property
-    def offer_volume(self,tick=None):
-        return self.vars.at[self.tick,'offer_volume'] if tick==None else self.var.at[tick,'offer_volume']
-
-    def update_offer_volume(self,size):
-        '''Only called after upticks, when running make changes to self._offer_volume'''
-        self.vars.at[self.tick,'offer_volume'] += size
-
     # === Calculations === #
     def adjust_price(self, price_change_factor=None, bid_volume=None, offer_volume=None):
         return self.price + ( price_change_factor * (bid_volume - offer_volume) )
